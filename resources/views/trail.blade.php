@@ -1,5 +1,5 @@
 @include('layout.header')
-Welcome
+
 <body class="page-opt-nocalc page basicpage">
     <div class="home-page-layout cm-page-container">
         <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
