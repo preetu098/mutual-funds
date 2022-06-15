@@ -1,10 +1,10 @@
 @include('layout.header')
 
 <body class="page-opt-nocalc page basicpage">
-    <div class="home-page-layout cm-page-container">
+    <div class="home-page-layout cm-page-container" style="height:300px">
         <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
             <div class="row">
-                <div class="col-lg-9">
+                <div class="col-lg-12">
                     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                         <ol class="carousel-indicators">
                             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -15,7 +15,7 @@
                         <div class="carousel-item active">
                                 <img class="d-block w-100"
                                     src="assets/images/banner1.jpg"
-                                    alt="First slide">
+                                    alt="First slide" style="height:300px">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>...</h5>
                                     <p>...</p>
@@ -24,12 +24,12 @@
                             <div class="carousel-item">
                                 <img class="d-block w-100"
                                     src="assets/images/banner2.jpg"
-                                    alt="Second slide">
+                                    alt="Second slide" style="height:300px">
                             </div>
                             <div class="carousel-item">
                                 <img class="d-block w-100"
                                     src="assets/images/banner3.jpg"
-                                    alt="Third slide">
+                                    alt="Third slide" style="height:300px">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>...</h5>
                                     <p>...</p>
@@ -50,7 +50,7 @@
                 </div>
 
                 </section>
-                 <div class="col-lg-3">
+                 <!-- <div class="col-lg-3" style="height:400px">
                     <form style="    padding: 25px;">
                         <div class="form-group">
                             <label for="exampleInputEmail1">Email address</label>
@@ -70,7 +70,7 @@
                         </div>
                         <button type="submit" class="btn btn-primary">Submit</button>
                     </form>
-                </div> 
+                </div>  -->
 
             </div>
 
@@ -334,15 +334,14 @@
     <!-- End lw-tab -->
     <!-- Start section Process -->
     <center>
-    <section class="section-padding" style="height:500px;">
+    <section class="section-padding" style="height:400px">
         <div class="overlay overlay-bg-black"></div>
         <div class="container">
         <h3 class="text-custom-black fw-700">
             Tools and Calculators</h3>
-                    <p>https://www.mutualfundssahihai.com/en/calculators</p>
-            <div class="row" >
-                
+                   
             </div>
+</div>
         </div>
     </section>
 </center>
