@@ -1,5 +1,5 @@
 @include('layout.header')
-
+<h1>Welcome in a Pratibha</h1>
 <body class="page-opt-nocalc page basicpage">
     <div class="home-page-layout cm-page-container" style="height:300px">
         <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
