@@ -4,7 +4,7 @@
     <div class="home-page-layout cm-page-container">
         <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-9">
                     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                         <ol class="carousel-indicators">
                             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -50,7 +50,7 @@
                 </div>
 
                 </section>
-                <!-- <div class="col-lg-3">
+                 <div class="col-lg-3">
                     <form style="    padding: 25px;">
                         <div class="form-group">
                             <label for="exampleInputEmail1">Email address</label>
@@ -70,7 +70,7 @@
                         </div>
                         <button type="submit" class="btn btn-primary">Submit</button>
                     </form>
-                </div> -->
+                </div> 
 
             </div>
 
@@ -93,9 +93,10 @@
                             <div class="team-block p-relative">
                                 <div class="inner-box">
                                     <div class="lower-content p-relative text-center">
-                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Eachann
-                                                Jhon</a></h4>
-                                        <p class="designation text-light-white">Loan Advisor</p>
+                                        <center>
+                                        <img src="https://cdn-icons.flaticon.com/png/512/2544/premium/2544056.png?token=exp=1655266205~hmac=f9c2ecfff8a499186ee6cb34fd75ff20" style="height:70px"/>
+                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Home Loan</a></h4>
+</center>
                                     </div>
 
                                 </div>
@@ -105,9 +106,10 @@
                             <div class="team-block p-relative">
                                 <div class="inner-box">
                                     <div class="lower-content p-relative text-center">
-                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20"> Addison
-                                                Smith</a></h4>
-                                        <p class="designation text-light-white">Business Loan Advisor</p>
+                                    <center>
+                                    <img src="https://cdn-icons-png.flaticon.com/512/2910/2910299.png" style="height:70px"/>
+                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20"> Mutual Fund</a></h4>
+                                    </center>
                                     </div>
                                 </div>
                             </div>
@@ -116,9 +118,10 @@
                             <div class="team-block p-relative">
                                 <div class="inner-box">
                                     <div class="lower-content p-relative text-center">
-                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20"> Sarah
-                                                Taylor</a></h4>
-                                        <p class="designation text-light-white">Loan Advisor </p>
+                                    <center>
+                                    <img src="https://cdn-icons-png.flaticon.com/512/846/846043.png" style="height:70px"/>
+                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Investment</a></h4>
+                                    </center>
                                     </div>
                                 </div>
                             </div>
@@ -127,9 +130,11 @@
                             <div class="team-block p-relative">
                                 <div class="inner-box">
                                     <div class="lower-content p-relative text-center">
-                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20"> Aiken
-                                                Ward</a></h4>
-                                        <p class="designation text-light-white">Corporate Loan Advisor</p>
+                                    <center>
+                                    <img src="https://cdn-icons.flaticon.com/png/512/3146/premium/3146444.png?token=exp=1655266458~hmac=9bb5138a5c8546bd639f0ee743d1d7a2" style="height:70px"/>
+                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Loan</a></h4>
+                                    </center>
+                                     
                                     </div>
                                 </div>
                             </div>
@@ -138,9 +143,10 @@
                             <div class="team-block p-relative">
                                 <div class="inner-box">
                                     <div class="lower-content p-relative text-center">
-                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Babatunde
-                                                Jon</a></h4>
-                                        <p class="designation text-light-white">Home Loan Advisor</p>
+                                    <center>
+                                    <img src="https://cdn-icons-png.flaticon.com/512/4207/4207247.png" style="height:70px"/>
+                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Academic</a></h4>
+                                    </center>
                                     </div>
                                 </div>
                             </div>
@@ -159,23 +165,23 @@
                     <div class="lw-mega-tab">
                         <ul class="nav lw-nav-tabs">
                             <li class="nav-item"> <a href="#LOANLY-1" class="nav-link active" data-toggle="tab">
-                                    Most Popular
+                                   INVESTMENT
                                 </a>
                             </li>
                             <li class="nav-item"> <a href="#LOANLY-2" class="nav-link" data-toggle="tab">
-                                    Highest Bonus
+                                    INSURANCE
                                 </a>
                             </li>
                             <li class="nav-item"> <a href="#LOANLY-3" class="nav-link" data-toggle="tab">
-                                    Most Popular
+                                   TRADITIONAL INVESTMENT
                                 </a>
                             </li>
                             <li class="nav-item"> <a href="#LOANLY-4" class="nav-link" data-toggle="tab">
-                                    Highest Bonus
+                                    LOANS
                                 </a>
                             </li>
                             <li class="nav-item"> <a href="#LOANLY-5" class="nav-link" data-toggle="tab">
-                                    Most Popular
+                                   HF Academy
                                 </a>
                             </li>
                         </ul>
@@ -184,68 +190,22 @@
                                 <div class="table-responsive">
                                     <table class="lw-tab-table">
                                         <tr class="lw-table-row-1">
-                                            <th>Rank</th>
-                                            <th>Agencies</th>
-                                            <th>Bonus</th>
-                                            <th>Features</th>
-                                            <th>Free Plans</th>
-                                            <th>Rating</th>
-                                            <th>Get it</th>
+                                            <th>PRE_IPO</th>
+                                            <th>Mutual Fund</th>
+                                            <th>PMS</th>
+                                            <th colspan="2">Alternative Investment Fund</th>
+                                            <th>FD</th>
+                                            <th>BOUNDS</th>
+                                            
                                         </tr>
                                         <tr>
-                                            <td class="lw-table-data-1">1</td>
-                                            <td class="lw-table-data-2">
-                                                <img src="assets1/images/rank1.png" alt="img">
+                                        <td class="lw-table-data-3 choose-btn" colspan="3"> 
+                                            <center>
+                                                <img src="https://cdn-icons.flaticon.com/png/512/5564/premium/5564318.png?token=exp=1655266869~hmac=8635fc511c0dfa9973c68cf78a407a81" style="height:70px"/>
+                                            </center>
                                             </td>
-                                            <td class="lw-table-data-3">
-                                                <ul>
-                                                    <li> <strong>$100 Bonus</strong>
-                                                    </li>
-                                                    <li> <span>
-                                                            100% up to $100
-                                                        </span>
-                                                    </li>
-                                                </ul>
-                                            </td>
-                                            <td class="lw-table-data-4">
-                                                <ul>
-                                                    <li> <span>
-                                                            <i class="fas fa-check"></i>
-                                                        </span>
-                                                        $100 free Plan</li>
-                                                    <li> <span>
-                                                            <i class="fas fa-check"></i>
-                                                        </span>
-                                                        $220 Monthly Plan</li>
-                                                </ul>
-                                            </td>
-                                            <td class="lw-table-data-3">
-                                                <ul>
-                                                    <li> <strong>10 Free Plans</strong>
-                                                    </li>
-                                                    <li> <span>
-                                                            with no Desopits
-                                                        </span>
-                                                    </li>
-                                                </ul>
-                                            </td>
-                                            <td class="lw-table-data-3 company-rating"> <span
-                                                    class="rating-number">5/5</span>
-                                                <div class="ratings"> <span class="text-custom-yellow"><i
-                                                            class="fa fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fa fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fa fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fa fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fa fa-star"></i></span>
-                                                </div>
-                                            </td>
-                                            <td class="lw-table-data-3 choose-btn"> <a href="#"
-                                                    class="btn-first btn-submit-fill">Choose</a>
-                                                <a href="#" class="Loan-content">T&C Apply</a>
+                                            <td class="lw-table-data-3 choose-btn"> 
+    <p>An investment always concerns the outlay of some capital today—time, effort, money etc..</p>
                                             </td>
                                         </tr>
 
@@ -256,68 +216,23 @@
                                 <div class="table-responsive">
                                     <table class="lw-tab-table">
                                         <tr class="lw-table-row-1">
-                                            <th>Rank</th>
-                                            <th>Agencies</th>
-                                            <th>Bonus</th>
-                                            <th>Features</th>
-                                            <th>Free Plans</th>
-                                            <th>Rating</th>
-                                            <th>Get it</th>
+                                            
+                                            <th colspan="4">Life Insurance</th>
+                                            <th colspan="4">General Insurance</th>
                                         </tr>
                                         <tr>
-                                            <td class="lw-table-data-1">1</td>
-                                            <td class="lw-table-data-2">
-                                                <img src="https://via.placeholder.com/120x64" alt="img">
+                                           
+                                          
+                                            <td class="lw-table-data-3" colspan="4">
+                                                <center>
+                                                    <img src="https://cdn-icons-png.flaticon.com/512/2966/2966486.png" style="height:70px"/>
+                                                </center>
                                             </td>
-                                            <td class="lw-table-data-3">
-                                                <ul>
-                                                    <li> <strong>$100 Bonus</strong>
-                                                    </li>
-                                                    <li> <span>
-                                                            100% up to $100
-                                                        </span>
-                                                    </li>
-                                                </ul>
-                                            </td>
-                                            <td class="lw-table-data-4">
-                                                <ul>
-                                                    <li> <span>
-                                                            <i class="fas fa-check"></i>
-                                                        </span>
-                                                        $100 free Plan</li>
-                                                    <li> <span>
-                                                            <i class="fas fa-check"></i>
-                                                        </span>
-                                                        $220 Monthly Plan</li>
-                                                </ul>
-                                            </td>
-                                            <td class="lw-table-data-3">
-                                                <ul>
-                                                    <li> <strong>10 Free Plans</strong>
-                                                    </li>
-                                                    <li> <span>
-                                                            with no Desopits
-                                                        </span>
-                                                    </li>
-                                                </ul>
-                                            </td>
-                                            <td class="lw-table-data-3 company-rating"> <span
-                                                    class="rating-number">5/5</span>
-                                                <div class="ratings"> <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                </div>
-                                            </td>
-                                            <td class="lw-table-data-3 choose-btn"> <a href="#"
-                                                    class="btn-first btn-submit-fill">Choose</a>
-                                                <a href="#" class="Loan-content">T&C Apply</a>
+                                           
+                                            <td class="lw-table-data-3" colspan="4">
+                                            <center>
+                                            <img src="https://cdn-icons.flaticon.com/png/512/2603/premium/2603735.png?token=exp=1655267344~hmac=f4cd2420b5d140ef56237372934e5321" style="height:70px"/>
+                                            </center>
                                             </td>
                                         </tr>
 
@@ -328,69 +243,30 @@
                                 <div class="table-responsive">
                                     <table class="lw-tab-table">
                                         <tr class="lw-table-row-1">
-                                            <th>Rank</th>
-                                            <th>Agencies</th>
-                                            <th>Bonus</th>
-                                            <th>Features</th>
-                                            <th>Free Plans</th>
-                                            <th>Rating</th>
-                                            <th>Get it</th>
+                                           
+                                            <th>Fixed Income Plan</th>
+                                            <th>Retirement Plan</th>
+                                            <th>Equity Linked Scheme</th>
                                         </tr>
                                         <tr>
-                                            <td class="lw-table-data-1">1</td>
-                                            <td class="lw-table-data-2">
-                                                <img src="https://via.placeholder.com/120x64" alt="img">
-                                            </td>
-                                            <td class="lw-table-data-3">
-                                                <ul>
-                                                    <li> <strong>$100 Bonus</strong>
-                                                    </li>
-                                                    <li> <span>
-                                                            100% up to $100
-                                                        </span>
-                                                    </li>
-                                                </ul>
-                                            </td>
+                                           
+                                         
                                             <td class="lw-table-data-4">
-                                                <ul>
-                                                    <li> <span>
-                                                            <i class="fas fa-check"></i>
-                                                        </span>
-                                                        $100 free Plan</li>
-                                                    <li> <span>
-                                                            <i class="fas fa-check"></i>
-                                                        </span>
-                                                        $220 Monthly Plan</li>
-                                                </ul>
+                                            <center>
+                                            <img src="https://cdn-icons-png.flaticon.com/512/2747/2747739.png" style="height:70px"/>
+                                            </center>
                                             </td>
                                             <td class="lw-table-data-3">
-                                                <ul>
-                                                    <li> <strong>10 Free Plans</strong>
-                                                    </li>
-                                                    <li> <span>
-                                                            with no Desopits
-                                                        </span>
-                                                    </li>
-                                                </ul>
+                                            <center>
+                                            <img src="https://cdn-icons-png.flaticon.com/512/2167/2167930.png" style="height:70px"/>
+                                            </center>
                                             </td>
-                                            <td class="lw-table-data-3 company-rating"> <span
-                                                    class="rating-number">5/5</span>
-                                                <div class="ratings"> <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                </div>
+                                            <td class="lw-table-data-3 "> 
+                                            <center>
+                                            <img src="https://cdn-icons-png.flaticon.com/512/1289/1289126.png" style="height:70px"/>
+                                            </center>
                                             </td>
-                                            <td class="lw-table-data-3 choose-btn"> <a href="#"
-                                                    class="btn-first btn-submit-fill">Choose</a>
-                                                <a href="#" class="Loan-content">T&C Apply</a>
-                                            </td>
+                                          
                                         </tr>
 
                                     </table>
@@ -400,68 +276,30 @@
                                 <div class="table-responsive">
                                     <table class="lw-tab-table">
                                         <tr class="lw-table-row-1">
-                                            <th>Rank</th>
-                                            <th>Agencies</th>
-                                            <th>Bonus</th>
-                                            <th>Features</th>
-                                            <th>Free Plans</th>
-                                            <th>Rating</th>
-                                            <th>Get it</th>
+                                            <th>Personal Loan</th>
+                                            <th>Home Loan</th>
+                                            <th>Business Loan</th>
+                                           
                                         </tr>
                                         <tr>
-                                            <td class="lw-table-data-1">1</td>
-                                            <td class="lw-table-data-2">
-                                                <img src="https://via.placeholder.com/120x64" alt="img">
-                                            </td>
                                             <td class="lw-table-data-3">
-                                                <ul>
-                                                    <li> <strong>$100 Bonus</strong>
-                                                    </li>
-                                                    <li> <span>
-                                                            100% up to $100
-                                                        </span>
-                                                    </li>
-                                                </ul>
+                                                <center>
+                                                    <img src="https://cdn-icons.flaticon.com/png/512/3146/premium/3146459.png?token=exp=1655267722~hmac=7064e1e60915e3f2576b74e27b69f7b8" style="height:70px"/>
+                                                </center>
                                             </td>
-                                            <td class="lw-table-data-4">
-                                                <ul>
-                                                    <li> <span>
-                                                            <i class="fas fa-check"></i>
-                                                        </span>
-                                                        $100 free Plan</li>
-                                                    <li> <span>
-                                                            <i class="fas fa-check"></i>
-                                                        </span>
-                                                        $220 Monthly Plan</li>
-                                                </ul>
-                                            </td>
+                                           
+                                            
                                             <td class="lw-table-data-3">
-                                                <ul>
-                                                    <li> <strong>10 Free Plans</strong>
-                                                    </li>
-                                                    <li> <span>
-                                                            with no Desopits
-                                                        </span>
-                                                    </li>
-                                                </ul>
+                                            <center>
+                                                    <img src="https://cdn-icons.flaticon.com/png/512/1149/premium/1149445.png?token=exp=1655267788~hmac=574fe8ae54202ce68bce49ad0a5ca6e1" style="height:70px"/>
+                                                </center>
                                             </td>
-                                            <td class="lw-table-data-3 company-rating"> <span
-                                                    class="rating-number">5/5</span>
-                                                <div class="ratings"> <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                </div>
-                                            </td>
-                                            <td class="lw-table-data-3 choose-btn"> <a href="#"
-                                                    class="btn-first btn-submit-fill">Choose</a>
-                                                <a href="#" class="Loan-content">T&C Apply</a>
+                                           
+                                           
+                                            <td class="lw-table-data-3 ">   
+                                                <center>
+                                                    <img src="https://cdn-icons-png.flaticon.com/512/7786/7786449.png" style="height:70px"/>
+                                                </center>
                                             </td>
                                         </tr>
 
@@ -472,68 +310,15 @@
                                 <div class="table-responsive">
                                     <table class="lw-tab-table">
                                         <tr class="lw-table-row-1">
-                                            <th>Rank</th>
-                                            <th>Agencies</th>
-                                            <th>Bonus</th>
-                                            <th>Features</th>
-                                            <th>Free Plans</th>
-                                            <th>Rating</th>
-                                            <th>Get it</th>
+                                        
+                                            <th colspan="8">Academy Offer</th>
                                         </tr>
                                         <tr>
-                                            <td class="lw-table-data-1">1</td>
-                                            <td class="lw-table-data-2">
-                                                <img src="https://via.placeholder.com/120x64" alt="img">
-                                            </td>
-                                            <td class="lw-table-data-3">
-                                                <ul>
-                                                    <li> <strong>$100 Bonus</strong>
-                                                    </li>
-                                                    <li> <span>
-                                                            100% up to $100
-                                                        </span>
-                                                    </li>
-                                                </ul>
-                                            </td>
-                                            <td class="lw-table-data-4">
-                                                <ul>
-                                                    <li> <span>
-                                                            <i class="fas fa-check"></i>
-                                                        </span>
-                                                        $100 free Plan</li>
-                                                    <li> <span>
-                                                            <i class="fas fa-check"></i>
-                                                        </span>
-                                                        $220 Monthly Plan</li>
-                                                </ul>
-                                            </td>
-                                            <td class="lw-table-data-3">
-                                                <ul>
-                                                    <li> <strong>10 Free Plans</strong>
-                                                    </li>
-                                                    <li> <span>
-                                                            with no Desopits
-                                                        </span>
-                                                    </li>
-                                                </ul>
-                                            </td>
-                                            <td class="lw-table-data-3 company-rating"> <span
-                                                    class="rating-number">5/5</span>
-                                                <div class="ratings"> <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                    <span class="text-custom-yellow"><i
-                                                            class="fas fa-star"></i></span>
-                                                </div>
-                                            </td>
-                                            <td class="lw-table-data-3 choose-btn"> <a href="#"
-                                                    class="btn-first btn-submit-fill">Choose</a>
-                                                <a href="#" class="Loan-content">T&C Apply</a>
+                                           
+                                            <td class="lw-table-data-3 choose-btn"> 
+                                                <center>
+                                                    <img src="https://cdn-icons-png.flaticon.com/512/2942/2942789.png" style="height:70px"/>
+                                                </center>
                                             </td>
                                         </tr>
 
@@ -548,22 +333,19 @@
     </div>
     <!-- End lw-tab -->
     <!-- Start section Process -->
-    <section class="section-padding exp-cal parallax ln-process">
+    <center>
+    <section class="section-padding" style="height:500px;">
         <div class="overlay overlay-bg-black"></div>
         <div class="container">
-            <div class="section-header">
-                <div class="section-heading">
-                    <h3 class="text-custom-white fw-700">calculator section here</h3>
+        <h3 class="text-custom-black fw-700">
+            Tools and Calculators</h3>
                     <p>https://www.mutualfundssahihai.com/en/calculators</p>
-                    <div class="section-description">
-                        <p class="text-custom-white">Lorem Ipsum is simply dummy text of the printing and
-                            typesetting industry. Lorem Ipsum has been the industry's standard dummy text.</p>
-                    </div>
-                </div>
+            <div class="row" >
+                
             </div>
-
         </div>
     </section>
+</center>
     <!-- End section Process -->
     <!-- Start why choose us -->
 
@@ -573,13 +355,9 @@
             <div class="row">
                 <div class="col-lg-12 align-self-center">
                     <div class="about-left-side mb-md-40 ">
-                        <h3 class="text-custom-black fw-700">Why Helious</h3>
-                        <p class="text-light-white fs-14 mb-xl-20">Lorem Ipsum is simply dummy text of the printing and
-                            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                            1500s. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                        <p class="text-light-white fs-14 mb-xl-20">Lorem Ipsum is simply dummy text of the printing and
-                            typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
-                            1500s.Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                       <center> <h3 class="text-custom-black fw-700">Why Helious</h3></center>
+                       <p>Helios Fintec has essentially designed multiple plans for corporates, investors and individuals to effectively invest in financial aid opportunities and get surplus returns. The said plans have covered all the necessary details and paperwork required to get the aforementioned loans, traditional investment, insurance, and more. Hence, Helios Fintec is the best option you can conveniently opt for.
+</p>
                         <div class="about-list">
                             <ul>
                                 <li class="text-light-white fs-14"><i class="fa fa-check"></i> Expert Loan</li>
