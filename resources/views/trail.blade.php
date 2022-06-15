@@ -1,5 +1,5 @@
 @include('layout.header')
-<h1>Welcome in a Pratibha</h1>
+
 <body class="page-opt-nocalc page basicpage">
     <div class="home-page-layout cm-page-container" style="height:300px">
         <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
@@ -384,10 +384,10 @@
         <div class="container">
             <div class="section-header">
                 <div class="section-heading">
-                    <h3 class="text-custom-black fw-700">Our Blog</h3>
+                    <h2 class="text-custom-black fw-700">Helios Fintec Services:-</h2>
                     <div class="section-description">
-                        <p class="text-light-white">Lorem Ipsum is simply dummy text of the printing and typesetting
-                            industry. Lorem Ipsum has been the industry's standard dummy text.</p>
+                        <p class="text-light-white">Helios Fintec is the one-stop solution for your financial needs. A firm following the ideology of one for all and all for one, we offer you a variety of options to scroll through when looking for the right financial aid for yourself.
+</p>
                     </div>
                 </div>
             </div>
@@ -397,36 +397,24 @@
                         <article class="post col-12">
                             <div class="single-blog">
                                 <div class="post-meta">
-                                    <div class="post-date"><a href="blog-single.html" class="text-custom-white">
-                                            4,
-                                            Nov</a>
-                                    </div>
+                                   
                                 </div>
                                 <div class="blog-photo">
-                                    <img src="https://via.placeholder.com/350x233" class="full-width" alt="#">
+                                    <img src="https://www.uobam.com.sg/uobaminvest/assets/images/individual/aboutinvest/invest.gif"  style="height:200px" alt="#">
                                 </div>
                                 <div class="post-contnet">
-                                    <h2 class="post-title text-custom-black">Bigger home still the goal?</h2>
-                                    <p class="text-light-white">Lorem ipsum dolor sit in faucibus ipsum. Cras
-                                        euismod faucibus sagittis.</p>
-                                    <div class="post-author"> <span class="text-custom-black fw-500 fs-14">Post by
-                                            <a href="blog-single.html" class="text-light-blue">Michael
-                                                Dav</a></span>
-                                    </div>
+                                   <center> <h2 class="post-title text-custom-black">INVESTMENT</h2></center>
+                                    <p class="text-light-white">One of the most important things to remember when trying to enter the investment sphere is to be prepared for the consequences or to play smartly. </p>
+                                    
                                 </div>
                                 <div class="blog-overlay">
                                     <div class="right-text-effect post-content">
                                         <h2 class="post-title"><a href="blog-single.html"
-                                                class="text-white">Bigger
-                                                home still the goal?</a></h2>
-                                        <p>Lorem ipsum dolor sit in faucibus ipsum. Cras euismod faucibus sagittis.
-                                            Cras euismod faucibus sagittis.</p>
+                                                class="text-white">Helios Fintec Investment</a></h2>
+                                        
                                     </div>
                                     <div class="blog-read-more-icon">
-                                        <div class="post-author"> <span class="text-custom-white fw-600 fs-14">Post
-                                                by <a href="blog-single.html" class="text-white">Michael
-                                                    Dav</a></span>
-                                        </div> <a href="blog-single.html" class="fw-500 fs-14">Read More</a>
+                                        <a href="blog-single.html" class="fw-500 fs-14">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -434,36 +422,26 @@
                         <article class="post col-12">
                             <div class="single-blog">
                                 <div class="post-meta">
-                                    <div class="post-date"><a href="blog-single.html" class="text-custom-white">
-                                            29,
-                                            June</a>
-                                    </div>
+                                    
                                 </div>
                                 <div class="blog-photo">
-                                    <img src="https://via.placeholder.com/350x233" class="full-width" alt="#">
-
+                                    <center>
+                                <img src="http://www.pngall.com/wp-content/uploads/2016/06/Life-Insurance.png" style="height:200px"  alt="#">
+</center>
                                 </div>
                                 <div class="post-contnet">
-                                    <h2 class="post-title text-custom-black">Choosing right education loan</h2>
-                                    <p class="text-light-white">Lorem ipsum dolor sit in faucibus ipsum. Cras
-                                        euismod faucibus sagittis.</p>
-                                    <div class="post-author"> <span class="text-custom-black fw-500 fs-14">Post by
-                                            <a href="blog-single.html" class="text-light-blue">Jhone Deo</a></span>
-                                    </div>
+                           <center>     <h2 class="post-title text-custom-black">INVESTMENT</h2></center>
+                                    <p class="text-light-white">One of the most important things to remember when trying to enter the investment sphere is to be prepared for the consequences or to play smartly. </p>
+                                   
                                 </div>
                                 <div class="blog-overlay">
-                                    <div class="right-text-effect post-content">
+                                <div class="right-text-effect post-content">
                                         <h2 class="post-title"><a href="blog-single.html"
-                                                class="text-white">Choosing
-                                                right education loan</a></h2>
-                                        <p>Lorem ipsum dolor sit in faucibus ipsum. Cras euismod faucibus sagittis.
-                                            Cras euismod faucibus sagittis.</p>
+                                                class="text-white">Helios Fintec Investment</a></h2>
+                                        
                                     </div>
                                     <div class="blog-read-more-icon">
-                                        <div class="post-author"> <span class="text-custom-white fw-600 fs-14">Post
-                                                by <a href="blog-single.html" class="text-white">Jhone
-                                                    Deo</a></span>
-                                        </div> <a href="blog-single.html" class="fw-500 fs-14">Read More</a>
+                                        <a href="blog-single.html" class="fw-500 fs-14">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -471,36 +449,24 @@
                         <article class="post col-12">
                             <div class="single-blog">
                                 <div class="post-meta">
-                                    <div class="post-date"><a href="blog-single.html" class="text-custom-white">
-                                            30,
-                                            May</a>
-                                    </div>
+                                   
                                 </div>
                                 <div class="blog-photo">
-                                    <img src="https://via.placeholder.com/350x233" class="full-width" alt="#">
+                                    <img src="https://www.uobam.com.sg/uobaminvest/assets/images/individual/aboutinvest/invest.gif"  style="height:200px" alt="#">
                                 </div>
                                 <div class="post-contnet">
-                                    <h2 class="post-title text-custom-black">FAST APPROVAL May For You If You Are
-                                        Innocent</h2>
-                                    <p class="text-light-white">Lorem ipsum dolor sit in faucibus ipsum. Cras
-                                        euismod faucibus sagittis.</p>
-                                    <div class="post-author"> <span class="text-custom-black fw-500 fs-14">Post by
-                                            <a href="blog-single.html" class="text-light-blue">Linda Choi</a></span>
-                                    </div>
+                                   <center> <h2 class="post-title text-custom-black">INVESTMENT</h2></center>
+                                    <p class="text-light-white">One of the most important things to remember when trying to enter the investment sphere is to be prepared for the consequences or to play smartly. </p>
+                                    
                                 </div>
                                 <div class="blog-overlay">
                                     <div class="right-text-effect post-content">
                                         <h2 class="post-title"><a href="blog-single.html"
-                                                class="text-white">FAST
-                                                APPROVAL May For You If You Are Innocent</a></h2>
-                                        <p>Lorem ipsum dolor sit in faucibus ipsum. Cras euismod faucibus sagittis.
-                                            Cras euismod faucibus sagittis.</p>
+                                                class="text-white">Helios Fintec Investment</a></h2>
+                                        
                                     </div>
                                     <div class="blog-read-more-icon">
-                                        <div class="post-author"> <span class="text-custom-white fw-600 fs-14">Post
-                                                by <a href="blog-single.html" class="text-white">Linda
-                                                    Choi</a></span>
-                                        </div> <a href="blog-single.html" class="fw-500 fs-14">Read More</a>
+                                        <a href="blog-single.html" class="fw-500 fs-14">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -508,37 +474,26 @@
                         <article class="post col-12">
                             <div class="single-blog">
                                 <div class="post-meta">
-                                    <div class="post-date"><a href="blog-single.html" class="text-custom-white">
-                                            13,
-                                            Nov</a>
-                                    </div>
+                                  
                                 </div>
                                 <div class="blog-photo">
-                                    <img src="https://via.placeholder.com/350x233" class="full-width" alt="#">
-
+                                <center>
+                                    <img src="http://cdn.onlinewebfonts.com/svg/img_452633.png"  style="height:200px" alt="#">
+</center>
                                 </div>
                                 <div class="post-contnet">
-                                    <h2 class="post-title text-custom-black">How Is Mediation Useful in Home Loan
-                                        Cases?</h2>
-                                    <p class="text-light-white">Lorem ipsum dolor sit in faucibus ipsum. Cras
-                                        euismod faucibus sagittis.</p>
-                                    <div class="post-author"> <span class="text-custom-black fw-500 fs-14">Post by
-                                            <a href="blog-single.html" class="text-light-blue">Jhone Deo</a></span>
-                                    </div>
+                                   <center> <h2 class="post-title text-custom-black">Home Loan</h2></center>
+                                    <p class="text-light-white">One of the most important things to remember when trying to enter the investment sphere is to be prepared for the consequences or to play smartly. </p>
+                                    
                                 </div>
                                 <div class="blog-overlay">
                                     <div class="right-text-effect post-content">
                                         <h2 class="post-title"><a href="blog-single.html"
-                                                class="text-white">How Is
-                                                Mediation Useful in Home Loan Cases?</a></h2>
-                                        <p>Lorem ipsum dolor sit in faucibus ipsum. Cras euismod faucibus sagittis.
-                                            Cras euismod faucibus sagittis.</p>
+                                                class="text-white">Helios Fintec Investment</a></h2>
+                                        
                                     </div>
                                     <div class="blog-read-more-icon">
-                                        <div class="post-author"> <span class="text-custom-white fw-600 fs-14">Post
-                                                by <a href="blog-single.html" class="text-white">Jhone
-                                                    Deo</a></span>
-                                        </div> <a href="blog-single.html" class="fw-500 fs-14">Read More</a>
+                                        <a href="blog-single.html" class="fw-500 fs-14">Read More</a>
                                     </div>
                                 </div>
                             </div>
