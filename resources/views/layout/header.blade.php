@@ -219,11 +219,11 @@
                                                 </div>
                                             </div>
                                             <!-- end notification 14-4-2021 -->
-
+                                            <div class="custom-dropdown-container dropdown-open-menu">
                                             <button class="nav-search hidden-xs" data-id="searchIconClick"><span
                                                     class="icon-search"></span></button>
                                         </div>
-
+</div>
                                         <div class="hamburger-div">
                                             <div class="hamburger-inner">
                                                 <div class="hamburger-menu">
