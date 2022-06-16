@@ -189,38 +189,41 @@
                     <div class="lw-mega-tab">
                         <ul class="nav lw-nav-tabs">
                             <li class="nav-item"> <a href="#LOANLY-1" class="nav-link active" data-toggle="tab">
-                                   INVESTMENT
+                            Wealth Creation
                                 </a>
                             </li>
                             <li class="nav-item"> <a href="#LOANLY-2" class="nav-link" data-toggle="tab">
-                                    INSURANCE
+                            Kon Banayega Crorepati
                                 </a>
                             </li>
                             <li class="nav-item"> <a href="#LOANLY-3" class="nav-link" data-toggle="tab">
-                                   TRADITIONAL INVESTMENT
+                            Next Generation 
                                 </a>
                             </li>
                             <li class="nav-item"> <a href="#LOANLY-4" class="nav-link" data-toggle="tab">
-                                    LOANS
+                            Tax Saver
                                 </a>
                             </li>
                             <li class="nav-item"> <a href="#LOANLY-5" class="nav-link" data-toggle="tab">
-                                   HF Academy
+                            Emergency fund
+                                </a>
+                            </li>
+                            <li class="nav-item"> <a href="#LOANLY-5" class="nav-link" data-toggle="tab">
+                            Low Risk (Debt Funds)
                                 </a>
                             </li>
                         </ul>
-                        <div class="tab-content lw-tab-content-wrapper">
+                        <div class="tab-content lw-tab-content-wrapper" >
                             <div class="tab-pane container active" id="LOANLY-1">
                                 <div class="table-responsive">
                                     <table class="lw-tab-table">
-                                        <tr class="lw-table-row-1">
-                                            <th>PRE_IPO</th>
-                                            <th>Mutual Fund</th>
-                                            <th>PMS</th>
-                                            <th colspan="2">Alternative Investment Fund</th>
-                                            <th>FD</th>
-                                            <th>BOUNDS</th>
-                                            
+                                        <tr class="lw-table-row-1" style="background-color:blue">
+                                            <th>Quant Absolute Fund (G)</th>
+                                            <th>ICICI Prudential Equity & Debt Fund (G)</th>
+                                            <th>Principal Emerging Bluechip Fund (G)</th>
+                                            <th>Tata Digital India Fund (G)</th>
+                                            <th>Parag Parikh Flexi Cap fund (G)</th>
+                                            <th>Mirae Asset Emerging Bluechip Fund (G)</th>
                                         </tr>
                                         <tr>
                                         <td class="lw-table-data-3 choose-btn" colspan="3"> 
