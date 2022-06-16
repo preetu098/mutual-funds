@@ -30,3 +30,10 @@ Route::get('/home',function(){
 Route::get('/about',function(){
     return view('about');
 });
+
+Route::get('/preipo',function(){
+    return view('preipo');
+});
+
+
+
