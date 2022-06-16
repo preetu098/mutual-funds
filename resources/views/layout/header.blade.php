@@ -54,19 +54,46 @@
                                         <div class="right-nav-menu">
                                             <!-- 14/04/2021 -->
                                             <ul>
-
+                                            <li class="d-xs-none call-desktop">
+                                                   <div class="custom-dropdown">
+        <a href="" data-dropdown="dropdown">
+        <i class="fa fa-user" aria-hidden="true"></i>
+        <span style="color:blue">Login</span>
+        </a>
+                                                   </div>
+                                                </li>
                                                 <li class="d-xs-none call-desktop">
-                                                    <a href="">
-                                                        <i class="fas fa-headset"></i> Contact Us
-                                                    </a>
+                                                   <div class="custom-dropdown dropdown google-dropdown">
+        <a href="" data-dropdown="dropdown" class="js-login-status">
+            <img src="https://clipartcraft.com/images/google-logo-transparent-alphabet-4.png" data-loaded="true"/>
+            <span style="color:blue">K</span>
+        </a>
+                                                   </div>
                                                 </li>
-                                                <li class="d-xs-none call-mobile">
-                                                    <a href="tel:18602676060">
-                                                        <i class="fas fa-headset"></i> Contact Us
-                                                    </a>
+                                                <li class="d-xs-none call-desktop">
+                                                   <div class="custom-dropdown">
+        <a href="" data-dropdown="dropdown">
+        <i class="fa fa-credit-card" aria-hidden="true"></i>
+        <span style="color:blue">Quick Pay</span>
+        </a>
+                                                   </div>
                                                 </li>
-
-
+                                                <li class="d-xs-none call-desktop">
+                                                   <div class="custom-dropdown">
+        <a href="" data-dropdown="dropdown">
+        <i class="fa fa-headphones" aria-hidden="true"></i>
+        <span style="color:blue">HeadPhone</span>
+        </a>
+                                                   </div>
+                                                </li>
+                                                <li class="d-xs-none call-desktop">
+                                                   <div class="custom-dropdown">
+        <select>
+            <option>Hindi</option>
+            <option>English</option>
+        </select>
+                                                   </div>
+                                                </li>
                                             </ul>
                                             <!-- 14/04/2021 -->
                                         </div>
