@@ -2,9 +2,9 @@
 
 <body class="page-opt-nocalc page basicpage">
     <div class="home-page-layout cm-page-container" style="height:200px">
-        <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+        <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12" style="background-color:white">
             <div class="row">
-                <div class="col-lg-12">
+                <div class="col-lg-9">
                     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                         <ol class="carousel-indicators">
                             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -50,27 +50,29 @@
                 </div>
 
                 </section>
-                 <!-- <div class="col-lg-3" style="height:400px">
-                    <form style="    padding: 25px;">
+                 <div class="col-lg-3" style="height:200px;margin-top:5px">
+                    <form style="padding: 15px;">
+                    <div class="form-group">
+                            <label for="exampleInputEmail1">Name</label>
+                            <input type="email" class="form-control" id="exampleInputEmail1"
+                                aria-describedby="emailHelp" placeholder="Enter email">
+                           
+                        </div>
                         <div class="form-group">
                             <label for="exampleInputEmail1">Email address</label>
                             <input type="email" class="form-control" id="exampleInputEmail1"
                                 aria-describedby="emailHelp" placeholder="Enter email">
-                            <small id="emailHelp" class="form-text text-muted">We'll never share your email with
-                                anyone else.</small>
+                            
                         </div>
                         <div class="form-group">
                             <label for="exampleInputPassword1">Password</label>
                             <input type="password" class="form-control" id="exampleInputPassword1"
                                 placeholder="Password">
                         </div>
-                        <div class="form-group form-check">
-                            <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                            <label class="form-check-label" for="exampleCheck1">Check me out</label>
-                        </div>
+                       
                         <button type="submit" class="btn btn-primary">Submit</button>
                     </form>
-                </div>  -->
+                </div> 
 
             </div>
 
@@ -96,7 +98,7 @@
                                         <center>
                                         <img src="https://www.freepngimg.com/thumb/money/49304-6-wealth-hq-image-free-png.png" style="height:70px"/>
                                         <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Wealth Creation</a></h4>
-</center>
+                                        </center>
                                     </div>
 
                                 </div>
@@ -217,7 +219,7 @@
                             <div class="tab-pane container active" id="LOANLY-1">
                                 <div class="table-responsive">
                                     <table class="lw-tab-table">
-                                        <tr class="lw-table-row-1" style="background-color:blue">
+                                        <tr class="lw-table-row-1" >
                                             <th>Quant Absolute Fund (G)</th>
                                             <th>ICICI Prudential Equity & Debt Fund (G)</th>
                                             <th>Principal Emerging Bluechip Fund (G)</th>
@@ -490,275 +492,161 @@
 
 
     <!-- Start Blog -->
-    <section class="section-padding our_articles">
+   
+    <!-- End Blog -->
+
+    <section class="section-padding  doctors-team-style-2" style="padding: 44px 0px 22px 0px;height:500px">
         <div class="container">
             <div class="section-header">
-                <div class="section-heading">
-                    <h2 class="text-custom-black fw-700">Helios Fintec Services:-</h2>
-                    <div class="section-description">
-                        <p class="text-light-white">Helios Fintec is the one-stop solution for your financial needs. A firm following the ideology of one for all and all for one, we offer you a variety of options to scroll through when looking for the right financial aid for yourself.
-</p>
-                    </div>
+                <div class="section-heading " style="margin-top:100px">
+                   
                 </div>
             </div>
             <div class="row">
                 <div class="col-12 no-padding">
-                    <div class="blog-slider">
-                        <article class="post col-12">
-                            <div class="single-blog">
-                                <div class="post-meta">
-                                   
-                                </div>
-                                <div class="blog-photo">
-                                    <img src="https://www.uobam.com.sg/uobaminvest/assets/images/individual/aboutinvest/invest.gif"  style="height:200px" alt="#">
-                                </div>
-                                <div class="post-contnet">
-                                   <center> <h2 class="post-title text-custom-black">INVESTMENT</h2></center>
-                                    <p class="text-light-white">One of the most important things to remember when trying to enter the investment sphere is to be prepared for the consequences or to play smartly. </p>
-                                    
-                                </div>
-                                <div class="blog-overlay">
-                                    <div class="right-text-effect post-content">
-                                        <h2 class="post-title"><a href="blog-single.html"
-                                                class="text-white">Helios Fintec Investment</a></h2>
-                                        
-                                    </div>
-                                    <div class="blog-read-more-icon">
-                                        <a href="blog-single.html" class="fw-500 fs-14">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </article>
-                        <article class="post col-12">
-                            <div class="single-blog">
-                                <div class="post-meta">
-                                    
-                                </div>
-                                <div class="blog-photo">
-                                    <center>
-                                <img src="http://www.pngall.com/wp-content/uploads/2016/06/Life-Insurance.png" style="height:200px"  alt="#">
+                    <div class="doctors-slider">
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:250px">
+                                   <div class="row">
+                                        <div class="col-lg-12">
+            <img src="https://static.thenounproject.com/png/19279-200.png" style="height:40px;width:50px"/>
+                                        </div>
+                                   </div>
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+            <h5>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. </h5>
 </center>
+</div>
+                                        </div>
+                                   </div>
                                 </div>
-                                <div class="post-contnet">
-                           <center>     <h2 class="post-title text-custom-black">INVESTMENT</h2></center>
-                                    <p class="text-light-white">One of the most important things to remember when trying to enter the investment sphere is to be prepared for the consequences or to play smartly. </p>
-                                   
-                                </div>
-                                <div class="blog-overlay">
-                                <div class="right-text-effect post-content">
-                                        <h2 class="post-title"><a href="blog-single.html"
-                                                class="text-white">Helios Fintec Investment</a></h2>
-                                        
-                                    </div>
-                                    <div class="blog-read-more-icon">
-                                        <a href="blog-single.html" class="fw-500 fs-14">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </article>
-                        <article class="post col-12">
-                            <div class="single-blog">
-                                <div class="post-meta">
-                                   
-                                </div>
-                                <div class="blog-photo">
-                                    <img src="https://www.uobam.com.sg/uobaminvest/assets/images/individual/aboutinvest/invest.gif"  style="height:200px" alt="#">
-                                </div>
-                                <div class="post-contnet">
-                                   <center> <h2 class="post-title text-custom-black">INVESTMENT</h2></center>
-                                    <p class="text-light-white">One of the most important things to remember when trying to enter the investment sphere is to be prepared for the consequences or to play smartly. </p>
-                                    
-                                </div>
-                                <div class="blog-overlay">
-                                    <div class="right-text-effect post-content">
-                                        <h2 class="post-title"><a href="blog-single.html"
-                                                class="text-white">Helios Fintec Investment</a></h2>
-                                        
-                                    </div>
-                                    <div class="blog-read-more-icon">
-                                        <a href="blog-single.html" class="fw-500 fs-14">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </article>
-                        <article class="post col-12">
-                            <div class="single-blog">
-                                <div class="post-meta">
-                                  
-                                </div>
-                                <div class="blog-photo">
-                                <center>
-                                    <img src="http://cdn.onlinewebfonts.com/svg/img_452633.png"  style="height:200px" alt="#">
-</center>
-                                </div>
-                                <div class="post-contnet">
-                                   <center> <h2 class="post-title text-custom-black">Home Loan</h2></center>
-                                    <p class="text-light-white">One of the most important things to remember when trying to enter the investment sphere is to be prepared for the consequences or to play smartly. </p>
-                                    
-                                </div>
-                                <div class="blog-overlay">
-                                    <div class="right-text-effect post-content">
-                                        <h2 class="post-title"><a href="blog-single.html"
-                                                class="text-white">Helios Fintec Investment</a></h2>
-                                        
-                                    </div>
-                                    <div class="blog-read-more-icon">
-                                        <a href="blog-single.html" class="fw-500 fs-14">Read More</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </article>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Blog -->
-
-    <!-- Start Why choose us / testimonials-->
-    <section class="section-padding findrate-bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="testimonials-box mb-md-80">
-                        <div class="section-header">
-                            <div class="section-heading">
-                                <h3 class="text-custom-black fw-700">Our Testimonials</h3>
-                            </div>
-                            <div class="section-description">
-                                <p class="text-light-white">Lorem Ipsum is simply dummy text of the printing and
-                                    typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
-                                </p>
                             </div>
                         </div>
-                        <div class="testimonials-wrapper">
-                            <div class="col-12">
-                                <div class="testimonial-nav row mb-xl-40">
-                                    <div class="slide-item col-12">
-                                        <div class="testimonials-author">
-                                            <a href="#">
-                                                <img src="assets1/images/testimonials_mid" class="image-fit"
-                                                    alt="img">
-                                            </a>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:250px">
+                                   <div class="row">
+                                        <div class="col-lg-12">
+            <img src="https://static.thenounproject.com/png/19279-200.png" style="height:40px;width:50px"/>
                                         </div>
-                                    </div>
-                                    <div class="slide-item col-12">
-                                        <div class="testimonials-author">
-                                            <a href="#">
-                                                <img src="assets1/images/addison_Smith" class="image-fit"
-                                                    alt="img">
-                                            </a>
+                                   </div>
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+            <h5>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. </h5>
+</center>
+</div>
                                         </div>
-                                    </div>
-                                    <div class="slide-item col-12">
-                                        <div class="testimonials-author">
-                                            <a href="#">
-                                                <img src="assets1/images/eachann_Jhon" class="image-fit"
-                                                    alt="img">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="slide-item col-12">
-                                        <div class="testimonials-author">
-                                            <a href="#">
-                                                <img src="assets1/images/testimonials_mid" class="image-fit"
-                                                    alt="img">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="slide-item col-12">
-                                        <div class="testimonials-author">
-                                            <a href="#">
-                                                <img src="assets1/images/babatunde_Jon" class="image-fit"
-                                                    alt="img">
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="slide-item col-12">
-                                        <div class="testimonials-author">
-                                            <a href="#">
-                                                <img src="assets1/images/testimonials_mid" class="image-fit"
-                                                    alt="img">
-                                            </a>
-                                        </div>
-                                    </div>
+                                   </div>
                                 </div>
-                                <div class="testimonial-for row">
-                                    <div class="slide-item col-12">
-                                        <div class="testimonials-inner">
-                                            <div class="testimonial-content">
-                                                <h4 class="text-custom-blue fw-700 fs-20">Very satisfied!</h4>
-                                                <p class="text-light-white mb-xl-20">Lorem ipsum dolor sit amet,
-                                                    consectetuer adipiscing elit, sed diam nonummy nibh euismod
-                                                    tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-                                                <p class="text-custom-black fw-700"><strong>David Smith<br><span
-                                                            class="text-light-blue fw-500">Marketing
-                                                            manager</span></strong>
-                                                </p>
-                                            </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:250px">
+                                   <div class="row">
+                                        <div class="col-lg-12">
+            <img src="https://static.thenounproject.com/png/19279-200.png" style="height:40px;width:50px"/>
                                         </div>
-                                    </div>
-                                    <div class="slide-item col-12">
-                                        <div class="testimonials-inner">
-                                            <div class="testimonial-content">
-                                                <h4 class="text-custom-blue fw-700 fs-20">Very satisfied!</h4>
-                                                <p class="text-light-white mb-xl-20">Lorem ipsum dolor sit amet,
-                                                    consectetuer adipiscing elit, sed diam nonummy nibh euismod
-                                                    tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-                                                <p class="text-custom-black fw-700"><strong>Michael Jhonson<br><span
-                                                            class="text-light-blue fw-500">Engineering
-                                                            Officer</span></strong>
-                                                </p>
-                                            </div>
+                                   </div>
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+            <h5>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. </h5>
+</center>
+</div>
                                         </div>
-                                    </div>
-                                    <div class="slide-item col-12">
-                                        <div class="testimonials-inner">
-                                            <div class="testimonial-content">
-                                                <h4 class="text-custom-blue fw-700 fs-20">Very satisfied!</h4>
-                                                <p class="text-light-white mb-xl-20">Lorem ipsum dolor sit amet,
-                                                    consectetuer adipiscing elit, sed diam nonummy nibh euismod
-                                                    tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-                                                <p class="text-custom-black fw-700"><strong>Mark Lee<br><span
-                                                            class="text-light-blue fw-500">Contractor</span></strong>
-                                                </p>
-                                            </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:250px">
+                                   <div class="row">
+                                        <div class="col-lg-12">
+            <img src="https://static.thenounproject.com/png/19279-200.png" style="height:40px;width:50px"/>
                                         </div>
-                                    </div>
-                                    <div class="slide-item col-12">
-                                        <div class="testimonials-inner">
-                                            <div class="testimonial-content">
-                                                <h4 class="text-custom-blue fw-700 fs-20">Very satisfied!</h4>
-                                                <p class="text-light-white mb-xl-20">Lorem ipsum dolor sit amet,
-                                                    consectetuer adipiscing elit, sed diam nonummy nibh euismod
-                                                    tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-                                                <p class="text-custom-black fw-700"><strong>James Brown<br><span
-                                                            class="text-light-blue fw-500">Web
-                                                            Developer</span></strong>
-                                                </p>
-                                            </div>
+                                   </div>
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+            <h5>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. </h5>
+</center>
+</div>
                                         </div>
-                                    </div>
-                                    <div class="slide-item col-12">
-                                        <div class="testimonials-inner">
-                                            <div class="testimonial-content">
-                                                <h4 class="text-custom-blue fw-700 fs-20">Very satisfied!</h4>
-                                                <p class="text-light-white mb-xl-20">Lorem ipsum dolor sit amet,
-                                                    consectetuer adipiscing elit, sed diam nonummy nibh euismod
-                                                    tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-                                                <p class="text-custom-black fw-700"><strong>Maria Lopez<br><span
-                                                            class="text-light-blue fw-500">Sales
-                                                            Manager</span></strong>
-                                                </p>
-                                            </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:250px">
+                                   <div class="row">
+                                        <div class="col-lg-12">
+            <img src="https://static.thenounproject.com/png/19279-200.png" style="height:40px;width:50px"/>
                                         </div>
-                                    </div>
+                                   </div>
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+            <h5>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. </h5>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:250px">
+                                   <div class="row">
+                                        <div class="col-lg-12">
+            <img src="https://static.thenounproject.com/png/19279-200.png" style="height:40px;width:50px"/>
+                                        </div>
+                                   </div>
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+            <h5>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. </h5>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:250px">
+                                   <div class="row">
+                                        <div class="col-lg-12">
+            <img src="https://static.thenounproject.com/png/19279-200.png" style="height:40px;width:50px"/>
+                                        </div>
+                                   </div>
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+            <h5>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. </h5>
+</center>
+</div>
+                                        </div>
+                                   </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
     </section>
@@ -807,14 +695,13 @@
                         <div class="footer-heading">
                             <h4 class="text-custom-white no-margin">Featured Post</h4>
                         </div>
-                        <ul class="custom popular_post">
+                        <!-- <ul class="custom popular_post">
                             <li>
                                 <div class="post">
                                     <div class="post-wrapper">
                                         <div class="popular_post_img animate-img">
                                             <a href="blog-single.html">
-                                                <img src="assets1/images/featuredpost1" class="img-fluid image-fit"
-                                                    alt="#">
+                                              
                                             </a>
                                         </div>
                                         <div class="popular_post_title">
@@ -847,21 +734,21 @@
                                     </div>
                                 </div>
                             </li>
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="footer-box mb-xs-80">
                         <div class="footer-heading">
                             <h4 class="text-custom-white no-margin">Quick link</h4>
-                            <ul class="custom links">
+                            <!-- <ul class="custom links">
                                 <li> <a href="about.html" class="text-custom-white">Privacy Policy</a>
                                 </li>
                                 <li> <a href="service.html" class="text-custom-white">Terms & Conditions</a>
                                 </li>
                                 <li> <a href="blog.html" class="text-custom-white">Career</a></li>
 
-                            </ul>
+                            </ul> -->
                         </div>
 
                     </div>
@@ -871,7 +758,7 @@
                         <div class="footer-heading">
                             <h4 class="text-custom-white no-margin">News Letter</h4>
                         </div>
-                        <div class="newsletter">
+                        <!-- <div class="newsletter">
                             <form>
                                 <div class="form-group">
                                     <input type="email" class="form-control form-control-custom"
@@ -880,7 +767,7 @@
                                 <button class="btn-first btn-submit-fill btn-height full-width"
                                     type="submit">Subscribe</button>
                             </form>
-                        </div>
+                        </div> -->
                         <div class="social-media">
                             <ul class="custom social-media">
                                 <li><a href="#"><i class="fa fa-facebook-f"></i></a>
