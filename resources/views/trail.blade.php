@@ -1,7 +1,7 @@
 @include('layout.header')
 
 <body class="page-opt-nocalc page basicpage">
-    <div class="home-page-layout cm-page-container" style="height:300px">
+    <div class="home-page-layout cm-page-container" style="height:200px">
         <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
             <div class="row">
                 <div class="col-lg-12">
@@ -79,11 +79,11 @@
 
     </div>
     <!-- Start Team Doctors -->
-    <section class="section-padding bg-green doctors-team-style-2" style="    padding: 44px 0px 22px 0px;">
+    <section class="section-padding  doctors-team-style-2" style="    padding: 44px 0px 22px 0px;">
         <div class="container">
             <div class="section-header">
-                <div class="section-heading">
-                    <h3 class="text-custom-white fw-700">EXPLORE OUR PRODUCTS</h3>
+                <div class="section-heading " style="margin-top:100px">
+                   
                 </div>
             </div>
             <div class="row">
@@ -94,8 +94,8 @@
                                 <div class="inner-box">
                                     <div class="lower-content p-relative text-center">
                                         <center>
-                                        <img src="https://cdn-icons.flaticon.com/png/512/2544/premium/2544056.png?token=exp=1655266205~hmac=f9c2ecfff8a499186ee6cb34fd75ff20" style="height:70px"/>
-                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Home Loan</a></h4>
+                                        <img src="https://www.freepngimg.com/thumb/money/49304-6-wealth-hq-image-free-png.png" style="height:70px"/>
+                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Wealth Creation</a></h4>
 </center>
                                     </div>
 
@@ -107,8 +107,8 @@
                                 <div class="inner-box">
                                     <div class="lower-content p-relative text-center">
                                     <center>
-                                    <img src="https://cdn-icons-png.flaticon.com/512/2910/2910299.png" style="height:70px"/>
-                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20"> Mutual Fund</a></h4>
+                                    <img src="https://vignette.wikia.nocookie.net/millionaire/images/4/4b/Kaun_Banega_Crorepati_logo.png/revision/latest?cb=20160805211149" style="height:70px"/>
+                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Kon Banayega Crorepati</a></h4>
                                     </center>
                                     </div>
                                 </div>
@@ -119,8 +119,8 @@
                                 <div class="inner-box">
                                     <div class="lower-content p-relative text-center">
                                     <center>
-                                    <img src="https://cdn-icons-png.flaticon.com/512/846/846043.png" style="height:70px"/>
-                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Investment</a></h4>
+                                    <img src="https://www.fraxnet.com/web/image/1020/IoT-Internet%20of%20things1.png" style="height:70px"/>
+                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Next Generation </a></h4>
                                     </center>
                                     </div>
                                 </div>
@@ -131,8 +131,8 @@
                                 <div class="inner-box">
                                     <div class="lower-content p-relative text-center">
                                     <center>
-                                    <img src="https://cdn-icons.flaticon.com/png/512/3146/premium/3146444.png?token=exp=1655266458~hmac=9bb5138a5c8546bd639f0ee743d1d7a2" style="height:70px"/>
-                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Loan</a></h4>
+                                    <img src="https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Depositphotos_9417358_S1_1642179384.jpg" style="height:70px"/>
+                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Tax Saver</a></h4>
                                     </center>
                                      
                                     </div>
@@ -145,7 +145,31 @@
                                     <div class="lower-content p-relative text-center">
                                     <center>
                                     <img src="https://cdn-icons-png.flaticon.com/512/4207/4207247.png" style="height:70px"/>
-                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Academic</a></h4>
+                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Emergency fund</a></h4>
+                                    </center>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box">
+                                    <div class="lower-content p-relative text-center">
+                                    <center>
+                                    <img src="https://cdn-icons-png.flaticon.com/512/4207/4207247.png" style="height:70px"/>
+                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">International Funds</a></h4>
+                                    </center>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box">
+                                    <div class="lower-content p-relative text-center">
+                                    <center>
+                                    <img src="https://cdn-icons-png.flaticon.com/512/4207/4207247.png" style="height:70px"/>
+                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Low Risk (Debt Funds)</a></h4>
                                     </center>
                                     </div>
                                 </div>
