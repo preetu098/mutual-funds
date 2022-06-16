@@ -132,7 +132,16 @@
                                                 <a href="javascript:void(0)">Alternative Investment Fund</a>
 
                                             </li>
+                                            <li class="nav-item   ">
+                                                <input type="radio" name="nav-radio">
+                                                <a href="javascript:void(0)">Bonds</a>
 
+                                            </li>
+                                            <li class="nav-item   ">
+                                                <input type="radio" name="nav-radio">
+                                                <a href="javascript:void(0)">Fixed Deposit</a>
+
+                                            </li>
                                         </ul>
 
 
