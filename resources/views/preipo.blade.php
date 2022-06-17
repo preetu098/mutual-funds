@@ -4,7 +4,7 @@
     <div class="home-page-layout cm-page-container" style="height:200px">
         <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12" style="background-color:white">
             <div class="row">
-                <div class="col-lg-9">
+                <div class="col-md-9">
                     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                         <ol class="carousel-indicators">
                             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -14,21 +14,21 @@
                         <div class="carousel-inner">
                         <div class="carousel-item active">
                                 <img class="d-block w-100"
-                                    src="assets/images/banner1.jpg"
+                                    src="http://clipartmag.com/images/money-transparent-2.png"
                                     alt="First slide" style="height:300px">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>...</h5>
                                     <p>...</p>
                                 </div>
                             </div>
-                            <div class="carousel-item">
+                            <div class="carousel-item"> 
                                 <img class="d-block w-100"
-                                    src="assets/images/banner2.jpg"
+                                    src="https://webstockreview.net/images/technology-clipart-modern-technology-17.png"
                                     alt="Second slide" style="height:300px">
                             </div>
                             <div class="carousel-item">
                                 <img class="d-block w-100"
-                                    src="assets/images/banner3.jpg"
+                                    src="https://touchbroking.com/img/side-img.png"
                                     alt="Third slide" style="height:300px">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>...</h5>
@@ -49,7 +49,7 @@
                     </div>
                 </div>
 
-                 <div class="col-lg-3">
+                 <div class="col-md-3">
                     <form style="padding: 15px;">
                     <div class="form-group">
                             <label for="exampleInputEmail1">Name</label>
@@ -72,7 +72,7 @@
                         <button type="submit" class="btn btn-primary">Submit</button>
                     </form>
                 </div> 
-</section>
+            </section>
             </div>
 
 
@@ -87,372 +87,36 @@
                    
                 </div>
             </div>
-            <div class="row">
-                <div class="col-12 no-padding">
-                    <div class="doctors-slider">
-                        <div class="slide-item col-12">
-                            <div class="team-block p-relative">
-                                <div class="inner-box">
-                                    <div class="lower-content p-relative text-center">
-                                        <center>
-                                        <img src="https://www.freepngimg.com/thumb/money/49304-6-wealth-hq-image-free-png.png" style="height:70px"/>
-                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Wealth Creation</a></h4>
-                                        </center>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slide-item col-12">
-                            <div class="team-block p-relative">
-                                <div class="inner-box">
-                                    <div class="lower-content p-relative text-center">
-                                    <center>
-                                    <img src="https://vignette.wikia.nocookie.net/millionaire/images/4/4b/Kaun_Banega_Crorepati_logo.png/revision/latest?cb=20160805211149" style="height:70px"/>
-                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Kon Banayega Crorepati</a></h4>
-                                    </center>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slide-item col-12">
-                            <div class="team-block p-relative">
-                                <div class="inner-box">
-                                    <div class="lower-content p-relative text-center">
-                                    <center>
-                                    <img src="https://www.fraxnet.com/web/image/1020/IoT-Internet%20of%20things1.png" style="height:70px"/>
-                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Next Generation </a></h4>
-                                    </center>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slide-item col-12">
-                            <div class="team-block p-relative">
-                                <div class="inner-box">
-                                    <div class="lower-content p-relative text-center">
-                                    <center>
-                                    <img src="https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Depositphotos_9417358_S1_1642179384.jpg" style="height:70px"/>
-                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Tax Saver</a></h4>
-                                    </center>
-                                     
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slide-item col-12">
-                            <div class="team-block p-relative">
-                                <div class="inner-box">
-                                    <div class="lower-content p-relative text-center">
-                                    <center>
-                                    <img src="https://cdn-icons-png.flaticon.com/512/4207/4207247.png" style="height:70px"/>
-                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Emergency fund</a></h4>
-                                    </center>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slide-item col-12">
-                            <div class="team-block p-relative">
-                                <div class="inner-box">
-                                    <div class="lower-content p-relative text-center">
-                                    <center>
-                                    <img src="https://cdn-icons-png.flaticon.com/512/4207/4207247.png" style="height:70px"/>
-                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">International Funds</a></h4>
-                                    </center>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slide-item col-12">
-                            <div class="team-block p-relative">
-                                <div class="inner-box">
-                                    <div class="lower-content p-relative text-center">
-                                    <center>
-                                    <img src="https://cdn-icons-png.flaticon.com/512/4207/4207247.png" style="height:70px"/>
-                                        <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Low Risk (Debt Funds)</a></h4>
-                                    </center>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+            
+ 
     </section>
     <!-- End Team Doctors -->
     <!-- start lw-tab -->
-    <div class="section-padding lw-tab-section p-relative">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="lw-mega-tab">
-                        <ul class="nav lw-nav-tabs">
-                            <li class="nav-item"> <a href="#LOANLY-1" class="nav-link active" data-toggle="tab">
-                            Wealth Creation
-                                </a>
-                            </li>
-                            <li class="nav-item"> <a href="#LOANLY-2" class="nav-link" data-toggle="tab">
-                            Kon Banayega Crorepati
-                                </a>
-                            </li>
-                            <li class="nav-item"> <a href="#LOANLY-3" class="nav-link" data-toggle="tab">
-                            Next Generation 
-                                </a>
-                            </li>
-                            <li class="nav-item"> <a href="#LOANLY-4" class="nav-link" data-toggle="tab">
-                            Tax Saver
-                                </a>
-                            </li>
-                            <li class="nav-item"> <a href="#LOANLY-5" class="nav-link" data-toggle="tab">
-                            Emergency fund
-                                </a>
-                            </li>
-                            <li class="nav-item"> <a href="#LOANLY-5" class="nav-link" data-toggle="tab">
-                            Low Risk (Debt Funds)
-                                </a>
-                            </li>
-                        </ul>
-                        <div class="tab-content lw-tab-content-wrapper" >
-                            <div class="tab-pane container active" id="LOANLY-1">
-                                <div class="table-responsive">
-                                    <table class="lw-tab-table">
-                                        <tr class="lw-table-row-1" >
-                                            <th>Quant Absolute Fund (G)</th>
-                                            <th>ICICI Prudential Equity & Debt Fund (G)</th>
-                                            <th>Principal Emerging Bluechip Fund (G)</th>
-                                            <th>Tata Digital India Fund (G)</th>
-                                            <th>Parag Parikh Flexi Cap fund (G)</th>
-                                            <th>Mirae Asset Emerging Bluechip Fund (G)</th>
-                                        </tr>
-                                        <tr>
-                                        <td class="lw-table-data-3 choose-btn" colspan="3"> 
-                                            <center>
-                                                <img src="https://cdn-icons.flaticon.com/png/512/5564/premium/5564318.png?token=exp=1655266869~hmac=8635fc511c0dfa9973c68cf78a407a81" style="height:70px"/>
-                                            </center>
-                                            </td>
-                                            <td class="lw-table-data-3 choose-btn"> 
-    <p>An investment always concerns the outlay of some capital today—time, effort, money etc..</p>
-                                            </td>
-                                        </tr>
-
-                                    </table>
-                                </div>
-                            </div>
-                            <div class="tab-pane fade container" id="LOANLY-2">
-                                <div class="table-responsive">
-                                    <table class="lw-tab-table">
-                                        <tr class="lw-table-row-1">
-                                            
-                                            <th colspan="4">Life Insurance</th>
-                                            <th colspan="4">General Insurance</th>
-                                        </tr>
-                                        <tr>
-                                           
-                                          
-                                            <td class="lw-table-data-3" colspan="4">
-                                                <center>
-                                                    <img src="https://cdn-icons-png.flaticon.com/512/2966/2966486.png" style="height:70px"/>
-                                                </center>
-                                            </td>
-                                           
-                                            <td class="lw-table-data-3" colspan="4">
-                                            <center>
-                                            <img src="https://cdn-icons.flaticon.com/png/512/2603/premium/2603735.png?token=exp=1655267344~hmac=f4cd2420b5d140ef56237372934e5321" style="height:70px"/>
-                                            </center>
-                                            </td>
-                                        </tr>
-
-                                    </table>
-                                </div>
-                            </div>
-                            <div class="tab-pane fade container" id="LOANLY-3">
-                                <div class="table-responsive">
-                                    <table class="lw-tab-table">
-                                        <tr class="lw-table-row-1">
-                                           
-                                            <th>Fixed Income Plan</th>
-                                            <th>Retirement Plan</th>
-                                            <th>Equity Linked Scheme</th>
-                                        </tr>
-                                        <tr>
-                                           
-                                         
-                                            <td class="lw-table-data-4">
-                                            <center>
-                                            <img src="https://cdn-icons-png.flaticon.com/512/2747/2747739.png" style="height:70px"/>
-                                            </center>
-                                            </td>
-                                            <td class="lw-table-data-3">
-                                            <center>
-                                            <img src="https://cdn-icons-png.flaticon.com/512/2167/2167930.png" style="height:70px"/>
-                                            </center>
-                                            </td>
-                                            <td class="lw-table-data-3 "> 
-                                            <center>
-                                            <img src="https://cdn-icons-png.flaticon.com/512/1289/1289126.png" style="height:70px"/>
-                                            </center>
-                                            </td>
-                                          
-                                        </tr>
-
-                                    </table>
-                                </div>
-                            </div>
-                            <div class="tab-pane fade container" id="LOANLY-4">
-                                <div class="table-responsive">
-                                    <table class="lw-tab-table">
-                                        <tr class="lw-table-row-1">
-                                            <th>Personal Loan</th>
-                                            <th>Home Loan</th>
-                                            <th>Business Loan</th>
-                                           
-                                        </tr>
-                                        <tr>
-                                            <td class="lw-table-data-3">
-                                                <center>
-                                                    <img src="https://cdn-icons.flaticon.com/png/512/3146/premium/3146459.png?token=exp=1655267722~hmac=7064e1e60915e3f2576b74e27b69f7b8" style="height:70px"/>
-                                                </center>
-                                            </td>
-                                           
-                                            
-                                            <td class="lw-table-data-3">
-                                            <center>
-                                                    <img src="https://cdn-icons.flaticon.com/png/512/1149/premium/1149445.png?token=exp=1655267788~hmac=574fe8ae54202ce68bce49ad0a5ca6e1" style="height:70px"/>
-                                                </center>
-                                            </td>
-                                           
-                                           
-                                            <td class="lw-table-data-3 ">   
-                                                <center>
-                                                    <img src="https://cdn-icons-png.flaticon.com/512/7786/7786449.png" style="height:70px"/>
-                                                </center>
-                                            </td>
-                                        </tr>
-
-                                    </table>
-                                </div>
-                            </div>
-                            <div class="tab-pane fade container" id="LOANLY-5">
-                                <div class="table-responsive">
-                                    <table class="lw-tab-table">
-                                        <tr class="lw-table-row-1">
-                                        
-                                            <th colspan="8">Academy Offer</th>
-                                        </tr>
-                                        <tr>
-                                           
-                                            <td class="lw-table-data-3 choose-btn"> 
-                                                <center>
-                                                    <img src="https://cdn-icons-png.flaticon.com/512/2942/2942789.png" style="height:70px"/>
-                                                </center>
-                                            </td>
-                                        </tr>
-
-                                    </table>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- End lw-tab -->
-    <!-- Start section Process -->
     <center>
-    <section class="section-padding" style="height:600px">
-        <div class="overlay overlay-bg-black"></div>
-        <div class="container">
-        <h3 class="text-custom-black fw-700">
-            Tools and Calculators</h3>
-                   <div class="row">
-                    <div class="col-lg-6">
-                    <div class="card">
-                        <div class="card-body" style="height:450px">
-                            <div class="row">
-                                <div class="col-lg-6">
-                                     <h4>Loan Amount</h4>
-                                </div>
-                                <div class="col-lg-6">
-                                    <button class="btn btn-info">+</button>&nbsp<input type="text" style="border-top:0;border-left:0;border-right:0"/> <button class="btn btn-info">-</button>
-                                </div>
-                                <div class="col-lg-12 mt-5" >
-                                <div class="progress">
-                                     <div class="progress-bar" style="width: 90%">
-                                          60%
-                                     </div>
-                                </div>
-                                 </div>
-                                 <div class="col-lg-6 mt-5">
-                                     <h4>Rate of Interest</h4>
-                                </div>
-                                <div class="col-lg-6 mt-5">
-                                    <button class="btn btn-info">+</button>&nbsp<input type="text" style="border-top:0;border-left:0;border-right:0"/> <button class="btn btn-info">-</button>
-                                </div>
-                                <div class="col-lg-12 mt-5" >
-                                <div class="progress">
-                                     <div class="progress-bar" style="width: 40%">
-                                          60%
-                                     </div>
-                                </div>
-                                 </div>
-                                 <div class="col-lg-6 mt-5">
-                                     <h4>Loan Duration</h4>
-                                </div>
-                                <div class="col-lg-6 mt-5">
-                                    <button class="btn btn-info">+</button>&nbsp<input type="text" style="border-top:0;border-left:0;border-right:0"/> <button class="btn btn-info">-</button>
-                                </div>
-                                <div class="col-lg-12 mt-5" >
-                                <div class="progress">
-                                     <div class="progress-bar" style="width: 70%">
-                                          60%
-                                     </div>
-                                </div>
-                                 </div>
-                            </div>
-                            
-                        </div>
-                        
-                   </div>
-                    </div>
-                    <div class="col-lg-6">
-                    <div class="card">
-                        <div class="card-body" style="height:450px;">
-                                <h5>EMI Amount</h5>
-                                <hr>
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div style="margin-top:100px">
-                                        <ul>
-                                                            <li>EMI Amount
-                                                                <ul>
-                                                                    <li>Principal+Interest</li>
-                                                                    <h4>Rs. 120000</h4>
-                                                                </ul>
-                                                            </li>
-                                                            <li>Interest Payable
-                                                                <ul>
-                                                                   
-                                                                    <h4>Rs. 120000</h4>
-                                                                </ul>
-                                                            </li>
-                                        </ul>
-</div>
-                                    </div>
-                                    <div class="col-lg-6">
-                                        <div style="margin-top:60px">
-                                    <div class="spinner-border text-warning" style="height:200px;width:200px"></div>
-                                                    </div>
-                                    </div>
-                                </div>
-                        </div>
-                   </div>
-                    </div>
-                   </div>
+        <div class="container" style="height:700px;">
+            <h3 style="color:white">Top Recommendations</h3>
+           
+           <div class="row" >
+            
+            <div class="col-lg-4" style="height:300px;">
+                <h4 class="text-info">Reliance Retail</h4>
+                <img src="https://logodownload.org/wp-content/uploads/2019/10/reliance-industries-logo-1.png" style="height:100px;width:200px"/>
             </div>
+            <div class="col-lg-4" style="height:300px;">
+            <h4>Tata Technology</h4>
+            <img src="https://naftp.tatatechnologies.com/images/logo/TATA-and-Tata-Technologeis-STACKED-BLUE.png" style="height:100px;width:200px"/>
             </div>
+            <div class="col-lg-4" style="height:300px;">
+        <h4>Studds Accessories</h4>
+        <img src="https://cdn4.iconfinder.com/data/icons/fashion-vol-1/72/28-512.png" style="height:100px;width:200px"/>
+            </div>
+           </div>
+           <div class="row">
+            <div class="col-lg-4">sqws</div>
+            <div class="col-lg-4">sqws</div>
+            <div class="col-lg-4">sqws</div>
+           </div>
+</center>
         </div>
     </section>
 </center>
