@@ -497,7 +497,7 @@
     <section class="section-padding  doctors-team-style-2" style="padding: 44px 0px 22px 0px;height:500px">
         <div class="container">
             <div class="section-header">
-                <div class="section-heading " style="margin-top:100px">
+                <div class="section-heading " style="">
                 
                                     <h3>Our Clients</h3>
                                
