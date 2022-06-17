@@ -50,20 +50,20 @@
                 </div>
 
                  <div class="col-lg-3">
-                    <form style="padding: 15px;">
-                    <div class="form-group">
+                    <form class="mx-5">
+                    <div class="mb-3 mt-3">
                             <label for="exampleInputEmail1">Name</label>
                             <input type="email" class="form-control" id="exampleInputEmail1"
                                 aria-describedby="emailHelp" placeholder="Enter email">
                            
                         </div>
-                        <div class="form-group">
+                        <div class="mb-3 mt-3">
                             <label for="exampleInputEmail1">Email address</label>
                             <input type="email" class="form-control" id="exampleInputEmail1"
                                 aria-describedby="emailHelp" placeholder="Enter email">
                             
                         </div>
-                        <div class="form-group">
+                        <div class="mb-3 mt-3">
                             <label for="exampleInputPassword1">Password</label>
                             <input type="password" class="form-control" id="exampleInputPassword1"
                                 placeholder="Password">
@@ -72,13 +72,14 @@
                         <button type="submit" class="btn btn-primary">Submit</button>
                     </form>
                 </div> 
+                </div>
+
+
+</div>
+
+</div>
             </section>
-            </div>
-
-
-        </div>
-
-    </div>
+       
     <!-- Start Team Doctors -->
     <section class="section-padding  doctors-team-style-2" style="    padding: 44px 0px 22px 0px;">
         <div class="container">
