@@ -1,7 +1,7 @@
 @include('layout.header')
 
 <body class="page-opt-nocalc page basicpage">
-    <div class="home-page-layout cm-page-container" style="height:200px">
+    <div class="home-page-layout cm-page-container">
         <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12" style="background-color:white">
             <div class="row">
                 <div class="col-lg-9">
@@ -81,7 +81,7 @@
             </section>
        
     <!-- Start Team Doctors -->
-    <section class="section-padding  doctors-team-style-2" style="    padding: 44px 0px 22px 0px;">
+    <section class="section-padding  doctors-team-style-2" style="    padding: 0px 0px 22px 0px;">
         <div class="container">
             <div class="section-header">
                 <div class="section-heading " style="margin-top:100px">
@@ -363,7 +363,7 @@
     <!-- End lw-tab -->
     <!-- Start section Process -->
     <center>
-    <section class="section-padding" style="height:600px">
+    <section class="section-padding" >
         <div class="overlay overlay-bg-black"></div>
         <div class="container">
         <h3 class="text-custom-black fw-700">
@@ -442,11 +442,7 @@
                                         </ul>
 </div>
                                     </div>
-                                    <div class="col-lg-6">
-                                        <div style="margin-top:60px">
-                                    <div class="spinner-border text-warning" style="height:200px;width:200px"></div>
-                                                    </div>
-                                    </div>
+                                   
                                 </div>
                         </div>
                    </div>

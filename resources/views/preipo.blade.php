@@ -26,7 +26,7 @@ table tr td
 </style>
 
 <body class="page-opt-nocalc page basicpage">
-    <div class="home-page-layout cm-page-container" style="max-height:200px">
+    <div class="home-page-layout cm-page-container">
         <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12" style="background-color:white">
             <div class="row">
                 <div class="col-md-9">
@@ -107,7 +107,7 @@ table tr td
 
     </div>
     <!-- Start Team Doctors -->
-    <section class="section-padding  doctors-team-style-2" style="    padding: 44px 0px 22px 0px;">
+    <section class="section-padding  doctors-team-style-2" style="    padding: 0px 0px 22px 0px;">
         <div class="container">
             <div class="section-header">
                 <div class="section-heading " style="margin-top:100px">
