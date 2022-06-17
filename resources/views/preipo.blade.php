@@ -1,4 +1,24 @@
 @include('layout.header')
+<style>
+.searchPart
+{
+    height:400px;
+    width:100%;
+    background-image:url('https://img.freepik.com/free-photo/businessman-holding-jar-coins-with-small-tree-growing-up_28629-1395.jpg?w=826');
+    background-repeat:no-repeat;
+    background-size:cover;
+    
+}
+input[type='search']
+{
+    width:500px;
+    height:50px;
+    margin-top:200px;
+    background:transparent;
+    font-size:30px;
+    font-family:inherit;
+}
+</style>
 
 <body class="page-opt-nocalc page basicpage">
     <div class="home-page-layout cm-page-container" style="height:200px">
@@ -93,8 +113,9 @@
     <!-- End Team Doctors -->
     <!-- start lw-tab -->
     <center>
-        <div class="container" style="height:700px;">
-            <h3 style="color:white">Top Recommendations</h3>
+        <!-- <section style="height:600px;">
+        <div class="container" >
+            <h3 class="text-warning">Top Recommendations</h3>
            
            <div class="row" >
             
@@ -112,228 +133,184 @@
             </div>
            </div>
            <div class="row">
-            <div class="col-lg-4">sqws</div>
-            <div class="col-lg-4">sqws</div>
-            <div class="col-lg-4">sqws</div>
+            <div class="col-lg-4" style="height:300px;">
+            <h4>Chennai Super King</h4>
+        <img src="https://www.nsbpictures.com/wp-content/uploads/2019/03/chennai_super_kings_logo_freelogovectors.net_.png" style="height:100px;width:200px"/>
+            </div>
+            <div class="col-lg-4" style="height:300px;">
+            <h4>Care Health</h4>
+        <img src="https://freepngimg.com/download/health/67606-green-healthcare-medicine-health-care-icon.png" style="height:100px;width:200px"/>
+            </div>
+            <div class="col-lg-4" style="height:300px;">
+            <h4>Capegemini Technology</h4>
+        <img src="https://jobseekers.vn/wp-content/uploads/2019/03/capgemini-logo-2.png" style="height:100px;width:200px"/>
+            </div>
            </div>
 </center>
         </div>
-    </section>
+    </section> -->
+ 
+    <div class="jumbotron jumbotron-fluid mb-5">
+        <div class="container text-center ">
+        
+            <h3 class="text-warning">Top Recommendations</h3>
+           
+           <div class="row" >
+            
+            <div class="col-lg-4" style="height:300px;">
+                <h4 class="text-info">Reliance Retail</h4>
+                <img src="https://logodownload.org/wp-content/uploads/2019/10/reliance-industries-logo-1.png" style="height:100px;width:200px"/>
+            </div>
+            <div class="col-lg-4" style="height:300px;">
+            <h4>Tata Technology</h4>
+            <img src="https://naftp.tatatechnologies.com/images/logo/TATA-and-Tata-Technologeis-STACKED-BLUE.png" style="height:100px;width:200px"/>
+            </div>
+            <div class="col-lg-4" style="height:300px;">
+        <h4>Studds Accessories</h4>
+        <img src="https://cdn4.iconfinder.com/data/icons/fashion-vol-1/72/28-512.png" style="height:100px;width:200px"/>
+            </div>
+           </div>
+           <div class="row">
+            <div class="col-lg-4" style="height:300px;">
+            <h4>Chennai Super King</h4>
+        <img src="https://www.nsbpictures.com/wp-content/uploads/2019/03/chennai_super_kings_logo_freelogovectors.net_.png" style="height:100px;width:200px"/>
+            </div>
+            <div class="col-lg-4" style="height:300px;">
+            <h4>Care Health</h4>
+        <img src="https://freepngimg.com/download/health/67606-green-healthcare-medicine-health-care-icon.png" style="height:100px;width:200px"/>
+            </div>
+            <div class="col-lg-4" style="height:300px;">
+            <h4>Capegemini Technology</h4>
+        <img src="https://jobseekers.vn/wp-content/uploads/2019/03/capgemini-logo-2.png" style="height:100px;width:200px"/>
+            </div>
+           </div>
+            <!-- <h1 class="text-white display-3 mb-5">Logistics Services</h1>
+            <div class="mx-auto" style="width: 100%; max-width: 600px;">
+                <div class="input-group">
+                    <input type="text" class="form-control border-light" style="padding: 30px;" placeholder="Tracking Id">
+                    <div class="input-group-append">
+                        <button class="btn btn-primary px-3">Track & Trace</button>
+                    </div>
+                </div>
+            </div> -->
+        </div>
+    </div>
 </center>
     <!-- End section Process -->
     <!-- Start why choose us -->
-
-    <section class="section-padding about-us-sec bg-gray p-relative">
-
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 align-self-center">
-                    <div class="about-left-side mb-md-40 ">
-                       <center> <h3 class="text-custom-black fw-700">Why Helious</h3></center>
-                       <p>Helios Fintec has essentially designed multiple plans for corporates, investors and individuals to effectively invest in financial aid opportunities and get surplus returns. The said plans have covered all the necessary details and paperwork required to get the aforementioned loans, traditional investment, insurance, and more. Hence, Helios Fintec is the best option you can conveniently opt for.
-</p>
-                        <div class="about-list">
-                            <ul>
-                                <li class="text-light-white fs-14"><i class="fa fa-check"></i> Expert Loan</li>
-                                <li class="text-light-white fs-14"><i class="fa fa-check"></i> 100 % Success Rate
-                                </li>
-                                <li class="text-light-white fs-14"><i class="fa fa-check"></i> No Need Extra Cost
-                                </li>
-                                <li class="text-light-white fs-14"><i class="fa fa-check"></i>Highly Recommendation
-                                </li>
-                            </ul>
-                        </div>
-
+ <!-- Header Start -->
+ <div class="jumbotron jumbotron-fluid mb-5">
+        <div class="container text-center py-5">
+            <h1 class="text-primary mb-4">Safe & Faster</h1>
+            <h1 class="text-white display-3 mb-5">Welcome in PRE_PIO Page </h1>
+            <div class="mx-auto" style="width: 100%; max-width: 600px;">
+                <div class="input-group">
+                    <input type="text" class="form-control border-light" style="padding: 30px;" placeholder="enter here">
+                    <div class="input-group-append">
+                        <button class="btn btn-primary px-3">Search </button>
                     </div>
                 </div>
-
             </div>
         </div>
-        <div class="bg-light-white-skew-2 bg-custom-black"></div>
-    </section>
-    <!-- End why choose us -->
+    </div>
+    <!-- Header End -->
 
+       <!-- Table Format!-->
+    <div class=" mx-auto table-shrink" style="width:80%;margin-top:20px;">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                   
 
-    <!-- Start Blog -->
-   
-    <!-- End Blog -->
-
-    <section class="section-padding  doctors-team-style-2" style="padding: 44px 0px 22px 0px;height:500px">
-        <div class="container">
-            <div class="section-header">
-                <div class="section-heading " style="margin-top:100px">
-                
-                                    <h3>Our Clients</h3>
+                        <div class="table-responsive mb-0 fixed-solution" data-pattern="priority-columns" style="height: 300px;overflow: scroll;">
+                          
+                            <table class="table table-striped .table-fixed" id="tech-companies-1"  >
+                                <thead style="position: sticky;top: 0;background-color: white;" >
                                
-                </div>
-            </div>
-            <div class="row">
-           
-                <div class="col-12 no-padding">
-                    <div class="doctors-slider">
-                  
-                        <div class="slide-item col-12">
-                        
-                            <div class="team-block p-relative">
-                                <div class="inner-box" style="height:250px">
+                                    <tr
+                                        style="font-size: 14px;opacity: 0.8;">
+                                     
+                                        <th class="text-center">
+                                            S.NO
+
+                                            </div>
+                                        </th>
+                                        <th id="tech-companies-1-col-0">Name </th>
+                                        <th id="tech-companies-1-col-0">ISN Number</th>
+                                        <th id="tech-companies-1-col-0">Price</th>
+                                        <th id="tech-companies-1-col-0">Rating</th>
+                                    
+                                        <th id="tech-companies-1-col-0">Edit</th>
+                                
+                                    </tr>
                                
-                                   <div class="row">
-                                        <div class="col-lg-12">
-            <img src="https://static.thenounproject.com/png/19279-200.png" style="height:40px;width:50px"/>
-                                        </div>
-                                   </div>
-                                   <div class="row">
-                                   <div class="col-lg-12">
-                                    <div>
-                                        <center>
-            <h5>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. </h5>
-</center>
-</div>
-                                        </div>
-                                   </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slide-item col-12">
-                            <div class="team-block p-relative">
-                                <div class="inner-box" style="height:250px">
-                                   <div class="row">
-                                        <div class="col-lg-12">
-            <img src="https://static.thenounproject.com/png/19279-200.png" style="height:40px;width:50px"/>
-                                        </div>
-                                   </div>
-                                   <div class="row">
-                                   <div class="col-lg-12">
-                                    <div>
-                                        <center>
-            <h5>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. </h5>
-</center>
-</div>
-                                        </div>
-                                   </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slide-item col-12">
-                            <div class="team-block p-relative">
-                                <div class="inner-box" style="height:250px">
-                                   <div class="row">
-                                        <div class="col-lg-12">
-            <img src="https://static.thenounproject.com/png/19279-200.png" style="height:40px;width:50px"/>
-                                        </div>
-                                   </div>
-                                   <div class="row">
-                                   <div class="col-lg-12">
-                                    <div>
-                                        <center>
-            <h5>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. </h5>
-</center>
-</div>
-                                        </div>
-                                   </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slide-item col-12">
-                            <div class="team-block p-relative">
-                                <div class="inner-box" style="height:250px">
-                                   <div class="row">
-                                        <div class="col-lg-12">
-            <img src="https://static.thenounproject.com/png/19279-200.png" style="height:40px;width:50px"/>
-                                        </div>
-                                   </div>
-                                   <div class="row">
-                                   <div class="col-lg-12">
-                                    <div>
-                                        <center>
-            <h5>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. </h5>
-</center>
-</div>
-                                        </div>
-                                   </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slide-item col-12">
-                            <div class="team-block p-relative">
-                                <div class="inner-box" style="height:250px">
-                                   <div class="row">
-                                        <div class="col-lg-12">
-            <img src="https://static.thenounproject.com/png/19279-200.png" style="height:40px;width:50px"/>
-                                        </div>
-                                   </div>
-                                   <div class="row">
-                                   <div class="col-lg-12">
-                                    <div>
-                                        <center>
-            <h5>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. </h5>
-</center>
-</div>
-                                        </div>
-                                   </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slide-item col-12">
-                            <div class="team-block p-relative">
-                                <div class="inner-box" style="height:250px">
-                                   <div class="row">
-                                        <div class="col-lg-12">
-            <img src="https://static.thenounproject.com/png/19279-200.png" style="height:40px;width:50px"/>
-                                        </div>
-                                   </div>
-                                   <div class="row">
-                                   <div class="col-lg-12">
-                                    <div>
-                                        <center>
-            <h5>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. </h5>
-</center>
-</div>
-                                        </div>
-                                   </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slide-item col-12">
-                            <div class="team-block p-relative">
-                                <div class="inner-box" style="height:250px">
-                                   <div class="row">
-                                        <div class="col-lg-12">
-            <img src="https://static.thenounproject.com/png/19279-200.png" style="height:40px;width:50px"/>
-                                        </div>
-                                   </div>
-                                   <div class="row">
-                                   <div class="col-lg-12">
-                                    <div>
-                                        <center>
-            <h5>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. </h5>
-</center>
-</div>
-                                        </div>
-                                   </div>
-                                </div>
+                                </thead>
+                                <tbody>
+                                    <tr id="tr_148">
+                                        
+                                      
+                                        <td>11</td>
+                                        <td>14</td>
+                                        <td>Party Id</td>
+                                        <td>GLPIA</td>
+                                        <td>False </td>
+                                        <td><button id="button"> <a href="/BLPL21/fa-integration/edit/148"  id="btnhover">Edit</a></button></td>
+                                    </tr>
+                                    <tr id="tr_147">
+                                        
+                                        <td>11</td>
+                                        <td>14</td>
+                                        <td>Party Id</td>
+                                        <td>purinv</td>
+                                        <td>False </td>
+                                        <td><button id="button"> <a href="/BLPL21/fa-integration/edit/148"  id="btnhover">Edit</a></button></td>
+                                    </tr>
+                                    <tr id="tr_146">
+                                       
+                                        <td>10</td>
+                                        <td>13</td>
+                                        <td>Party Id</td>
+                                        <td>GSI</td>
+                                        <td>False </td>
+                                        <td><button id="button"> <a href="/BLPL21/fa-integration/edit/148"  id="btnhover">Edit</a></button></td>
+                                    </tr>
+                                    <tr id="tr_115">
+                                        
+                                        <td>10</td>
+                                        <td>13</td>
+                                        <td>Party Id</td>
+                                        <td>GSR</td>
+                                        <td>False </td>
+                                        <td><button id="button"> <a href="/BLPL21/fa-integration/edit/148"  id="btnhover">Edit</a></button></td>
+                                    </tr>
+                                    <tr id="tr_114">
+                                        
+                                        <td>11</td>
+                                        <td>14</td>
+                                        <td>Party Id</td>
+                                        <td>GLPI</td>
+                                        <td>False </td>
+                                        <td><button id="button"> <a href="/BLPL21/fa-integration/edit/148"  id="btnhover">Edit</a></button></td>
+                                    </tr>
+                                    <tr id="tr_82">
+                                        
+                                        <td>10</td>
+                                        <td>13</td>
+                                        <td>Party Id</td>
+                                        <td>GSI</td>
+                                        <td>False </td>
+                                        <td><button id="button"> <a href="/BLPL21/fa-integration/edit/148"  id="btnhover">Edit</a></button></td>
+                                    </tr>
+                                </tbody>
+
+                            </table>
                             </div>
                         </div>
                     </div>
-                </div>
+             
             </div>
         </div>
-    </section>
-    <!-- End Why choose us / testimonials -->
-    <!-- Start Faqs -->
-    <section class="section-padding loan-faqs-sec bg-light-white findrate-top">
-        <div class="container">
-            <div class="row">
-                <div class="offset-lg-2 col-lg-8">
-                    <div class="findratesec">
-                        <h3 class="text-custom-black">Mutual fund house company logo slides (here)</h3>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </section>
+    </div>
     <!-- End Faqs -->
 
     <!-- Start Footer -->
