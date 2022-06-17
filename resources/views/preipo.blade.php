@@ -18,10 +18,15 @@ input[type='search']
     font-size:30px;
     font-family:inherit;
 }
+table tr td 
+{
+    font-family:inherit;
+    font-size:18px;
+}
 </style>
 
 <body class="page-opt-nocalc page basicpage">
-    <div class="home-page-layout cm-page-container" style="height:200px">
+    <div class="home-page-layout cm-page-container" style="max-height:200px">
         <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12" style="background-color:white">
             <div class="row">
                 <div class="col-md-9">
@@ -34,7 +39,7 @@ input[type='search']
                         <div class="carousel-inner">
                         <div class="carousel-item active">
                                 <img class="d-block w-100"
-                                    src="http://clipartmag.com/images/money-transparent-2.png"
+                                    src="http://epr.com.my/wp-content/uploads/2015/12/Pre-IPO-epr.jpg"
                                     alt="First slide" style="height:300px">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>...</h5>
@@ -43,12 +48,12 @@ input[type='search']
                             </div>
                             <div class="carousel-item"> 
                                 <img class="d-block w-100"
-                                    src="https://webstockreview.net/images/technology-clipart-modern-technology-17.png"
+                                    src="https://wallpapercave.com/wp/wp2019270.jpg"
                                     alt="Second slide" style="height:300px">
                             </div>
                             <div class="carousel-item">
                                 <img class="d-block w-100"
-                                    src="https://touchbroking.com/img/side-img.png"
+                                    src="https://www.newton.com.tw/img/6/954/cGcq5CO2IDO0MDZhRDNxEGZkZWOjF2Y3I2YmdDOzUjNwgTYjV2NwI2MxITOv0WZ0l2LjlGcvU2apFmYv02bj5SdklWYi5yYyN3Ztl2LvoDc0RHa.jpg"
                                     alt="Third slide" style="height:300px">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>...</h5>
@@ -70,6 +75,7 @@ input[type='search']
                 </div>
 
                  <div class="col-md-3">
+                 <div class="container">
                     <form style="padding: 15px;">
                     <div class="form-group">
                             <label for="exampleInputEmail1">Name</label>
@@ -92,6 +98,7 @@ input[type='search']
                         <button type="submit" class="btn btn-primary">Submit</button>
                     </form>
                 </div> 
+</div>
             </section>
             </div>
 
@@ -150,7 +157,7 @@ input[type='search']
         </div>
     </section> -->
  
-    <div class="jumbotron jumbotron-fluid mb-5">
+    <div class="container-fluid mb-5">
         <div class="container text-center ">
         
             <h3 class="text-warning">Top Recommendations</h3>
@@ -199,13 +206,13 @@ input[type='search']
     <!-- End section Process -->
     <!-- Start why choose us -->
  <!-- Header Start -->
- <div class="jumbotron jumbotron-fluid mb-5">
-        <div class="container text-center py-5">
+ <div class="jumbotron jumbotron-fluid" >
+        <div class="container text-center">
             <h1 class="text-primary mb-4">Safe & Faster</h1>
             <h1 class="text-white display-3 mb-5">Welcome in PRE_PIO Page </h1>
             <div class="mx-auto" style="width: 100%; max-width: 600px;">
                 <div class="input-group">
-                    <input type="text" class="form-control border-light" style="padding: 30px;" placeholder="enter here">
+                    <input type="text" class="form-control border-dark" style="padding: 30px;" placeholder="enter here">
                     <div class="input-group-append">
                         <button class="btn btn-primary px-3">Search </button>
                     </div>
@@ -217,12 +224,17 @@ input[type='search']
 
        <!-- Table Format!-->
     <div class=" mx-auto table-shrink" style="width:80%;margin-top:20px;">
+    <div class="row">
+            <div class="col-lg-12 mb-5">
+                <button class="btn btn-info">Report</button> <button class="btn btn-info">Invest</button>
+</div>
+</div>
         <div class="row">
             <div class="col-lg-12">
                 <div class="card">
                    
 
-                        <div class="table-responsive mb-0 fixed-solution" data-pattern="priority-columns" style="height: 300px;overflow: scroll;">
+                        <div class=" mb-0 fixed-solution" data-pattern="priority-columns" style="height: 300px;overflow: scroll;">
                           
                             <table class="table table-striped .table-fixed" id="tech-companies-1"  >
                                 <thead style="position: sticky;top: 0;background-color: white;" >
@@ -240,7 +252,7 @@ input[type='search']
                                         <th id="tech-companies-1-col-0">Price</th>
                                         <th id="tech-companies-1-col-0">Rating</th>
                                     
-                                        <th id="tech-companies-1-col-0">Edit</th>
+                                        
                                 
                                     </tr>
                                
@@ -254,7 +266,7 @@ input[type='search']
                                         <td>Party Id</td>
                                         <td>GLPIA</td>
                                         <td>False </td>
-                                        <td><button id="button"> <a href="/BLPL21/fa-integration/edit/148"  id="btnhover">Edit</a></button></td>
+                                   
                                     </tr>
                                     <tr id="tr_147">
                                         
@@ -263,7 +275,7 @@ input[type='search']
                                         <td>Party Id</td>
                                         <td>purinv</td>
                                         <td>False </td>
-                                        <td><button id="button"> <a href="/BLPL21/fa-integration/edit/148"  id="btnhover">Edit</a></button></td>
+                                     
                                     </tr>
                                     <tr id="tr_146">
                                        
@@ -272,7 +284,7 @@ input[type='search']
                                         <td>Party Id</td>
                                         <td>GSI</td>
                                         <td>False </td>
-                                        <td><button id="button"> <a href="/BLPL21/fa-integration/edit/148"  id="btnhover">Edit</a></button></td>
+                                      
                                     </tr>
                                     <tr id="tr_115">
                                         
@@ -281,7 +293,7 @@ input[type='search']
                                         <td>Party Id</td>
                                         <td>GSR</td>
                                         <td>False </td>
-                                        <td><button id="button"> <a href="/BLPL21/fa-integration/edit/148"  id="btnhover">Edit</a></button></td>
+                                      
                                     </tr>
                                     <tr id="tr_114">
                                         
@@ -290,7 +302,7 @@ input[type='search']
                                         <td>Party Id</td>
                                         <td>GLPI</td>
                                         <td>False </td>
-                                        <td><button id="button"> <a href="/BLPL21/fa-integration/edit/148"  id="btnhover">Edit</a></button></td>
+                                       
                                     </tr>
                                     <tr id="tr_82">
                                         
@@ -299,7 +311,7 @@ input[type='search']
                                         <td>Party Id</td>
                                         <td>GSI</td>
                                         <td>False </td>
-                                        <td><button id="button"> <a href="/BLPL21/fa-integration/edit/148"  id="btnhover">Edit</a></button></td>
+                                       
                                     </tr>
                                 </tbody>
 
