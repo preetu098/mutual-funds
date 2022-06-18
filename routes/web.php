@@ -35,5 +35,9 @@ Route::get('/preipo',function(){
     return view('preipo');
 });
 
+Route::get('/bonds',function(){
+    return view('bonds');
+});
+
 
 
