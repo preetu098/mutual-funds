@@ -39,5 +39,8 @@ Route::get('/bonds',function(){
     return view('bonds');
 });
 
+Route::get('/pms',function(){
+    return view('pms');
+});
 
 
