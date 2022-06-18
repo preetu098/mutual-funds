@@ -28,7 +28,7 @@ box-shadow:2px 2px 2px 2px black;
                         <div class="carousel-inner">
                         <div class="carousel-item active">
                                 <img class="d-block w-100"
-                                    src="http://www.usnews.com/cmsmedia/2b/39/5ab3fbcb493f8a65f6de03ca4b5c/150123-budget-stock.jpg"
+                                    src="https://pmsaif.files.wordpress.com/2019/09/pms-1.png?w=1024"
                                     alt="First slide" style="height:300px">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>...</h5>
@@ -37,12 +37,12 @@ box-shadow:2px 2px 2px 2px black;
                             </div>
                             <div class="carousel-item"> 
                                 <img class="d-block w-100"
-                                    src="https://www.sbimf.com/campaign/sip_generic/images/Banner02.gif"
+                                    src="https://grmbulls.com/wp-content/uploads/2021/06/best-pms-in-india-1536x732.png"
                                     alt="Second slide" style="height:300px">
                             </div>
                             <div class="carousel-item">
                                 <img class="d-block w-100"
-                                    src="https://tradingetfs.com/wp-content/uploads/2019/08/long-bond-fund-poised-to-hit-new-highs.jpg"
+                                    src="https://www.hemsecurities.com/img/mutual_fund_header.png"
                                     alt="Third slide" style="height:300px">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>...</h5>
@@ -96,14 +96,14 @@ box-shadow:2px 2px 2px 2px black;
 
     </div>
  
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12" style="background-image:url()">
+                
+            </div>
+        </div>
+    </div>
     
-    <div class="container" style="margin-top:100px">
-    <div class="row">
-    <div class="col-lg-12">
-           
-    </div>
-    </div>
-    </div>
      <!-- Start Faqs -->
      <section class="section-padding loan-faqs-sec bg-light-white findrate-top">
         <div class="container">

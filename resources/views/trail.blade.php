@@ -35,6 +35,15 @@
                                     <p>...</p>
                                 </div>
                             </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100"
+                                    src="https://www.bonanzaonline.com/mutualfunds/images/banners/mutual-fund.jpg"
+                                    alt="Third slide" style="height:300px">
+                                <div class="carousel-caption d-none d-md-block">
+                                    <h5>...</h5>
+                                    <p>...</p>
+                                </div>
+                            </div>
                         </div>
                         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button"
                             data-slide="prev">
