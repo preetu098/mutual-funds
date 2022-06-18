@@ -14,7 +14,7 @@
                         <div class="carousel-inner">
                         <div class="carousel-item active">
                                 <img class="d-block w-100"
-                                    src="assets/images/banner1.jpg"
+                                    src="https://www.passionateinmarketing.com/wp-content/uploads/2020/06/child-Education.jpg"
                                     alt="First slide" style="height:300px">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>...</h5>
@@ -23,7 +23,7 @@
                             </div>
                             <div class="carousel-item">
                                 <img class="d-block w-100"
-                                    src="assets/images/banner2.jpg"
+                                    src="https://www.finowlish.com/images/blog2.jpg"
                                     alt="Second slide" style="height:300px">
                             </div>
                             <div class="carousel-item">
@@ -659,11 +659,25 @@
             <div class="row">
                 <div class="offset-lg-2 col-lg-8">
                     <div class="findratesec">
-                        <h3 class="text-custom-black">Mutual fund house company logo slides (here)</h3>
+                       <div class="row">
+                            <div class="col-sm-3">
+                                <img src="https://www.iiflwealth.com/sites/default/files/iifl-inverse-logo.png" style="height:40px;" />
+                            </div>
+                            <div class="col-sm-3">
+                                <img src="https://muthootgold.in/images/logo.png"style="height:40px;" />
+                            </div>
+                            <div class="col-sm-3">
+                                <img src="http://weeassure.com/assets/images/shriram-transport-finance.png"style="height:40px;" />
+                            </div>
+                            <div class="col-sm-3">
+                                <img src="https://www.timesofassam.com/wp-content/uploads/2011/03/SBI.png" style="height:40px;"/>
+                            </div>
+                       </div>
 
                     </div>
                 </div>
             </div>
+            
         </div>
 
     </section>

@@ -48,12 +48,12 @@ table tr td
                             </div>
                             <div class="carousel-item"> 
                                 <img class="d-block w-100"
-                                    src="https://wallpapercave.com/wp/wp2019270.jpg"
+                                    src="https://www.sbimf.com/campaign/sip_generic/images/Banner02.gif"
                                     alt="Second slide" style="height:300px">
                             </div>
                             <div class="carousel-item">
                                 <img class="d-block w-100"
-                                    src="https://www.newton.com.tw/img/6/954/cGcq5CO2IDO0MDZhRDNxEGZkZWOjF2Y3I2YmdDOzUjNwgTYjV2NwI2MxITOv0WZ0l2LjlGcvU2apFmYv02bj5SdklWYi5yYyN3Ztl2LvoDc0RHa.jpg"
+                                    src="C:/Users/DELL/Desktop/Rajesh Sir Mutual Fund Project Data/maxresdefault.jpg"
                                     alt="Third slide" style="height:300px">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>...</h5>
@@ -221,7 +221,21 @@ table tr td
         </div>
     </div>
     <!-- Header End -->
-
+   <div class="container">
+    <div class="row">
+        
+        <div class="col-lg-8">
+            <h4>What is Pre-IPO?</h4>
+            <p>As the name suggests before IPO and these include equity shares of a company that is not listed on BSE/NSE, these shares are traded over the counter (OTC), and they are often called OTC securities. These companies can be companies that are privately held, formerly public companies taken private in management buyouts, public companies which are not yet listed on a recognized stock exchange, etc.
+</p>
+<p>These companies often enjoy a healthy growth rate and have industry-leading future prospects. These unlisted shares, especially at the Pre-IPO stage, provide an excellent investment opportunity mainly focusing on long-term wealth creation. The returns can potentially beat returns by listed equities.
+</p>
+        </div>
+        <div class="col-lg-4">
+            <img src="https://static.wixstatic.com/media/00a0e0_b17cd951149d43f99a0bd7c329b4ec92~mv2.gif" style="height:300px;width:300px;"/>
+        </div>
+    </div>
+   </div>
        <!-- Table Format!-->
     <div class=" mx-auto table-shrink" style="width:80%;margin-top:20px;">
     <div class="row">
