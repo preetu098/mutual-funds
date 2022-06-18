@@ -206,10 +206,10 @@ table tr td
     <!-- End section Process -->
     <!-- Start why choose us -->
  <!-- Header Start -->
- <div class="jumbotron jumbotron-fluid" >
+ <div class="jumbotron jumbotron-fluid"  style="background-image:url('https://linuscartitsolutions.com/assets/images/web-main.png');background-repeat:no-repeat;">
         <div class="container text-center">
             <h1 class="text-primary mb-4">Safe & Faster</h1>
-            <h1 class="text-white display-3 mb-5">Welcome in PRE_PIO Page </h1>
+            <h1 class="text-info display-3 mb-5">Welcome in PRE_PIO Page </h1>
             <div class="mx-auto" style="width: 100%; max-width: 600px;">
                 <div class="input-group">
                     <input type="text" class="form-control border-dark" style="padding: 30px;" placeholder="enter here">
