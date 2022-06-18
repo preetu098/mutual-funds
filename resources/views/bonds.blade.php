@@ -138,11 +138,233 @@ box-shadow:2px 2px 2px 2px black;
     <div class="row">
     <div class="col-lg-12">
             <div class="card">
-                <div class="card-body" style="border-top-left-radius:20px;height:300px;">
-                    sqwswswswswqs
+                <div class="card-body" >
+                   <div class="row">
+                        <div class="col-md-3">
+                        <div class="card" style="height:70px;width:70px;border-radius:10px">
+                            <img src="http://dreamladdercapital.com/assets/img/advantages.png"/>
+                            </div>
+                        </div>
+                        <div class="col-md-9">
+                            <h3>Bond</h3>
+                        </div>
+                   </div>
                 </div>
             </div>
     </div>
     </div>
     </div>
+    <div class="container mt-5">
+    <div class="row">
+    <div class="col-lg-12">
+            <div class="card">
+                <div class="card-body" >
+                   <div class="row">
+                        <div class="col-md-3" >
+                            <div class="card" style="height:70px;width:70px;border-radius:10px">
+                            <img src="https://www.alexandrahouse.org/wp-content/uploads/2020/05/DAF-Icon.png"/>
+                            </div>
+                        </div>
+                        <div class="col-md-9">swsw</div>
+                   </div>
+                </div>
+            </div>
+    </div>
+    </div>
+    </div>
+    <div class="container mt-5">
+    <div class="row">
+    <div class="col-lg-12">
+            <div class="card">
+                <div class="card-body">
+                   <div class="row">
+                        <div class="col-md-3">
+                        <div class="card" style="height:70px;width:70px;border-radius:10px">
+                            <img src="https://cdn.onlinewebfonts.com/svg/img_451526.png"/>
+                            </div>
+                        </div>
+                        <div class="col-md-9">swsw</div>
+                   </div>
+                </div>
+            </div>
+    </div>
+    </div>
+    </div>
+    <div class="container" style="margin-top:100px">
+    <div class="row">
+    <div class="col-lg-12">
+           
+    </div>
+    </div>
+    </div>
+     <!-- Start Faqs -->
+     <section class="section-padding loan-faqs-sec bg-light-white findrate-top">
+        <div class="container">
+            <div class="row">
+                <div class="offset-lg-2 col-lg-8">
+                    <div class="findratesec">
+                       <div class="row">
+                            <div class="col-sm-3">
+                                <img src="https://www.iiflwealth.com/sites/default/files/iifl-inverse-logo.png" style="height:40px;" />
+                            </div>
+                            <div class="col-sm-3">
+                                <img src="https://muthootgold.in/images/logo.png"style="height:40px;" />
+                            </div>
+                            <div class="col-sm-3">
+                                <img src="http://weeassure.com/assets/images/shriram-transport-finance.png"style="height:40px;" />
+                            </div>
+                            <div class="col-sm-3">
+                                <img src="https://www.timesofassam.com/wp-content/uploads/2011/03/SBI.png" style="height:40px;"/>
+                            </div>
+                       </div>
+
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+
+    </section>
+    <!-- End Faqs -->
+    <!-- Start Footer -->
+    <footer class="bg-black section-padding footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-sm-6">
+                    <div class="footer-box mb-md-80">
+                        <div class="footer-heading">
+                            <h4 class="text-custom-white no-margin">Useful Links</h4>
+                        </div>
+                        <ul class="custom links">
+                            <li> <a href="about.html" class="text-custom-white">About Us</a>
+                            </li>
+                            <li> <a href="service.html" class="text-custom-white">Service</a>
+                            </li>
+                            <li> <a href="blog.html" class="text-custom-white">Blog</a>
+                            </li>
+                            <li> <a href="team.html" class="text-custom-white">Team</a>
+                            </li>
+                            <li> <a href="contact.html" class="text-custom-white">Contact Us</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="footer-box mb-md-80">
+                        <div class="footer-heading">
+                            <h4 class="text-custom-white no-margin">Featured Post</h4>
+                        </div>
+                        <!-- <ul class="custom popular_post">
+                            <li>
+                                <div class="post">
+                                    <div class="post-wrapper">
+                                        <div class="popular_post_img animate-img">
+                                            <a href="blog-single.html">
+                                              
+                                            </a>
+                                        </div>
+                                        <div class="popular_post_title">
+                                            <h6><a href="blog-single.html" class="text-custom-white fs-14 fw-400">8
+                                                    Tips to Help You Finding New Home</a></h6>
+                                            <div class="post-date">
+                                                <p class="text-white no-margin">March 20 2020</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="post">
+                                    <div class="post-wrapper">
+                                        <div class="popular_post_img animate-img">
+                                            <a href="blog-single.html">
+                                                <img src="assets1/images/featuredpost2" class="img-fluid image-fit"
+                                                    alt="#">
+                                            </a>
+                                        </div>
+                                        <div class="popular_post_title">
+                                            <h6><a href="blog-single.html"
+                                                    class="text-custom-white fs-14 fw-400">Bedroom Colors You'll
+                                                    Never Regret</a></h6>
+                                            <div class="post-date">
+                                                <p class="text-white no-margin">09 Jan 2020</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul> -->
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="footer-box mb-xs-80">
+                        <div class="footer-heading">
+                            <h4 class="text-custom-white no-margin">Quick link</h4>
+                            <!-- <ul class="custom links">
+                                <li> <a href="about.html" class="text-custom-white">Privacy Policy</a>
+                                </li>
+                                <li> <a href="service.html" class="text-custom-white">Terms & Conditions</a>
+                                </li>
+                                <li> <a href="blog.html" class="text-custom-white">Career</a></li>
+
+                            </ul> -->
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="footer-box">
+                        <div class="footer-heading">
+                            <h4 class="text-custom-white no-margin">News Letter</h4>
+                        </div>
+                        <!-- <div class="newsletter">
+                            <form>
+                                <div class="form-group">
+                                    <input type="email" class="form-control form-control-custom"
+                                        placeholder="Email Id">
+                                </div>
+                                <button class="btn-first btn-submit-fill btn-height full-width"
+                                    type="submit">Subscribe</button>
+                            </form>
+                        </div> -->
+                        <div class="social-media">
+                            <ul class="custom social-media">
+                                <li><a href="#"><i class="fa fa-facebook-f"></i></a>
+                                </li>
+                                <li><a href="#"><i class="fa fa-twitter"></i></a>
+                                </li>
+                                <li><a href="#"><i class="fa fa-instagram"></i></a>
+                                </li>
+                                <li><a href="#"><i class="fa fa-youtube"></i></a>
+                                </li>
+                                <li><a href="#"><i class="fa fa-google-plus"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </footer>
+    <div class="copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="payment-logo mb-md-20"> <span class="text-custom-white fs-14 mr-3">We are
+                            accept</span>
+                        <div class="payemt-icon">
+                            <img src="assets1/images/accept1" alt="#">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <p class="text-custom-white no-margin">© Helois - 2020 | All Right Reserved. <a href=""
+                            target="_blank" class="text-custom-white"></a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
 @include('layout.footer')
