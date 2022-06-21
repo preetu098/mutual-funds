@@ -575,13 +575,13 @@
             </div>
             <div class="col-md-4">
                 <h5>Business Loan Calculator</h5>
-                <a href="#">
+                <a href="/businessloan">
                 <img src="https://cdn.pixabay.com/photo/2017/09/15/11/40/finance-2751890_960_720.png" style="height:100px;width:100px"/>
                 </a>
             </div>
             <div class="col-md-4">
             <h5>Car Loan Calculator</h5>
-            <a href="#">
+            <a href="/carloan">
             <img src="https://cdn2.iconfinder.com/data/icons/banking-astute-vol-1/512/Car_Loan_Calculator-512.png" style="height:100px;width:100px"/>
             </a>
             </div>

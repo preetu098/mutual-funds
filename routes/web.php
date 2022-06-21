@@ -44,7 +44,7 @@ Route::get('/pms',function(){
 });
 
 Route::get('/homeloan',function(){
-    return view('homeload');
+    return view('homeloan');
 });
 
 Route::get('/businessloan',function(){
