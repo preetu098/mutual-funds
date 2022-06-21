@@ -211,10 +211,11 @@ table tr td
            
             <div class="mx-auto" style="width: 100%; max-width: 600px;margin-left:100px">
                 <div class="input-group">
-                    <input type="text" class="form-control border-dark" style="padding: 30px;" placeholder="enter here">
+                    <input type="text" class="form-control border-dark" style="padding: 30px;" placeholder="Search By Company name">
                     <div class="input-group-append">
                         <button class="btn btn-primary px-3">Search </button>
-                    </div>
+                    </div>&nbsp&nbsp&nbsp&nbsp
+                    <button class="btn btn-warning"><a href="">Explore All Pre_IPO</a></button>
                 </div>
             </div>
         </div>

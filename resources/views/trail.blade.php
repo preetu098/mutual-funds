@@ -219,149 +219,338 @@
                             Emergency fund
                                 </a>
                             </li>
-                            <li class="nav-item"> <a href="#LOANLY-5" class="nav-link" data-toggle="tab">
+                            <li class="nav-item"> <a href="#LOANLY-6" class="nav-link" data-toggle="tab">
                             Low Risk (Debt Funds)
                                 </a>
                             </li>
                         </ul>
                         <div class="tab-content lw-tab-content-wrapper" >
                             <div class="tab-pane container active" id="LOANLY-1">
-                                <div class="table-responsive">
-                                    <table class="lw-tab-table">
-                                        <tr class="lw-table-row-1" >
-                                            <th>Quant Absolute Fund (G)</th>
-                                            <th>ICICI Prudential Equity & Debt Fund (G)</th>
-                                            <th>Principal Emerging Bluechip Fund (G)</th>
-                                            <th>Tata Digital India Fund (G)</th>
-                                            <th>Parag Parikh Flexi Cap fund (G)</th>
-                                            <th>Mirae Asset Emerging Bluechip Fund (G)</th>
-                                        </tr>
-                                        <tr>
-                                        <td class="lw-table-data-3 choose-btn" colspan="3"> 
-                                            <center>
-                                                <img src="https://cdn-icons.flaticon.com/png/512/5564/premium/5564318.png?token=exp=1655266869~hmac=8635fc511c0dfa9973c68cf78a407a81" style="height:70px"/>
-                                            </center>
-                                            </td>
-                                            <td class="lw-table-data-3 choose-btn"> 
-    <p>An investment always concerns the outlay of some capital today—time, effort, money etc..</p>
-                                            </td>
-                                        </tr>
-
-                                    </table>
-                                </div>
+                               
+                                <table class="table table-dark table-hover">
+                                                    <tr>
+                                                        <th>Fund Name</th>
+                                                        <th>AUM Size(in Cr)</th>
+                                                        <th>Nav</th>
+                                                        <th>1 Year Return</th>
+                                                        <th>3 Year Return</th>
+                                                        <th>Since Inception Return</th>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Quant Absolute Fund (G)</td>
+                                                        <td>341.661 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>14.3%</td>
+                                                        <td>24.9%</td>
+                                                        <td>16.9%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>ICICI Prudential Equity & Debt Fund (G)</td>
+                                                        <td>19330.755 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>20.4%</td>
+                                                        <td>17.5%</td>
+                                                        <td>14.7%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Principal Emerging Bluechip Fund (G)</td>
+                                                        <td>3124.318 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>38.9%</td>
+                                                        <td>21.9%</td>
+                                                        <td>24.8%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Tata Digital India Fund (G)</td>
+                                                        <td>5583.704 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>14.6%</td>
+                                                        <td>28.3%</td>
+                                                        <td>19.9%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Parag Parikh Flexi Cap fund (G)</td>
+                                                        <td>21906.959 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>11.7%</td>
+                                                        <td>23%</td>
+                                                        <td>18.6%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Mirae Asset Emerging Bluechip Fund (G)</td>
+                                                        <td>21910.25 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>7%</td>
+                                                        <td>18.6%</td>
+                                                        <td>20.4%</td>
+                                                    </tr>
+                                                </table>
+                               
                             </div>
                             <div class="tab-pane fade container" id="LOANLY-2">
-                                <div class="table-responsive">
-                                    <table class="lw-tab-table">
-                                        <tr class="lw-table-row-1">
-                                            
-                                            <th colspan="4">Life Insurance</th>
-                                            <th colspan="4">General Insurance</th>
-                                        </tr>
-                                        <tr>
-                                           
-                                          
-                                            <td class="lw-table-data-3" colspan="4">
-                                                <center>
-                                                    <img src="https://cdn-icons-png.flaticon.com/512/2966/2966486.png" style="height:70px"/>
-                                                </center>
-                                            </td>
-                                           
-                                            <td class="lw-table-data-3" colspan="4">
-                                            <center>
-                                            <img src="https://cdn-icons.flaticon.com/png/512/2603/premium/2603735.png?token=exp=1655267344~hmac=f4cd2420b5d140ef56237372934e5321" style="height:70px"/>
-                                            </center>
-                                            </td>
-                                        </tr>
-
-                                    </table>
-                                </div>
+                               
+                                <table class="table table-dark table-hover">
+                                                    <tr>
+                                                        <td>Fund Name</td>
+                                                        <td>AUM Size(in Cr)</td>
+                                                        <td>Nav</td>
+                                                        <td>1 Year Return</td>
+                                                        <td>3 Year Return</td>
+                                                        <td>Since Inception Return</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Principal Emerging Bluechip Fund (G)</td>
+                                                        <td>3124.318 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>38.9%</td>
+                                                        <td>21.9%</td>
+                                                        <td>24.8%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Tata Digital India Fund (G)</td>
+                                                        <td>5583.704 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>14.6%</td>
+                                                        <td>28.3%</td>
+                                                        <td>19.9%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Parag Parikh Flexi Cap fund (G)</td>
+                                                        <td>21906.959 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>11.7%</td>
+                                                        <td>23%</td>
+                                                        <td>18.6%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>SBI Large & Midcap Fund (G)</td>
+                                                        <td>6598.829 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>9.3%</td>
+                                                        <td>15.6%</td>
+                                                        <td>17.2%</td>
+                                                    </tr>
+                                                    
+                                                    <tr>
+                                                        <td>Canara Robeco Emerging Equities fund (G)</td>
+                                                        <td>13113.227 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>9.6%</td>
+                                                        <td>16.3%</td>
+                                                        <td>17.1%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Mirae Asset Tax Saver Fund (G)</td>
+                                                        <td>11962.664 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>6.8%</td>
+                                                        <td>17.5%</td>
+                                                        <td>18.2%</td>
+                                                    </tr>
+                                                </table>
+                              
                             </div>
                             <div class="tab-pane fade container" id="LOANLY-3">
-                                <div class="table-responsive">
-                                    <table class="lw-tab-table">
-                                        <tr class="lw-table-row-1">
-                                           
-                                            <th>Fixed Income Plan</th>
-                                            <th>Retirement Plan</th>
-                                            <th>Equity Linked Scheme</th>
-                                        </tr>
-                                        <tr>
-                                           
-                                         
-                                            <td class="lw-table-data-4">
-                                            <center>
-                                            <img src="https://cdn-icons-png.flaticon.com/512/2747/2747739.png" style="height:70px"/>
-                                            </center>
-                                            </td>
-                                            <td class="lw-table-data-3">
-                                            <center>
-                                            <img src="https://cdn-icons-png.flaticon.com/512/2167/2167930.png" style="height:70px"/>
-                                            </center>
-                                            </td>
-                                            <td class="lw-table-data-3 "> 
-                                            <center>
-                                            <img src="https://cdn-icons-png.flaticon.com/512/1289/1289126.png" style="height:70px"/>
-                                            </center>
-                                            </td>
-                                          
-                                        </tr>
-
-                                    </table>
-                                </div>
+                            
+                                <table class="table table-dark table-hover">
+                                                    <tr>
+                                                        <td>Fund Name</td>
+                                                        <td>AUM Size(in Cr)</td>
+                                                        <td>Nav</td>
+                                                        <td>1 Year Return</td>
+                                                        <td>3 Year Return</td>
+                                                        <td>Since Inception Return</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>SBI Small Cap Fund (G)</td>
+                                                        <td>12097.841</td>
+                                                        <td>Nav</td>
+                                                        <td>13</td>
+                                                        <td>24%</td>
+                                                        <td>22%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Quant Small Cap - GrowthS</td>
+                                                        <td>1822.46</td>
+                                                        <td>Nav</td>
+                                                        <td>14</td>
+                                                        <td>37</td>
+                                                        <td>18</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>BOI AXA Small Cap Fund - Regular Plan - Growth</td>
+                                                        <td>296.55</td>
+                                                        <td>Nav</td>
+                                                        <td>13</td>
+                                                        <td>30</td>
+                                                        <td>28</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>SBI Focused Equity Fund (G)</td>
+                                                        <td>24706.562</td>
+                                                        <td>Nav</td>
+                                                        <td>6</td>
+                                                        <td>13</td>
+                                                        <td>19</td>
+                                                    </tr>
+                                                   
+                                                </table>
+                                
                             </div>
                             <div class="tab-pane fade container" id="LOANLY-4">
-                                <div class="table-responsive">
-                                    <table class="lw-tab-table">
-                                        <tr class="lw-table-row-1">
-                                            <th>Personal Loan</th>
-                                            <th>Home Loan</th>
-                                            <th>Business Loan</th>
-                                           
-                                        </tr>
-                                        <tr>
-                                            <td class="lw-table-data-3">
-                                                <center>
-                                                    <img src="https://cdn-icons.flaticon.com/png/512/3146/premium/3146459.png?token=exp=1655267722~hmac=7064e1e60915e3f2576b74e27b69f7b8" style="height:70px"/>
-                                                </center>
-                                            </td>
-                                           
-                                            
-                                            <td class="lw-table-data-3">
-                                            <center>
-                                                    <img src="https://cdn-icons.flaticon.com/png/512/1149/premium/1149445.png?token=exp=1655267788~hmac=574fe8ae54202ce68bce49ad0a5ca6e1" style="height:70px"/>
-                                                </center>
-                                            </td>
-                                           
-                                           
-                                            <td class="lw-table-data-3 ">   
-                                                <center>
-                                                    <img src="https://cdn-icons-png.flaticon.com/512/7786/7786449.png" style="height:70px"/>
-                                                </center>
-                                            </td>
-                                        </tr>
-
-                                    </table>
-                                </div>
+                               
+                                <table class="table table-dark table-hover">
+                                                    <tr>
+                                                        <td>Fund Name</td>
+                                                        <td>AUM Size(in Cr)</td>
+                                                        <td>Nav</td>
+                                                        <td>1 Year Return</td>
+                                                        <td>3 Year Return</td>
+                                                        <td>Since Inception Return</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>HDFC Long Term Advantage Fund (G)</td>
+                                                        <td>1311.678 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>35.5%</td>
+                                                        <td>20.6%</td>
+                                                        <td>21.4%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Principal Personal Tax Saver Fund (G)</td>
+                                                        <td>332.677 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>31.9%</td>
+                                                        <td>16.8%</td>
+                                                        <td>19%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Quant Tax Plan (G)</td>
+                                                        <td>1316.078 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>14.4%</td>
+                                                        <td>31.1%</td>
+                                                        <td>14.8%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Mirae Asset Tax Saver Fund (G)</td>
+                                                        <td>11962.664 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>6.8%</td>
+                                                        <td>17.5%</td>
+                                                        <td>18.2%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>IDFC Tax Advantage (ELSS) Fund - Regular Plan - Growth</td>
+                                                        <td>3741.56</td>
+                                                        <td>Nav</td>
+                                                        <td>11</td>
+                                                        <td>17</td>
+                                                        <td>18</td>
+                                                    </tr>
+                                                </table>
+                               
                             </div>
                             <div class="tab-pane fade container" id="LOANLY-5">
-                                <div class="table-responsive">
-                                    <table class="lw-tab-table">
-                                        <tr class="lw-table-row-1">
-                                        
-                                            <th colspan="8">Academy Offer</th>
-                                        </tr>
-                                        <tr>
-                                           
-                                            <td class="lw-table-data-3 choose-btn"> 
-                                                <center>
-                                                    <img src="https://cdn-icons-png.flaticon.com/512/2942/2942789.png" style="height:70px"/>
-                                                </center>
-                                            </td>
-                                        </tr>
-
-                                    </table>
-                                </div>
+                               
+                                <table class="table table-dark table-hover">
+                                                    <tr>
+                                                        <td>Fund Name</td>
+                                                        <td>AUM Size(in Cr)</td>
+                                                        <td>Nav</td>
+                                                        <td>1 Year Return</td>
+                                                        <td>3 Year Return</td>
+                                                        <td>Since Inception Return</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>ICICI Prudential Liquid Fund (G)</td>
+                                                        <td>40402.167 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>3.4%</td>
+                                                        <td>4.2%</td>
+                                                        <td>7.2%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Aditya Birla Sun Life Money Manager Fund (G)</td>
+                                                        <td>15495.319 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>3.6%</td>
+                                                        <td>5.4%</td>
+                                                        <td>6.8%</td>
+                                                    </tr>
+                                                  
+                                                    <tr>
+                                                        <td>ICICI Prudential Liquid Fund Institutional (G)</td>
+                                                        <td>40402.167 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>5.8%</td>
+                                                        <td>6.4%</td>
+                                                        <td>6.9%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>HDFC Overnight fund (G)</td>
+                                                        <td>18675.838 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>3.2%</td>
+                                                        <td>3.6%</td>
+                                                        <td>5.8%</td>
+                                                    </tr>
+                                                </table>
+                              
+                            </div>
+                            <div class="tab-pane fade container" id="LOANLY-6">
+                               
+                                <table class="table table-dark table-hover">
+                                                    <tr>
+                                                        <td>Fund Name</td>
+                                                        <td>AUM Size(in Cr)</td>
+                                                        <td>Nav</td>
+                                                        <td>1 Year Return</td>
+                                                        <td>3 Year Return</td>
+                                                        <td>Since Inception Return</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>ICICI Prudential All Seasons Bond Fund Premium (G)</td>
+                                                        <td>5866.97 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>12.1%</td>
+                                                        <td>8.3%</td>
+                                                        <td>9.6%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Aditya Birla Sun Life Corporate Bond Fund Discipline Advantage Plan (G)</td>
+                                                        <td>16866.436 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>5.5%</td>
+                                                        <td>7.9%</td>
+                                                        <td>8.1%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>ICICI Prudential Corporate Bond Fund Retail (G)</td>
+                                                        <td>17579.638 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>9.5%</td>
+                                                        <td>7.7%</td>
+                                                        <td>7.9%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>ICICI Prudential Liquid Fund Institutional I (G)</td>
+                                                        <td>40402.167 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>5.9%</td>
+                                                        <td>6.4%</td>
+                                                        <td>7.5%</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>HDFC Floating Rate Debt Wholesale Plan (G)</td>
+                                                        <td>18174.076 Cr</td>
+                                                        <td>Nav</td>
+                                                        <td>3.2%</td>
+                                                        <td>6.2%</td>
+                                                        <td>7.8%</td>
+                                                    </tr>
+                                                </table>
+                              
                             </div>
                         </div>
                     </div>
@@ -672,7 +861,7 @@
                             <div class="col-sm-3">
                                 <img src="https://www.iiflwealth.com/sites/default/files/iifl-inverse-logo.png" style="height:40px;" />
                             </div>
-                            <div class="col-sm-3">
+                            <div class="col-sm-1">
                                 <img src="https://muthootgold.in/images/logo.png"style="height:40px;" />
                             </div>
                             <div class="col-sm-3">
