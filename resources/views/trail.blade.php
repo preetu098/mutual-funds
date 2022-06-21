@@ -566,87 +566,26 @@
         <div class="container">
         <h3 class="text-custom-black fw-700">
             Tools and Calculators</h3>
-                   <div class="row">
-                    <div class="col-lg-6">
-                    <div class="card">
-                        <div class="card-body" style="height:450px">
-                            <div class="row">
-                                <div class="col-lg-6">
-                                     <h4>Loan Amount</h4>
-                                </div>
-                                <div class="col-lg-6">
-                                    <button class="btn btn-info">+</button>&nbsp<input type="text" style="border-top:0;border-left:0;border-right:0"/> <button class="btn btn-info">-</button>
-                                </div>
-                                <div class="col-lg-12 mt-5" >
-                                <div class="progress">
-                                     <div class="progress-bar" style="width: 90%">
-                                          60%
-                                     </div>
-                                </div>
-                                 </div>
-                                 <div class="col-lg-6 mt-5">
-                                     <h4>Rate of Interest</h4>
-                                </div>
-                                <div class="col-lg-6 mt-5">
-                                    <button class="btn btn-info">+</button>&nbsp<input type="text" style="border-top:0;border-left:0;border-right:0"/> <button class="btn btn-info">-</button>
-                                </div>
-                                <div class="col-lg-12 mt-5" >
-                                <div class="progress">
-                                     <div class="progress-bar" style="width: 40%">
-                                          60%
-                                     </div>
-                                </div>
-                                 </div>
-                                 <div class="col-lg-6 mt-5">
-                                     <h4>Loan Duration</h4>
-                                </div>
-                                <div class="col-lg-6 mt-5">
-                                    <button class="btn btn-info">+</button>&nbsp<input type="text" style="border-top:0;border-left:0;border-right:0"/> <button class="btn btn-info">-</button>
-                                </div>
-                                <div class="col-lg-12 mt-5" >
-                                <div class="progress">
-                                     <div class="progress-bar" style="width: 70%">
-                                          60%
-                                     </div>
-                                </div>
-                                 </div>
-                            </div>
-                            
-                        </div>
-                        
-                   </div>
-                    </div>
-                    <div class="col-lg-6">
-                    <div class="card">
-                        <div class="card-body" style="height:450px;">
-                                <h5>EMI Amount</h5>
-                                <hr>
-                                <div class="row">
-                                    <div class="col-lg-6">
-                                        <div style="margin-top:100px">
-                                        <ul>
-                                                            <li>EMI Amount
-                                                                <ul>
-                                                                    <li>Principal+Interest</li>
-                                                                    <h4>Rs. 120000</h4>
-                                                                </ul>
-                                                            </li>
-                                                            <li>Interest Payable
-                                                                <ul>
-                                                                   
-                                                                    <h4>Rs. 120000</h4>
-                                                                </ul>
-                                                            </li>
-                                        </ul>
-</div>
-                                    </div>
-                                   
-                                </div>
-                        </div>
-                   </div>
-                    </div>
-                   </div>
+       <div class="row">
+            <div class="col-md-4">
+                <h5>Home Loan Calculator</h5>
+                <a href="/homeloan">
+                <img src="https://cdn4.iconfinder.com/data/icons/blue-real-estate/64/Real_Estate_Loan_House-02-512.png" style="height:100px;width:100px"/>
+                </a>
             </div>
+            <div class="col-md-4">
+                <h5>Business Loan Calculator</h5>
+                <a href="#">
+                <img src="https://cdn.pixabay.com/photo/2017/09/15/11/40/finance-2751890_960_720.png" style="height:100px;width:100px"/>
+                </a>
+            </div>
+            <div class="col-md-4">
+            <h5>Car Loan Calculator</h5>
+            <a href="#">
+            <img src="https://cdn2.iconfinder.com/data/icons/banking-astute-vol-1/512/Car_Loan_Calculator-512.png" style="height:100px;width:100px"/>
+            </a>
+            </div>
+       </div>
             </div>
         </div>
     </section>

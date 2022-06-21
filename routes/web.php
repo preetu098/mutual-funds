@@ -43,4 +43,17 @@ Route::get('/pms',function(){
     return view('pms');
 });
 
+Route::get('/homeloan',function(){
+    return view('homeload');
+});
+
+Route::get('/businessloan',function(){
+    return view('businessloan');
+});
+
+Route::get('/carloan',function(){
+    return view('carloan');
+});
+
+
 
