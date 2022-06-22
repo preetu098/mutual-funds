@@ -625,7 +625,18 @@
 
 
     <!-- Start Blog -->
-   
+   <div class="container">
+    <div class="row">
+    <div class="col-lg-4" style="margin-top:100px">
+        <img src="http://bpls.ca/wp-content/uploads/2013/04/trust-in-hands1.png"/>
+    </div>
+    <div class="col-lg-8">
+        <h3 class="mt-5">What Is a Mutual Fund?</h3>
+        <p>A mutual fund is a type of financial vehicle made up of a pool of money collected from many investors to invest in securities like stocks, bonds, money market instruments, and other assets. Mutual funds are operated by professional money managers, who allocate the fund's assets and attempt to produce capital gains or income for the fund's investors. A mutual fund's portfolio is structured and maintained to match the investment objectives stated in its prospectus.</p>
+        <p>Mutual funds give small or individual investors access to professionally managed portfolios of equities, bonds, and other securities. Each shareholder, therefore, participates proportionally in the gains or losses of the fund. Mutual funds invest in a vast number of securities, and performance is usually tracked as the change in the total market cap of the fund—derived by the aggregating performance of the underlying investments.</p>
+    </div>
+    </div>
+   </div>
     <!-- End Blog -->
 
     <section class="section-padding  doctors-team-style-2" style="padding: 44px 0px 22px 0px;height:500px">
@@ -790,8 +801,143 @@
         </div>
     </section>
     <!-- End Why choose us / testimonials -->
+    <!--start logo!-->
+    <section class="section-padding  doctors-team-style-2" style="padding: 44px 0px 22px 0px;height:500px">
+        <div class="container">
+            <div class="section-header">
+                <div class="section-heading " style="">
+                               
+                </div>
+            </div>
+            <div class="row">
+           
+                <div class="col-12 no-padding">
+                    <div class="doctors-slider">
+                  
+                        <div class="slide-item col-12">
+                        
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px">
+                               
+                                
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+            <img src="http://loanbeku.com/wp-content/uploads/2017/10/Tata-Capital-bank.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+            <img src="https://logos-world.net/wp-content/uploads/2020/11/HDFC-Bank-Logo.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+            <img src="https://orissadiary.com/wp-content/uploads/2018/08/264279_528701413838836_555702680_n-768x448.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box"style="height:150px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+                                        <img src="http://weeassure.com/assets/images/shriram-transport-finance.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px">
+                                 
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://www.govnokri.in/wp-content/uploads/2020/02/EXIM-Bank.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://pbs.twimg.com/media/EbRWhnmUMAA6YCc.jpg"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px">
+                                 
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://21btrj3i7vy42n2f4044931p-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/Bank-of-baroda.jpg"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                                
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--end logo!-->
     <!-- Start Faqs -->
-    <section class="section-padding loan-faqs-sec bg-light-white findrate-top">
+    <!-- <section class="section-padding loan-faqs-sec bg-light-white findrate-top">
         <div class="container">
             <div class="row">
                 <div class="offset-lg-2 col-lg-8">
@@ -817,7 +963,7 @@
             
         </div>
 
-    </section>
+    </section> -->
     <!-- End Faqs -->
 
     <!-- Start Footer -->
