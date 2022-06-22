@@ -55,5 +55,7 @@ Route::get('/carloan',function(){
     return view('carloan');
 });
 
-
+Route::get('/searchCompany',function(){
+    return view('searchcompany');
+});
 

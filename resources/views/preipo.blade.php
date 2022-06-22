@@ -24,7 +24,16 @@ table tr td
     font-size:18px;
 }
 </style>
-
+<!--
+start search company code    !-->
+<script>
+    function search()
+    {
+        var search=document.frm.name.search;
+        window.localStorage.setItem('search',search);
+        window.location='/searchCompany';
+    }
+</script>
 <body class="page-opt-nocalc page basicpage">
     <div class="home-page-layout cm-page-container">
         <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12" style="background-color:white">
@@ -206,14 +215,17 @@ table tr td
     <!-- End section Process -->
     <!-- Start why choose us -->
  <!-- Header Start -->
+ 
  <div class="jumbotron jumbotron-fluid"  style="background-image:url('https://fundsindiacloudfront.s3.ap-south-1.amazonaws.com/LP/iPo/Group+410.svg');background-repeat:no-repeat;">
         <div class="container text-center" style="height:300px">
            
             <div class="mx-auto" style="width: 100%; max-width: 600px;margin-left:100px">
                 <div class="input-group">
-                    <input type="text" class="form-control border-dark" style="padding: 30px;" placeholder="Search By Company name">
+                <form name="frm" onsubmit="search()">
+                    <input type="text" class="form-control border-dark" style="padding: 30px;" placeholder="Search By Company name" name="search">
                     <div class="input-group-append">
-                        <button class="btn btn-primary px-3">Search </button>
+                        <button class="btn btn-primary px-3" type="submit">Search </button>
+                </form>
                     </div>&nbsp&nbsp&nbsp&nbsp
                     <button class="btn btn-warning"><a href="">Explore All Pre_IPO</a></button>
                 </div>

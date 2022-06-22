@@ -811,12 +811,12 @@
             </div>
             <div class="row">
            
-                <div class="col-12 no-padding">
-                    <div class="doctors-slider">
+                <div class="col-12 no-padding" >
+                    <div class="doctors-slider" >
                   
-                        <div class="slide-item col-12">
+                        <div class="slide-item col-12" >
                         
-                            <div class="team-block p-relative">
+                            <div class="team-block p-relative" >
                                 <div class="inner-box" style="height:150px">
                                
                                 
