@@ -227,7 +227,7 @@
                         <div class="tab-content lw-tab-content-wrapper" >
                             <div class="tab-pane container active" id="LOANLY-1">
                                
-                                <table class="table table-dark table-hover">
+                                <table class="table table-hover">
                                                     <tr>
                                                         <th>Fund Name</th>
                                                         <th>AUM Size(in Cr)</th>
@@ -289,14 +289,14 @@
                             </div>
                             <div class="tab-pane fade container" id="LOANLY-2">
                                
-                                <table class="table table-dark table-hover">
-                                                    <tr>
-                                                        <td>Fund Name</td>
-                                                        <td>AUM Size(in Cr)</td>
-                                                        <td>Nav</td>
-                                                        <td>1 Year Return</td>
-                                                        <td>3 Year Return</td>
-                                                        <td>Since Inception Return</td>
+                                <table class="table table-hover">
+                                <tr>
+                                                        <th>Fund Name</th>
+                                                        <th>AUM Size(in Cr)</th>
+                                                        <th>Nav</th>
+                                                        <th>1 Year Return</th>
+                                                        <th>3 Year Return</th>
+                                                        <th>Since Inception Return</th>
                                                     </tr>
                                                     <tr>
                                                         <td>Principal Emerging Bluechip Fund (G)</td>
@@ -352,14 +352,14 @@
                             </div>
                             <div class="tab-pane fade container" id="LOANLY-3">
                             
-                                <table class="table table-dark table-hover">
-                                                    <tr>
-                                                        <td>Fund Name</td>
-                                                        <td>AUM Size(in Cr)</td>
-                                                        <td>Nav</td>
-                                                        <td>1 Year Return</td>
-                                                        <td>3 Year Return</td>
-                                                        <td>Since Inception Return</td>
+                                <table class="table table-hover">
+                                <tr>
+                                                        <th>Fund Name</th>
+                                                        <th>AUM Size(in Cr)</th>
+                                                        <th>Nav</th>
+                                                        <th>1 Year Return</th>
+                                                        <th>3 Year Return</th>
+                                                        <th>Since Inception Return</th>
                                                     </tr>
                                                     <tr>
                                                         <td>SBI Small Cap Fund (G)</td>
@@ -399,14 +399,14 @@
                             </div>
                             <div class="tab-pane fade container" id="LOANLY-4">
                                
-                                <table class="table table-dark table-hover">
-                                                    <tr>
-                                                        <td>Fund Name</td>
-                                                        <td>AUM Size(in Cr)</td>
-                                                        <td>Nav</td>
-                                                        <td>1 Year Return</td>
-                                                        <td>3 Year Return</td>
-                                                        <td>Since Inception Return</td>
+                                <table class="table table-hover">
+                                <tr>
+                                                        <th>Fund Name</th>
+                                                        <th>AUM Size(in Cr)</th>
+                                                        <th>Nav</th>
+                                                        <th>1 Year Return</th>
+                                                        <th>3 Year Return</th>
+                                                        <th>Since Inception Return</th>
                                                     </tr>
                                                     <tr>
                                                         <td>HDFC Long Term Advantage Fund (G)</td>
@@ -453,14 +453,14 @@
                             </div>
                             <div class="tab-pane fade container" id="LOANLY-5">
                                
-                                <table class="table table-dark table-hover">
-                                                    <tr>
-                                                        <td>Fund Name</td>
-                                                        <td>AUM Size(in Cr)</td>
-                                                        <td>Nav</td>
-                                                        <td>1 Year Return</td>
-                                                        <td>3 Year Return</td>
-                                                        <td>Since Inception Return</td>
+                                <table class="table table-hover">
+                                <tr>
+                                                        <th>Fund Name</th>
+                                                        <th>AUM Size(in Cr)</th>
+                                                        <th>Nav</th>
+                                                        <th>1 Year Return</th>
+                                                        <th>3 Year Return</th>
+                                                        <th>Since Inception Return</th>
                                                     </tr>
                                                     <tr>
                                                         <td>ICICI Prudential Liquid Fund (G)</td>
@@ -500,14 +500,14 @@
                             </div>
                             <div class="tab-pane fade container" id="LOANLY-6">
                                
-                                <table class="table table-dark table-hover">
-                                                    <tr>
-                                                        <td>Fund Name</td>
-                                                        <td>AUM Size(in Cr)</td>
-                                                        <td>Nav</td>
-                                                        <td>1 Year Return</td>
-                                                        <td>3 Year Return</td>
-                                                        <td>Since Inception Return</td>
+                                <table class="table table-hover">
+                                <tr>
+                                                        <th>Fund Name</th>
+                                                        <th>AUM Size(in Cr)</th>
+                                                        <th>Nav</th>
+                                                        <th>1 Year Return</th>
+                                                        <th>3 Year Return</th>
+                                                        <th>Since Inception Return</th>
                                                     </tr>
                                                     <tr>
                                                         <td>ICICI Prudential All Seasons Bond Fund Premium (G)</td>
