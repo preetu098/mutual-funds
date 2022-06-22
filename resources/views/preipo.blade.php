@@ -29,7 +29,7 @@ start search company code    !-->
 <script>
     function search()
     {
-        var search=document.frm.name.search;
+        var search=document.getElementById('search').value;
         window.localStorage.setItem('search',search);
         window.location='/searchCompany';
     }
@@ -221,11 +221,11 @@ start search company code    !-->
            
             <div class="mx-auto" style="width: 100%; max-width: 600px;margin-left:100px">
                 <div class="input-group">
-                <form name="frm" onsubmit="search()">
-                    <input type="text" class="form-control border-dark" style="padding: 30px;" placeholder="Search By Company name" name="search">
+              
+                    <input type="text" class="form-control border-dark" style="padding: 30px;" placeholder="Search By Company name" id="search">
                     <div class="input-group-append">
-                        <button class="btn btn-primary px-3" type="submit">Search </button>
-                </form>
+                        <button class="btn btn-primary px-3" type="submit" onclick="search()">Search </button>
+
                     </div>&nbsp&nbsp&nbsp&nbsp
                     <button class="btn btn-warning"><a href="">Explore All Pre_IPO</a></button>
                 </div>

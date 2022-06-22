@@ -44,7 +44,7 @@ if (selectedTermType == 'years')
         var monthlyInterestRatio = (rateOfInterest / 100) / 12;
         var top = Math.pow((1 + monthlyInterestRatio), numberOfMonths);
         var bottom = top - 1;
-        var sp = top / bottom;
+        var sp = top / bottom;ade
         var emi = ((loanAmount * monthlyInterestRatio) * sp);
         var full = numberOfMonths * emi;
         var interest = full - loanAmount;
