@@ -93,7 +93,7 @@
     <section class="section-padding  doctors-team-style-2" style="    padding: 0px 0px 22px 0px;">
         <div class="container">
             <div class="section-header">
-                <div class="section-heading " style="margin-top:100px">
+                <div class="section-heading " style="margin-top:50px">
                    <h3>Explore Mutual Funds</h3>
                 </div>
             </div>

@@ -116,16 +116,7 @@ start search company code    !-->
 
     </div>
     <!-- Start Team Doctors -->
-    <section class="section-padding  doctors-team-style-2" style="    padding: 0px 0px 22px 0px;">
-        <div class="container">
-            <div class="section-header">
-                <div class="section-heading " style="margin-top:100px">
-                   
-                </div>
-            </div>
-            
- 
-    </section>
+   
     <!-- End Team Doctors -->
     <!-- start lw-tab -->
     <center>
@@ -166,7 +157,7 @@ start search company code    !-->
         </div>
     </section> -->
  
-    <div class="container-fluid mb-5">
+    <!-- <div class="container-fluid mb-5">
         <div class="container text-center ">
         
             <h3 class="text-warning">Top Recommendations</h3>
@@ -211,8 +202,94 @@ start search company code    !-->
             </div> -->
         </div>
     </div>
-</center>
-    <!-- End section Process -->
+</center> -->
+<!--start recommendation-->
+<section class="section-padding  doctors-team-style-2" style="padding: 0px 0px 22px 0px;">
+        <div class="container">
+            <div class="section-header">
+                <div class="section-heading " style="margin-top:50px">
+                   <h3>Top Recommendation</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 no-padding">
+                    <div class="doctors-slider">
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box">
+                                    <div class="lower-content p-relative text-center">
+                                        <center>
+                                        <!-- <h4 class="text-info">Reliance Retail</h4> -->
+                <img src="https://1000logos.net/wp-content/uploads/2021/08/Reliance-Industries-Limited-RIL-Logo-1966.png" style="height:100px;width:100px"/>
+                                        </center>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box">
+                                    <div class="lower-content p-relative text-center">
+                                    <center>
+                                    <img src="https://naftp.tatatechnologies.com/images/logo/TATA-and-Tata-Technologeis-STACKED-BLUE.png" style="height:100px;width:100px"/>
+                                    </center>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box">
+                                    <div class="lower-content p-relative text-center">
+                                    <center>
+                                    <img src="https://cdn4.iconfinder.com/data/icons/fashion-vol-1/72/28-512.png" style="height:100px;width:100px"/>
+                                    </center>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box">
+                                    <div class="lower-content p-relative text-center">
+                                    <center>
+                                    <img src="https://www.nsbpictures.com/wp-content/uploads/2019/03/chennai_super_kings_logo_freelogovectors.net_.png" style="height:100px;width:100px"/>
+                                    </center>
+                                     
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box">
+                                    <div class="lower-content p-relative text-center">
+                                    <center>
+                                    <img src="https://freepngimg.com/download/health/67606-green-healthcare-medicine-health-care-icon.png" style="height:100px;width:100px"/>
+                                    </center>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box">
+                                    <div class="lower-content p-relative text-center">
+                                    <center>
+                                    <img src="https://jobseekers.vn/wp-content/uploads/2019/03/capgemini-logo-2.png" style="height:100px;width:100px"/>
+                                    </center>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End recommendation Process -->
     <!-- Start why choose us -->
  <!-- Header Start -->
  
@@ -250,97 +327,256 @@ start search company code    !-->
    </div>
        <!-- Table Format!-->
     <div class=" mx-auto table-shrink" style="width:80%;margin-top:20px;">
-    <div class="row">
-            <div class="col-lg-12 mb-5">
-                <button class="btn btn-info">Report</button> <button class="btn btn-info">Invest</button>
-</div>
-</div>
-        <div class="row">
+   
+        <div class="row mt-5">
             <div class="col-lg-12">
                 <div class="card">
                    
 
-                        <div class=" mb-0 fixed-solution" data-pattern="priority-columns" style="height: 300px;overflow: scroll;">
+                        <div class=" mb-0 fixed-solution" data-pattern="priority-columns" style="height: 500px;overflow: scroll;">
                           
-                            <table class="table table-striped .table-fixed" id="tech-companies-1"  >
-                                <thead style="position: sticky;top: 0;background-color: white;" >
+                            <table class="table table-hover table-fixed" id="tech-companies-1"  >
+                              
                                
-                                    <tr
-                                        style="font-size: 14px;opacity: 0.8;">
-                                     
-                                        <th class="text-center">
-                                            S.NO
-
-                                            </div>
-                                        </th>
-                                        <th id="tech-companies-1-col-0">Name </th>
-                                        <th id="tech-companies-1-col-0">ISN Number</th>
-                                        <th id="tech-companies-1-col-0">Price</th>
-                                        <th id="tech-companies-1-col-0">Rating</th>
-                                    
-                                        
-                                
-                                    </tr>
-                               
-                                </thead>
-                                <tbody>
-                                    <tr id="tr_148">
+                                 
+                                    <tr style="color:white;background-color:#3CB371">
+                                                        <th>Company Name</th>
+                                                        <th>ISIN NUMBER</th>
+                                                        <th>Market Price</th>
+                                                        <th>Rating</th>
+                                                        
+                                                        <th>Process</th>
+                                                    </tr>
+                              
+                                    <tr>
                                         
                                       
-                                        <td>11</td>
-                                        <td>14</td>
-                                        <td>Party Id</td>
-                                        <td>GLPIA</td>
-                                        <td>False </td>
+                                        <td>Bagrrys India Limited</td>
+                                        <td>INE229F0102</td>
+                                        <td>1995</td>
+                                        <td>Rating</td>
+                                  
+                                        <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                             
+                                    </tr>
+                                    <tr>
+                                        
+                                        <td>Bikaji Foods International Ltd.</td>
+                                        <td>INE00E101023</td>
+                                        <td>400</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                     
+                                    </tr>
+                                    <tr>
+                                        
+                                        <td>Auckland jute (CDSL only)</td>
+                                        <td>NULL</td>
+                                        <td>55</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                     
+                                    </tr>
+                                    <tr>
+                                       
+                                        <td>Care Health Insurance(Religare)</td>
+                                        <td>INE957N01016</td>
+                                        <td>155</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                      
+                                    </tr>
+                                    <tr>
+                                        
+                                        <td>Goa Shipyard Limited</td>
+                                        <td>INE178Z01013</td>
+                                        <td>300</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                      
+                                    </tr>
+                                    <tr>
+                                        
+                                        <td>ICL Fincorp</td>
+                                        <td>INE01CY01013</td>
+                                        <td>29</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                       
+                                    </tr>
+                                    <tr>
+                                        
+                                        <td>Kannur International Airport</td>
+                                        <td> INE02Y401013</td>
+                                        <td>122</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                    </tr>
+                               
+                                    <tr>
+                                        
+                                        <td>Metropolitan Stock Exchange</td>
+                                        <td>INE312K01010</td>
+                                        <td>1.4</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                    </tr>
+
+                                    <tr>
+                                        
+                                        <td>PNB Metlife (NSDL only)</td>
+                                        <td>INE207O01014</td>
+                                        <td>62</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                    </tr>
+                                    <tr>
+                                        
+                                        <td>Reliance Retail</td>
+                                        <td>INE742O01010</td>
+                                        <td>3200</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                    </tr>
+                                    <tr>
+                                        
+                                        <td>HDFC Securities Limited</td>
+                                        <td>INE700G01014</td>
+                                        <td>14700</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                    </tr>
+                                    <tr>
+                                        
+                                        <td>A V Thomas & Co. Limited</td>
+                                        <td>INE944K01010</td>
+                                        <td>13985</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                    </tr>
+                                    <tr>
+                                        
+                                        <td>Anugraha Valve Casting</td>
+                                        <td>INE629Z01015</td>
+                                        <td>455</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                    </tr>
+                                    <tr>
+                                        
+                                        <td>Arkfin Investments Private Limited</td>
+                                        <td> INE06EK01017</td>
+                                        <td>54</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                    </tr>
+                                    <tr>
+                                        
+                                        <td>Asian Bearings Ltd.</td>
+                                        <td>NULL</td>
+                                        <td>4</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                    </tr>
+                                    <tr>
+                                        
+                                        <td>Arraycom India Ltd.</td>
+                                        <td>NULL</td>
+                                        <td>108</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                    </tr>
+                                    <tr>
+                                        
+                                        <td>AB Corp Ltd.</td>
+                                        <td>NULL</td>
+                                        <td>12</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                    </tr>
+
+                                    <tr>
+                                        
+                                        <td>Ahmedabad Stock Exchange - (NSDL Only)</td>
+                                        <td>NULL</td>
+                                        <td>58</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                    </tr>
+                                    <tr>
+                                        
+                                        <td>Amalgamation Repco Ltd.</td>
+                                        <td>NULL</td>
+                                        <td>528</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                    </tr>
+                                    <tr>
+                                        
+                                        <td>Anand I-Power Limited</td>
+                                        <td>NULL</td>
+                                        <td>33</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                    </tr>
                                    
-                                    </tr>
-                                    <tr id="tr_147">
+                                    <tr>
                                         
-                                        <td>11</td>
-                                        <td>14</td>
-                                        <td>Party Id</td>
-                                        <td>purinv</td>
-                                        <td>False </td>
-                                     
+                                        <td>Vikram Solar Ltd.</td>
+                                        <td>NULL</td>
+                                        <td>370</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
                                     </tr>
-                                    <tr id="tr_146">
-                                       
-                                        <td>10</td>
-                                        <td>13</td>
-                                        <td>Party Id</td>
-                                        <td>GSI</td>
-                                        <td>False </td>
-                                      
-                                    </tr>
-                                    <tr id="tr_115">
+                                    <tr>
                                         
-                                        <td>10</td>
-                                        <td>13</td>
-                                        <td>Party Id</td>
-                                        <td>GSR</td>
-                                        <td>False </td>
-                                      
+                                        <td>Transformers & Electricals Kerala Limited</td>
+                                        <td>NULL</td>
+                                        <td>90</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
                                     </tr>
-                                    <tr id="tr_114">
+                                    <tr>
                                         
-                                        <td>11</td>
-                                        <td>14</td>
-                                        <td>Party Id</td>
-                                        <td>GLPI</td>
-                                        <td>False </td>
-                                       
+                                        <td>Merind Ltd.</td>
+                                        <td> NULL</td>
+                                        <td>390</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
                                     </tr>
-                                    <tr id="tr_82">
-                                        
-                                        <td>10</td>
-                                        <td>13</td>
-                                        <td>Party Id</td>
-                                        <td>GSI</td>
-                                        <td>False </td>
-                                       
-                                    </tr>
-                                </tbody>
 
+                                    <tr>
+                                        
+                                        <td>Kusum Industries Gases Limited</td>
+                                        <td> NULL</td>
+                                        <td>592</td>
+                                        <td>Rating</td>
+                                  
+                                  <td><button class="btn" style="color:white;background-color:#3CB371">Report<button>&nbsp&nbsp&nbsp<button class="btn" style="color:white;background-color:#3CB371">Invest Now<button></td>
+                                    </tr>
+                               
                             </table>
                             </div>
                         </div>
