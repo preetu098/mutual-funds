@@ -96,16 +96,94 @@ box-shadow:2px 2px 2px 2px black;
 
     </div>
  
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12" style="background-image:url()">
-                
+    <section class="section-padding  doctors-team-style-2" style="padding: 0px 0px 22px 0px;">
+        <div class="container">
+            <div class="section-header">
+                <div class="section-heading " style="margin-top:50px">
+                   <h3>Explore</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 no-padding">
+                    <div class="doctors-slider">
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box">
+                                    <div class="lower-content p-relative text-center">
+                                        <center>
+                                        <!-- <h4 class="text-info">Reliance Retail</h4> -->
+                <img src="https://www.comparteinvest.com/wp-content/uploads/2019/12/The-working-of-Asset-Management-companies-300x209.jpg" style="height:200px;width:200px"/>
+                                        </center>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box">
+                                    <div class="lower-content p-relative text-center">
+                                    <center>
+                                    <img src="https://dutchuncles.in/wp-content/uploads/2021/09/Asset-Management-Company-AMC-01.jpg" style="height:200px;width:200px"/>
+                                    </center>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box">
+                                    <div class="lower-content p-relative text-center">
+                                    <center>
+                                    <img src="https://static.lexpress.fr/medias_12384/w_635,h_355,c_crop,x_5,y_113/w_1000,h_563,c_fill,g_north/v1644584517/management-novlangue_6341054.jpg" style="height:200px;width:200px"/>
+                                    </center>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box">
+                                    <div class="lower-content p-relative text-center">
+                                    <center>
+                                    <img src="https://blogs.manageengine.com/wp-content/uploads/2020/04/Blog-11-scaled.jpg" style="height:200px;width:200px"/>
+                                    </center>
+                                     
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box">
+                                    <div class="lower-content p-relative text-center">
+                                    <center>
+                                    <img src="https://ik.imagekit.io/aifpms/wp-content/uploads/2022/01/aifpms-blog-2.jpg"style="height:200px;width:200px"/>
+                                    </center>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box">
+                                    <div class="lower-content p-relative text-center">
+                                    <center>
+                                    <img src="https://i0.wp.com/www.omegafinancial.co.in/wp-content/uploads/2021/11/pmss.jpg?fit=626%2C447&ssl=1" style="height:200px;width:200px"/>
+                                    </center>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
+    </section>
     
      <!-- Start Faqs -->
-     <section class="section-padding loan-faqs-sec bg-light-white findrate-top">
+     <section class="section-padding loan-faqs-sec bg-light-white findrate-top" style="margin-top:200px">
         <div class="container">
             <div class="row">
                 <div class="offset-lg-2 col-lg-8">
