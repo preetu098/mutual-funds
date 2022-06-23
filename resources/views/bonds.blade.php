@@ -13,6 +13,13 @@ box-shadow:2px 2px 2px 2px black;
 }
 .cardborderless
 {border:0px;}
+
+.inner-box 
+{
+    width:400px;
+    height:400px;
+}
+
 </style>
 <body class="page-opt-nocalc page basicpage">
     <div class="home-page-layout cm-page-container">
@@ -95,6 +102,80 @@ box-shadow:2px 2px 2px 2px black;
         </div>
 
     </div>
+<!--start slider for security-->
+<section class="section-padding  doctors-team-style-2" style="padding: 0px 0px 22px 0px;">
+        <div class="container">
+            <div class="section-header">
+                <div class="section-heading " style="margin-top:50px">
+                   <h3>Explore Security</h3>
+                </div>
+            </div>
+              <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12" style="background-color:white">
+            <div class="row">
+                <div class="col-md-12">
+                    <div id="carouselExampleIndicators1" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#carouselExampleIndicators1" data-slide-to="0" class="active"></li>
+                            <li data-target="#carouselExampleIndicators1" data-slide-to="1"></li>
+                            <li data-target="#carouselExampleIndicators1" data-slide-to="2"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                        <div class="carousel-item active">
+                                <div class="card">
+                                        <div class="card-body">
+                                            <center>
+                                                <h3 class="text-danger">9.25% TATA CAPITAL FINANCIAL SERVICES 2025</h3>
+                                            </center>
+                                        </div>
+                                </div>
+                                <div class="carousel-caption d-none d-md-block">
+                                    <h5>...</h5>
+                                    <p>...</p>
+                                </div>
+                            </div>
+                            <div class="carousel-item"> 
+                            <div class="card">
+                                        <div class="card-body">
+                                            <center>
+                                                <h3 class="text-danger">9.25% TATA CAPITAL FINANCIAL SERVICES 2025</h3>
+                                            </center>
+                                        </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                            <div class="card">
+                                        <div class="card-body">
+                                            <center>
+                                                <h3 class="text-danger">9.25% TATA CAPITAL FINANCIAL SERVICES 2025</h3>
+                                            </center>
+                                        </div>
+                                </div>
+                                <div class="carousel-caption d-none d-md-block">
+                                    <h5>...</h5>
+                                    <p>...</p>
+                                </div>
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleIndicators1" role="button"
+                            data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleIndicators1" role="button"
+                            data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+<!--end slide for security-->
+
     <div class="container mt-5">
     <div class="row">
             <div class="col-lg-4">
