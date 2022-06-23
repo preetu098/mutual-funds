@@ -94,7 +94,7 @@
         <div class="container">
             <div class="section-header">
                 <div class="section-heading " style="margin-top:100px">
-                   
+                   <h3>Explore Mutual Funds</h3>
                 </div>
             </div>
             <div class="row">
@@ -806,7 +806,7 @@
         <div class="container">
             <div class="section-header">
                 <div class="section-heading " style="">
-                               
+                               <h3>Funds House</h3>
                 </div>
             </div>
             <div class="row">

@@ -136,13 +136,13 @@ name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, m
                                             </li>
                                             <li class="nav-item">
                                                 <input type="radio" name="nav-radio">
-                                                <a href="javascript:void(0)">PMS</a>
+                                                <a href="javascript:void(0)">PMS & AIF</a>
 
                                             </li>
 
                                             <li class="nav-item   ">
                                                 <input type="radio" name="nav-radio">
-                                                <a href="javascript:void(0)">Alternative Investment Fund</a>
+                                                <a href="javascript:void(0)">International Funds(NRI Only)</a>
 
                                             </li>
                                             <li class="nav-item   ">
