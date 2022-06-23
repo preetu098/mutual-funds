@@ -586,7 +586,139 @@ start search company code    !-->
         </div>
     </div>
     <!-- End Faqs -->
-
+    <section class="section-padding  doctors-team-style-2" style="padding: 44px 0px 22px 0px;height:500px">
+        <div class="container">
+            <div class="section-header">
+                <div class="section-heading " style="">
+                               <h3>Funds House</h3>
+                </div>
+            </div>
+            <div class="row">
+           
+                <div class="col-12 no-padding" >
+                    <div class="doctors-slider" >
+                  
+                        <div class="slide-item col-12" >
+                        
+                            <div class="team-block p-relative" >
+                                <div class="inner-box" style="height:150px">
+                               
+                                
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+            <img src="http://loanbeku.com/wp-content/uploads/2017/10/Tata-Capital-bank.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+            <img src="https://logos-world.net/wp-content/uploads/2020/11/HDFC-Bank-Logo.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+            <img src="https://orissadiary.com/wp-content/uploads/2018/08/264279_528701413838836_555702680_n-768x448.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box"style="height:150px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+                                        <img src="http://weeassure.com/assets/images/shriram-transport-finance.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px">
+                                 
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://www.govnokri.in/wp-content/uploads/2020/02/EXIM-Bank.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://pbs.twimg.com/media/EbRWhnmUMAA6YCc.jpg"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px">
+                                 
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://21btrj3i7vy42n2f4044931p-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/Bank-of-baroda.jpg"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                                
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- Start Footer -->
     <footer class="bg-black section-padding footer">
         <div class="container">
