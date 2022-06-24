@@ -59,3 +59,11 @@ Route::get('/searchCompany',function(){
     return view('searchcompany');
 });
 
+Route::get('/fd',function(){
+    return view('fd');
+});
+
+
+
+
+
