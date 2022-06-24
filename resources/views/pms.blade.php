@@ -33,7 +33,7 @@ box-shadow:2px 2px 2px 2px black;
                         <div class="carousel-inner">
                         <div class="carousel-item active">
                                 <img class="d-block w-100"
-                                    src="https://pmsaif.files.wordpress.com/2019/09/pms-1.png?w=1024"
+                                    src="https://abakkusinvest.com/wp-content/themes/twentytwenty/assets/images/new-ban.png"
                                     alt="First slide" style="height:300px">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>...</h5>
@@ -117,7 +117,7 @@ box-shadow:2px 2px 2px 2px black;
                                     <div class="lower-content p-relative text-center">
                                         <center>
                                         <!-- <h4 class="text-info">Reliance Retail</h4> -->
-                <img src="https://www.comparteinvest.com/wp-content/uploads/2019/12/The-working-of-Asset-Management-companies-300x209.jpg" style="height:200px;width:200px"/>
+                <img src="https://abakkusinvest.com/wp-content/themes/twentytwenty/assets/images/new-ban.png" style="height:200px;width:200px"/>
                                         </center>
                                     </div>
 
@@ -129,7 +129,7 @@ box-shadow:2px 2px 2px 2px black;
                                 <div class="inner-box">
                                     <div class="lower-content p-relative text-center">
                                     <center>
-                                    <img src="https://dutchuncles.in/wp-content/uploads/2021/09/Asset-Management-Company-AMC-01.jpg" style="height:200px;width:200px"/>
+                                    <img src="https://cdn.dribbble.com/users/2682232/screenshots/9023345/dribbble_shot_hd_-_1_4x.jpg" style="height:200px;width:200px"/>
                                     </center>
                                     </div>
                                 </div>
@@ -140,7 +140,7 @@ box-shadow:2px 2px 2px 2px black;
                                 <div class="inner-box">
                                     <div class="lower-content p-relative text-center">
                                     <center>
-                                    <img src="https://static.lexpress.fr/medias_12384/w_635,h_355,c_crop,x_5,y_113/w_1000,h_563,c_fill,g_north/v1644584517/management-novlangue_6341054.jpg" style="height:200px;width:200px"/>
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDXj-Li5b8gv7TCFJtxfQnbwULP-BhpG88yY_UBBiOaGSYoyGQUEuGg3pHs69PYFjOlMQ&usqp=CAU" style="height:200px;width:200px"/>
                                     </center>
                                     </div>
                                 </div>
@@ -151,7 +151,7 @@ box-shadow:2px 2px 2px 2px black;
                                 <div class="inner-box">
                                     <div class="lower-content p-relative text-center">
                                     <center>
-                                    <img src="https://blogs.manageengine.com/wp-content/uploads/2020/04/Blog-11-scaled.jpg" style="height:200px;width:200px"/>
+                                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-6DD1ZDYuMNISVY4Jh-a_0-BEBqOv-nISjZUR8Zac8j2hj4y2hrB1JJJV8ZtKaJNevM&usqp=CAU" style="height:200px;width:200px"/>
                                     </center>
                                      
                                     </div>
@@ -163,7 +163,7 @@ box-shadow:2px 2px 2px 2px black;
                                 <div class="inner-box">
                                     <div class="lower-content p-relative text-center">
                                     <center>
-                                    <img src="https://ik.imagekit.io/aifpms/wp-content/uploads/2022/01/aifpms-blog-2.jpg"style="height:200px;width:200px"/>
+                                    <img src="https://previews.123rf.com/images/vectorknight/vectorknight1904/vectorknight190400018/123990189-career-growth-to-success-business-people-vector-illustration-achievement-concept-financial-wealth-an.jpg"style="height:200px;width:200px"/>
                                     </center>
                                     </div>
                                 </div>
@@ -174,7 +174,7 @@ box-shadow:2px 2px 2px 2px black;
                                 <div class="inner-box">
                                     <div class="lower-content p-relative text-center">
                                     <center>
-                                    <img src="https://i0.wp.com/www.omegafinancial.co.in/wp-content/uploads/2021/11/pmss.jpg?fit=626%2C447&ssl=1" style="height:200px;width:200px"/>
+                                    <img src="https://previews.123rf.com/images/ontsunan/ontsunan1812/ontsunan181200020/118386199-mini-people-create-idea-to-success-business-illustration-vector-graphic-on-white-background-flat-car.jpg" style="height:200px;width:200px"/>
                                     </center>
                                     </div>
                                 </div>
