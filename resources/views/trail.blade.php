@@ -1,6 +1,7 @@
 @include('layout.header')
 
 <body class="page-opt-nocalc page basicpage">
+    
     <div class="home-page-layout cm-page-container">
         <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12" style="background-color:white">
             <div class="row">
@@ -76,6 +77,11 @@
                             <label for="exampleInputPassword1">Password</label>
                             <input type="password" class="form-control" id="exampleInputPassword1"
                                 placeholder="Password">
+                        </div>
+                        <div class="mb-3 mt-3">
+                            <label for="exampleInputPassword1">OTP</label>
+                            <input type="text" class="form-control" id="exampleInputPassword1"
+                                placeholder="otp">
                         </div>
                        
                         <button type="submit" class="btn btn-primary">Submit</button>
