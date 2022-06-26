@@ -63,9 +63,11 @@ Route::get('/fd',function(){
     return view('fd');
 });
 
-Route::get('loan/',function(){
+Route::get('/loan',function(){
     return view('loan');
 });
 
-
+Route::get('/creditcards',function(){
+    return view('creditcards');
+});
 

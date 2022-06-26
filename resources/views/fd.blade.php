@@ -27,8 +27,7 @@
                             </div>
                             <div class="carousel-item">
                                 <img class="d-block w-100"
-                                    src="https://www.bajajfinservmarkets.in/discover/wp-content/uploads/2019/08/
-                                    How-To-FD-min-6.jpg"
+                                    src="https://img.freepik.com/free-vector/investor-with-laptop-monitoring-growth-dividends-trader-sitting-stack-money-investing-capital-analyzing-profit-graphs-vector-illustration-finance-stock-trading-investment_74855-8432.jpg?t=st=1656208835~exp=1656209435~hmac=89e658753d7e56b49f8e6e64db5fe5392db8e2320c053b534786134626ef8d69&w=826"
                                     alt="Third slide" style="height:300px">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>...</h5>
