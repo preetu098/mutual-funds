@@ -74,3 +74,12 @@ Route::get('/creditcards',function(){
 Route::get('/sbi',function(){
     return view('sbi');
 });
+Route::get('/hdfc',function(){
+    return view('hdfc');
+});
+Route::get('/icici',function(){
+    return view('icici');
+});
+Route::get('/standardcharted',function(){
+    return view('standardcharted');
+});

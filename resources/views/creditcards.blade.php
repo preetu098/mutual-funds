@@ -108,18 +108,18 @@ window.addEventListener("scroll", reveal);
                           
                       
                                 <img class="d-block w-100"
-                                    src="https://img.freepik.com/free-vector/gradient-credit-assessment-concept_52683-76915.jpg?t=st=1656257102~exp=1656257702~hmac=a015d39eea6b87a22a8079edc58603da0e055c6d35b52c198b60043d07844d1b&w=740"
+                                    src="https://img.freepik.com/free-vector/mobile-banking-app-epayment-by-smartphone-electronic-credit-card-phone-wallet-online-banking_3482-5772.jpg?w=996"
                                     alt="Second slide" style="height:300px">
                             </div>
 
                             <div class="carousel-item"> 
                                 <img class="d-block w-100"
-                                    src="https://img.freepik.com/free-vector/human-hands-holding-credit-debit-card-money-bills-financial-operations-investments-transactions-cash-turnover-cash-non-cash-payment_458444-275.jpg?w=900"
+                                    src="https://img.freepik.com/free-vector/3d-mobile-phone-with-gold-coin-digital-transfer-into-credit-card-online-payment-transaction-concept-business-mobile-app-banner-cartoon-realistic-style-vector-illustration_257312-2115.jpg?w=900"
                                     alt="Second slide" style="height:300px">
                             </div>
                             <div class="carousel-item">
                                 <img class="d-block w-100"
-                                    src="https://img.freepik.com/free-vector/payment-by-credit-card-through-pos-terminal-cash-contactless-payment-payments-by-smartphone-app-transaction-receipt-online-banking-electronic-money-nfc_458444-824.jpg?w=826"
+                                    src="https://img.freepik.com/free-vector/vector-illustration-realistic-style-concept-mobile-payments-using-application-your-smartphone_1441-231.jpg?t=st=1656318802~exp=1656319402~hmac=f7b153be7afc6611ef66e8b0707cac7cd5c054ee7cb0ba3a555bdf5d2621a52b&w=740"
                                     alt="Third slide" style="height:300px">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>...</h5>
@@ -182,41 +182,49 @@ window.addEventListener("scroll", reveal);
     </div>
       <div class="row">
         <div class="col-lg-3">
+          <a href="/standardcharted">
             <div class="card">
               <div class="card-body">
               <img src="https://img.freepik.com/free-vector/vector-illustration-people-are-trying-pay-off-loan-from-credit-card-debt-short-term-consumer-debt-with-low-interest-more-difficult-pay-off-can-use-web-website-apps-poster-banner-flyer_4968-1713.jpg" style="height:200px;width:300px"/>
 </div>
+
 <div class="card-header">
 
   <h4>Standard Charted </h4>
 </div>
             </div>
+</a>
         </div>
         <div class="col-lg-3">
+          <a href="/sbi">
             <div class="card">
             <div class="card-body">
               <img src="https://www.sbicard.com/creditcards/resources/img/digi-col-login.png" style="height:200px;width:300px"/>
 </div>
-<a href="/sbi">
+
 <div class="card-header">
 
   <h4>SBI </h4>
 </div>
             </div>
+</a>
         </div>
         <div class="col-lg-3">
+          <a href="/icici">
             <div class="card">
                 <div class="card-body">
               <img src="https://images.fintra.co.in/cms/how-to-pick-credit-cards-2.png" style="height:200px;width:300px"/>
 </div>
-</a>
+
 <div class="card-header">
 
   <h4>ICICI </h4>
 </div>
             </div>
+</a>
         </div>
         <div class="col-lg-3">
+          <a href="/hdfc">
             <div class="card">
             <div class="card-body">
               <img src="https://cdnapp.indialends.com//livesite/Images/cc-generic/how-it-works-img.svg" style="height:200px;width:300px"/>
@@ -227,6 +235,7 @@ window.addEventListener("scroll", reveal);
 </div>
             </div>
         </div>
+</a>
       </div>
   </div>
 </section>   
