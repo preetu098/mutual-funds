@@ -64,7 +64,7 @@ name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, m
                                                 <a class="custom-anchor" href="/loan">LOANS</a>
                                             </li>
                                             <li class="sub-headers">
-                                                <a class="custom-anchor" href="/about">CREDIT CARDS</a>
+                                                <a class="custom-anchor" href="/creditcards">CREDIT CARDS</a>
                                             </li>
                                         </ul>
                                         <div class="right-nav-menu">

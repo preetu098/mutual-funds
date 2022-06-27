@@ -71,3 +71,6 @@ Route::get('/creditcards',function(){
     return view('creditcards');
 });
 
+Route::get('/sbi',function(){
+    return view('sbi');
+});
