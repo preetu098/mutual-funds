@@ -1,7 +1,9 @@
 @include('layout.header')
 
-
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet"> -->
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Asap&display=swap');
 *{
@@ -196,28 +198,28 @@ window.addEventListener("scroll", reveal);
 <section>
   <div class="container">
     <div class="row">
-      <h3>Credit Cards</h3>
+      <h3 class="mt-5">Credit Cards</h3>
     </div>
       <div class="row">
         <div class="col-lg-3">
         <a href="#sbc" role="tab" data-toggle="tab">
             <div class="card">
               <div class="card-body">
-              <img src="https://img.freepik.com/free-vector/vector-illustration-people-are-trying-pay-off-loan-from-credit-card-debt-short-term-consumer-debt-with-low-interest-more-difficult-pay-off-can-use-web-website-apps-poster-banner-flyer_4968-1713.jpg" style="height:200px;width:300px"/>
-</div>
+              <img src="https://cdn-icons-png.flaticon.com/512/196/196575.png" style="height:200px;width:300px"/>
+                  </div>
 
-<div class="card-header">
+          <div class="card-header">
 
-  <h4>Standard Charted </h4>
-</div>
-            </div>
-</a>
-        </div>
+            <h4>Standard Charted </h4>
+          </div>
+                      </div>
+          </a>
+                  </div>
         <div class="col-lg-3">
         <a href="#sbi" role="tab" data-toggle="tab">
             <div class="card">
             <div class="card-body">
-              <img src="https://www.sbicard.com/creditcards/resources/img/digi-col-login.png" style="height:200px;width:300px"/>
+              <img src="https://bfsi.eletsonline.com/wp-content/uploads/2017/05/sbi-cards-1.png" style="height:200px;width:300px"/>
 </div>
 
 <div class="card-header">
@@ -231,7 +233,7 @@ window.addEventListener("scroll", reveal);
         <a href="#icici" role="tab" data-toggle="tab">
             <div class="card">
                 <div class="card-body">
-              <img src="https://images.fintra.co.in/cms/how-to-pick-credit-cards-2.png" style="height:200px;width:300px"/>
+              <img src="https://i0.wp.com/logotaglines.com/wp-content/uploads/2016/08/ICICI-Logo.png?fit=386%2C395&ssl=1" style="height:200px;width:300px"/>
 </div>
 
 <div class="card-header">
@@ -245,7 +247,7 @@ window.addEventListener("scroll", reveal);
         <a href="#hdfc" role="tab" data-toggle="tab">
             <div class="card">
             <div class="card-body">
-              <img src="https://cdnapp.indialends.com//livesite/Images/cc-generic/how-it-works-img.svg" style="height:200px;width:300px"/>
+              <img src="https://www.equitypandit.com/wp-content/uploads/2018/03/hdfc.jpg" style="height:200px;width:300px"/>
 </div>
 <div class="card-header">
 
@@ -272,7 +274,7 @@ window.addEventListener("scroll", reveal);
                     <h4>20% cashback at Myntra</h4>
                   </div>
                   <div class="col-lg-4  mt-5" id="sbccard">
-                    <img src=https://theplugmedia.in/wp-content/uploads/2020/06/inox.png" style="height:200px;width:200px;"/>
+                    <img src="https://theplugmedia.in/wp-content/uploads/2020/06/inox.png" style="height:200px;width:200px;"/>
                     <h4>Buy One Get One</h4>
                   </div>
                 </div>
@@ -302,13 +304,430 @@ window.addEventListener("scroll", reveal);
             </div>
       </div>
       <div class="tab-pane" id="sbi">
-            <h2>Welcome in SBI</h2>
+           <div class="container mt-5">
+                <div class="row">
+                <nav class="navbar navbar-expand-sm bg-light navbar-light">
+                  <div class="container-fluid">
+                    <ul class="navbar-nav">
+                      <li class="nav-item">
+                        <a class="nav-link active" href="#tab1" role="tab" data-toggle="tab"><img src="https://icons-for-free.com/download-icon-bar+beverage+drink+lifestyle+straw+wine+icon-1320185864732778943_512.png" style="height:50px;width:50px"/>LifeStyle Cards</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#tab2" role="tab" data-toggle="tab"><img src="https://static.thenounproject.com/png/2434642-200.png" style="height:50px;width:50px"/>Reward Cards</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#tab3" role="tab" data-toggle="tab">
+                          <img src="https://cdn-icons-png.flaticon.com/512/263/263142.png" style="height:50px;width:50px"/>Shopping Cards</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#tab4" role="tab" data-toggle="tab"><img src="https://cdn1.iconfinder.com/data/icons/car-dashboard-part-2/100/fuel-in-water-512.png" style="height:50px;width:50px"/>Travel & Fule Cards</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#tab5" role="tab" data-toggle="tab"><img src="https://cdn4.iconfinder.com/data/icons/digital-banking-and-finance/64/Private-Banking-shareholder-partner-business-512.png" style="height:50px;width:50px"/>Banking PartnerShip Cards</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#tab6" role="tab" data-toggle="tab"><img src="https://cdn-icons-png.flaticon.com/512/46/46789.png" style="height:50px;width:50px"/>Business Cards</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="#tab7" role="tab" data-toggle="tab"><img src="https://cdn3.iconfinder.com/data/icons/pyconic-icons-2-1/512/cards-512.png" style="height:50px;width:50px"/>All Cards</a>
+                      </li>
+                    </ul>
+                  </div>
+              </nav>
+                </div>
+                <div class="row">
+                  <div class="tab-content">
+                  <div class="tab-pane active" id="tab1" role="tabpanel">
+                  
+                    <div class="container">
+                 
+                        <div class="row mt-4">
+                          <div class="col-lg-4">
+          <img src="https://www.sbicard.com/sbi-card-en/assets/media/images/corporate/cards/travel-entertainment-cards/sbi-signature-corporate-card/card-faces/sbi-signature-corporate-card.jpg" style="height:200px;width:400px;"/>
+          <button class="btn btn-info mt-5" >Apply Now</button>
+              <div class="row">
+                      <div class="col-md-12">
+                        <h4>SBI Card ELITE</h4>
+                        <div class="mt-5">
+                        <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbspWelcome a Gift Voucher worth Rs 5,000 on joining.
+                        </div>
+                        <div class="mt-5">
+                        <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbspGet Free Movie Tickets worth Rs 6,000 every year
+                        </div>
+                          <div class="mt-5">
+                          <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbsp Earn Upto 50,000 Bonus Reward Points worth Rs 12,500/year
+                          </div>
+                          <div class="mt-5">
+                          <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbsp Complimentary membership to Club Vistara and Trident Privilege Program.
+                          </div>
+                         </div>
+              </div>
+                          </div>
+                          <div class="col-lg-4">
+                          </div>
+                          <div class="col-lg-4">
+<img src="https://www.sbicard.com/sbi-card-en/assets/media/images/personal/credit-cards/lifestyle/card-faces/sbi-card-pulse-card-face-front.png" style="height:200px;width:400px;"/>
+ <button class="btn btn-info mt-5">Apply Now</button>
+ <div class="row">
+                <div class="col-md-12">
+                  <h4>SBI Card PULSE</h4>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp Noise Color Fit Pulse Smartwatch worth Rs. 4,999 on payment of joining fees.
+                  </div>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp 12 Month Membership for FITPASS and Netmeds First Pass on payment of joining fee and card activation
+                  </div>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp 5X Reward Points on Chemist, Pharmacy, Dining and Movie Spends
+                  </div>
+                  
+                </div>
+              </div>
+                          </div>
+                        </div>
+                        
+                    </div>
+
+                  </div>
+                  <div class="tab-pane" id="tab2" role="tabpanel">
+                  <div class="container">
+                  
+                        <div class="row mt-4">
+                          <div class="col-lg-4">
+          <img src="https://www.paisabazaar.com/wp-content/uploads/2017/10/SBI-SimplySAVE-Credit-Card.png" style="height:200px;width:400px;"/>
+          <button class="btn btn-info mt-5">Apply Now</button>
+          <div class="row">
+                      <div class="col-md-12">
+                        <h4>SBI Card ELITE</h4>
+                        <div class="mt-5">
+                        <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbspWelcome a Gift Voucher worth Rs 5,000 on joining.
+                        </div>
+                        <div class="mt-5">
+                        <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbspGet Free Movie Tickets worth Rs 6,000 every year
+                        </div>
+                          <div class="mt-5">
+                          <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbsp Earn Upto 50,000 Bonus Reward Points worth Rs 12,500/year
+                          </div>
+                          <div class="mt-5">
+                          <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbsp Complimentary membership to Club Vistara and Trident Privilege Program.
+                          </div>
+                         </div>
+              </div>
+                          </div>
+                          <div class="col-lg-4">
+                          </div>
+                          <div class="col-lg-4">
+<img src="https://www.sbicard.com/sbi-card-en/assets/media/images/personal/credit-cards/rewards/card-faces/apollo-sbi-card/apollo-sbi-card-face.png" style="height:200px;width:400px;"/>
+ <button class="btn btn-info mt-5">Apply Now</button>
+ <div class="row">
+                <div class="col-md-12">
+                  <h4>SBI Card PULSE</h4>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp Noise Color Fit Pulse Smartwatch worth Rs. 4,999 on payment of joining fees.
+                  </div>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp 12 Month Membership for FITPASS and Netmeds First Pass on payment of joining fee and card activation
+                  </div>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp 5X Reward Points on Chemist, Pharmacy, Dining and Movie Spends
+                  </div>
+                </div>
+                          </div>
+                        </div>
+</div>
+                    </div>
+                  </div>
+                  <div class="tab-pane" id="tab3" role="tabpanel">
+                  <div class="container">
+               
+                        <div class="row mt-4">
+                          <div class="col-lg-4">
+          <img src="https://www.sbicard.com/sbi-card-en/assets/media/images/personal/credit-cards/rewards/card-faces/apollo-sbi-card/apollo-sbi-card-face.png"style="height:200px;width:400px;" />
+          <button class="btn btn-info mt-5">Apply Now</button>
+          <div class="row">
+                      <div class="col-md-12">
+                        <h4>SBI Card ELITE</h4>
+                        <div class="mt-5">
+                        <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbspWelcome a Gift Voucher worth Rs 5,000 on joining.
+                        </div>
+                        <div class="mt-5">
+                        <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbspGet Free Movie Tickets worth Rs 6,000 every year
+                        </div>
+                          <div class="mt-5">
+                          <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbsp Earn Upto 50,000 Bonus Reward Points worth Rs 12,500/year
+                          </div>
+                          <div class="mt-5">
+                          <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbsp Complimentary membership to Club Vistara and Trident Privilege Program.
+                          </div>
+                         </div>
+              </div>
+                          </div>
+                          <div class="col-lg-4">
+                          </div>
+                          <div class="col-lg-4">
+<img src="https://www.sbicard.com/sbi-card-en/assets/media/images/personal/credit-cards/lifestyle/card-faces/sbi-card-pulse-card-face-front.png" style="height:200px;width:400px;"/>
+ <button class="btn btn-info mt-5">Apply Now</button>
+ <div class="row">
+                <div class="col-md-12">
+                  <h4>SBI Card PULSE</h4>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp Noise Color Fit Pulse Smartwatch worth Rs. 4,999 on payment of joining fees.
+                  </div>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp 12 Month Membership for FITPASS and Netmeds First Pass on payment of joining fee and card activation
+                  </div>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp 5X Reward Points on Chemist, Pharmacy, Dining and Movie Spends
+                  </div>
+                </div>
+                          </div>
+                          </div>
+                        </div>
+                    
+                    </div>
+                  </div>
+                  <div class="tab-pane" id="tab4" role="tabpanel">
+                  <div class="container">
+                  
+                        <div class="row mt-4">
+                          <div class="col-lg-4">
+          <img src="https://www.sbicard.com/sbi-card-en/assets/media/images/personal/credit-cards/lifestyle/card-faces/sbi-card-pulse-card-face-front.png"style="height:200px;width:400px;" />
+          <button class="btn btn-info mt-5" >Apply Now</button>
+          <div class="row">
+                      <div class="col-md-12">
+                        <h4>SBI Card ELITE</h4>
+                        <div class="mt-5">
+                        <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbspWelcome a Gift Voucher worth Rs 5,000 on joining.
+                        </div>
+                        <div class="mt-5">
+                        <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbspGet Free Movie Tickets worth Rs 6,000 every year
+                        </div>
+                          <div class="mt-5">
+                          <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbsp Earn Upto 50,000 Bonus Reward Points worth Rs 12,500/year
+                          </div>
+                          <div class="mt-5">
+                          <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbsp Complimentary membership to Club Vistara and Trident Privilege Program.
+                          </div>
+                         </div>
+              </div>
+                          </div>
+                          <div class="col-lg-4">
+                          </div>
+                          <div class="col-lg-4">
+<img src="https://livefromalounge.com/wp-content/uploads/2017/11/sbi-signature-card.png" style="height:200px;width:400px;"/>
+ <button class="btn btn-info mt-5" >Apply Now</button>
+ <div class="row">
+                <div class="col-md-12">
+                  <h4>SBI Card PULSE</h4>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp Noise Color Fit Pulse Smartwatch worth Rs. 4,999 on payment of joining fees.
+                  </div>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp 12 Month Membership for FITPASS and Netmeds First Pass on payment of joining fee and card activation
+                  </div>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp 5X Reward Points on Chemist, Pharmacy, Dining and Movie Spends
+                  </div>
+                </div>
+                          </div>
+                          </div>
+                        </div>
+                      
+                    </div>
+                  </div>
+                  <div class="tab-pane" id="tab5" role="tabpanel">
+                  <div class="container">
+                  
+                        <div class="row mt-4">
+                          <div class="col-lg-4">
+          <img src="https://image3.mouthshut.com/images/imagesp/925806358s.jpg"style="height:200px;width:400px;" />
+          <button class="btn btn-info mt-5">Apply Now</button>
+          <div class="row">
+                      <div class="col-md-12">
+                        <h4>SBI Card ELITE</h4>
+                        <div class="mt-5">
+                        <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbspWelcome a Gift Voucher worth Rs 5,000 on joining.
+                        </div>
+                        <div class="mt-5">
+                        <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbspGet Free Movie Tickets worth Rs 6,000 every year
+                        </div>
+                          <div class="mt-5">
+                          <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbsp Earn Upto 50,000 Bonus Reward Points worth Rs 12,500/year
+                          </div>
+                          <div class="mt-5">
+                          <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbsp Complimentary membership to Club Vistara and Trident Privilege Program.
+                          </div>
+                         </div>
+              </div>
+         
+                          </div>
+                          <div class="col-lg-4">
+                          </div>
+                          <div class="col-lg-4">
+<img src="https://askmehindi.com/wp-content/uploads/2017/05/sbi-platinum-international-debit-card.png" style="height:200px;width:400px;"/>
+ <button class="btn btn-info mt-5">Apply Now</button>
+ <div class="row">
+                <div class="col-md-12">
+                  <h4>SBI Card PULSE</h4>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp Noise Color Fit Pulse Smartwatch worth Rs. 4,999 on payment of joining fees.
+                  </div>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp 12 Month Membership for FITPASS and Netmeds First Pass on payment of joining fee and card activation
+                  </div>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp 5X Reward Points on Chemist, Pharmacy, Dining and Movie Spends
+                  </div>
+                </div>
+                          </div>
+                          </div>
+                        </div>
+                     
+                    </div>
+                  </div>
+                  <div class="tab-pane" id="tab6" role="tabpanel">
+                  <div class="container">
+                
+                        <div class="row mt-4">
+                          <div class="col-lg-4">
+          <img src="https://i.ytimg.com/vi/CLWEs8JUn1M/hqdefault.jpg"style="height:200px;width:400px;" />
+          <button class="btn btn-info mt-5">Apply Now</button>
+          <div class="row">
+                      <div class="col-md-12">
+                        <h4>SBI Card ELITE</h4>
+                        <div class="mt-5">
+                        <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbspWelcome a Gift Voucher worth Rs 5,000 on joining.
+                        </div>
+                        <div class="mt-5">
+                        <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbspGet Free Movie Tickets worth Rs 6,000 every year
+                        </div>
+                          <div class="mt-5">
+                          <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbsp Earn Upto 50,000 Bonus Reward Points worth Rs 12,500/year
+                          </div>
+                          <div class="mt-5">
+                          <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbsp Complimentary membership to Club Vistara and Trident Privilege Program.
+                          </div>
+                         </div>
+              </div>
+                          </div>
+                          <div class="col-lg-4">
+                          </div>
+                          <div class="col-lg-4">
+<img src="https://www.sbicard.com/sbi-card-en/assets/media/images/personal/credit-cards/rewards/paytm-sbi-card/paytm-select-card-face.png" style="height:200px;width:400px;"/>
+ <button class="btn btn-info mt-5">Apply Now</button>
+ <div class="row">
+                <div class="col-md-12">
+                  <h4>SBI Card PULSE</h4>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp Noise Color Fit Pulse Smartwatch worth Rs. 4,999 on payment of joining fees.
+                  </div>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp 12 Month Membership for FITPASS and Netmeds First Pass on payment of joining fee and card activation
+                  </div>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp 5X Reward Points on Chemist, Pharmacy, Dining and Movie Spends
+                  </div>
+                </div>
+                          </div>
+                          </div>
+                        </div>
+                      
+                    </div>
+                  </div>
+                  <div class="tab-pane" id="tab7" role="tabpanel">
+                  <div class="container">
+                   
+                        <div class="row mt-4">
+                          <div class="col-lg-4">
+          <img src="https://www.sbicard.com/sbi-card-en/assets/media/images/personal/credit-cards/value-savings/card-faces/sbi-unati.png"style="height:200px;width:400px;" />
+          <button class="btn btn-info mt-5">Apply Now</button>
+          <div class="row">
+                      <div class="col-md-12">
+                        <h4>SBI Card ELITE</h4>
+                        <div class="mt-5">
+                        <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbspWelcome a Gift Voucher worth Rs 5,000 on joining.
+                        </div>
+                        <div class="mt-5">
+                        <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbspGet Free Movie Tickets worth Rs 6,000 every year
+                        </div>
+                          <div class="mt-5">
+                          <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbsp Earn Upto 50,000 Bonus Reward Points worth Rs 12,500/year
+                          </div>
+                          <div class="mt-5">
+                          <span class="glyphicon glyphicon-hand-right"></span> &nbsp&nbsp Complimentary membership to Club Vistara and Trident Privilege Program.
+                          </div>
+                         </div>
+              </div>
+                          </div>
+                          <div class="col-lg-4">
+                          </div>
+                          <div class="col-lg-4">
+<img src="https://media.news9live.com/h-upload/2022/05/17/365293-sbicreditcard.webp"style="height:200px;width:400px;" />
+ <button class="btn btn-info mt-5">Apply Now</button>
+ <div class="row">
+                <div class="col-md-12">
+                  <h4>SBI Card PULSE</h4>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp Noise Color Fit Pulse Smartwatch worth Rs. 4,999 on payment of joining fees.
+                  </div>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp 12 Month Membership for FITPASS and Netmeds First Pass on payment of joining fee and card activation
+                  </div>
+                  <div class="mt-5">
+                  <span class="glyphicon glyphicon-hand-right"></span>&nbsp&nbsp 5X Reward Points on Chemist, Pharmacy, Dining and Movie Spends
+                  </div>
+                </div>
+                          </div>
+                          </div>
+                        </div>
+                       
+                    </div>
+                  </div>
+                  </div>
+                </div>
+           </div>
       </div>
       <div class="tab-pane" id="icici">
-            <h2>Welcome in ICICI</h2>
+            <div class="container mt-5">
+                <div class="row mt-5">
+                    <div class="col-md-4 mt-5">
+                      <h3 class="text-primary">Credit Card</h3>
+                              <h4 style="color:black">ICICI Bank Credit Cards offers a host of benefits, offers & features to cater to your needs. So get the Credit Card of your choice by browsing through the Credit Card section.</h4>
+                              <button class="btn btn-warning mt-5">Get Credit Card</button>
+                    </div>  
+                    <div class="col-md-8 mt-5">
+                        <div class="container">
+                            <div class="card" style="height:400px;width:600px;background-color:#7f3339;border-radius:20px;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
       </div>
       <div class="tab-pane" id="hdfc">
-            <h2>Welcome in HDFC</h2>
+           <div class="container mt-5">
+              <table class="table"> 
+                  <tr>
+                    <td><img src="https://www.coles.com.au/content/dam/coles/about-coles/flybuys/icons/flybuys-top-up-icon-470x282px.svg" style="height:100px;width:100px"/>
+                  <p>Exclusive Rewards Points</p></td>
+                    <td><img src="https://static.vecteezy.com/system/resources/previews/003/537/675/original/outline-hand-and-credit-card-icon-vector.jpg" style="height:100px;width:100px"/>
+                    <p>Lifetime Free Credit Cards</p></td></td>
+                  </tr>
+                
+                  <tr>
+                    <td><img src="https://cdn.iconscout.com/icon/free/png-256/cashback-4587891-3803398.png" style="height:100px;width:100px"/>
+                    <p>Great Cashbacks</p></td></td>
+                    <td><img src="https://static.thenounproject.com/png/182226-200.png" style="height:100px;width:100px"/>
+                    <p>Gift Vouchers</p></td></td>
+                  </tr>
+                  <tr>
+                    <td><img src="https://thumbs.dreamstime.com/b/quick-easy-loan-fast-money-providence-icon-vector-illustration-easy-instant-credit-loan-payment-fast-money-icon-finance-quick-160008758.jpg" style="height:100px;width:100px"/>  <p>Improve Credit Score with Timely Payments</p></td></td>
+                    <td><img src="https://cdn2.iconfinder.com/data/icons/maki/100/fuel-512.png" style="height:100px;width:100px"/>
+                    <p>Up To 50 Liters of Free Fuel Anuualy</p></td></td>
+                  </tr>
+                 
+              </table>
+              
+           </div>
       </div>
       <div class="tab-pane" id="yes">
             <h2>Welcome in YES</h2>
