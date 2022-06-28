@@ -55,7 +55,7 @@ name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, m
                                                 <a class="custom-anchor custom-anchor-active" href="">Investments</a>
                                             </li>
                                             <li class="sub-headers">
-                                                <a class="custom-anchor" href="capital.html">INSURANCE</a>
+                                                <a class="custom-anchor" href="/insurance">INSURANCE</a>
                                             </li>
                                             <li class="sub-headers">
                                                 <a class="custom-anchor" href="/wealth.html">TRADITIONAL INVESTMENT</a>

@@ -83,3 +83,7 @@ Route::get('/icici',function(){
 Route::get('/standardcharted',function(){
     return view('standardcharted');
 });
+
+Route::get('/insurance',function(){
+    return view('insurance');
+});
