@@ -14,9 +14,9 @@
                         </ol>
                         <div class="carousel-inner">
                         <div class="carousel-item active">
-                                <img class="d-block w-100"
-                                    src="https://www.passionateinmarketing.com/wp-content/uploads/2020/06/child-Education.jpg"
-                                    alt="First slide" style="height:300px">
+                        <img class="d-block w-100"
+                                    src="images/first.jpeg"
+                                    alt="Third slide" style="height:300px">
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>...</h5>
                                     <p>...</p>
@@ -24,7 +24,8 @@
                             </div>
                             <div class="carousel-item">
                                 <img class="d-block w-100"
-                                    src="https://www.finowlish.com/images/blog2.jpg"
+                                src="images/second.jpeg"
+
                                     alt="Second slide" style="height:300px">
                             </div>
                             <div class="carousel-item">
@@ -40,6 +41,7 @@
                                 <img class="d-block w-100"
                                     src="https://www.bonanzaonline.com/mutualfunds/images/banners/mutual-fund.jpg"
                                     alt="Third slide" style="height:300px">
+                                   
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>...</h5>
                                     <p>...</p>

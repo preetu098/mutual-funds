@@ -1,5 +1,6 @@
 @include('layout.header')
 
+
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Asap&display=swap');
@@ -9,7 +10,12 @@
   box-sizing: border-box;
   font-family: "Asap", sans-serif;
 }
-
+#sbccard:hover 
+{
+  
+  opacity:0.7;
+ 
+}
 
 section:nth-child(1){
   color:green;
@@ -174,7 +180,19 @@ window.addEventListener("scroll", reveal);
     </div>
 
 </section>
-<!--  -->
+<!-- <section>
+  <div class="container">
+<ul class="nav nav-tabs" role="tablist">
+    <li><a href="#sbc" role="tab" data-toggle="tab"><img src="https://www.ctoscredit.com.my/creditfinder/wp-content/uploads/2022/03/standard-chartered-bank-new-20211713.jpg" style="height:200px;width:200px;"/></a></li>
+    <li><a href="#sbi" role="tab" data-toggle="tab"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG13cSEX5MTu2Amr_PtDHAfyr8RmGnYAe0-g&usqp=CAU" style="height:200px;width:200px;"/></a></li>
+    <li><a href="#icici" role="tab" data-toggle="tab"><img src="https://st.adda247.com/https://wpassets.adda247.com/wp-content/uploads/multisite/sites/5/2021/06/05061407/ICICI-Bank-introduces-%E2%80%98FD-Health%E2%80%99.jpg" style="height:200px;width:200px;"/></a></li>
+    <li><a href="#hdfc" role="tab" data-toggle="tab">
+      <img src="https://medy365.in/images/Hdfc.png" style="height:200px;width:300px;"/>
+    </a></li>
+    <li><a href="#yes" role="tab" data-toggle="tab"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Yes_Bank_logo.svg/1200px-Yes_Bank_logo.svg.png" style="height:200px;width:200px;"/></a></li>
+</ul>
+</div>
+</section> -->
 <section>
   <div class="container">
     <div class="row">
@@ -182,7 +200,7 @@ window.addEventListener("scroll", reveal);
     </div>
       <div class="row">
         <div class="col-lg-3">
-          <a href="/standardcharted">
+        <a href="#sbc" role="tab" data-toggle="tab">
             <div class="card">
               <div class="card-body">
               <img src="https://img.freepik.com/free-vector/vector-illustration-people-are-trying-pay-off-loan-from-credit-card-debt-short-term-consumer-debt-with-low-interest-more-difficult-pay-off-can-use-web-website-apps-poster-banner-flyer_4968-1713.jpg" style="height:200px;width:300px"/>
@@ -196,7 +214,7 @@ window.addEventListener("scroll", reveal);
 </a>
         </div>
         <div class="col-lg-3">
-          <a href="/sbi">
+        <a href="#sbi" role="tab" data-toggle="tab">
             <div class="card">
             <div class="card-body">
               <img src="https://www.sbicard.com/creditcards/resources/img/digi-col-login.png" style="height:200px;width:300px"/>
@@ -210,7 +228,7 @@ window.addEventListener("scroll", reveal);
 </a>
         </div>
         <div class="col-lg-3">
-          <a href="/icici">
+        <a href="#icici" role="tab" data-toggle="tab">
             <div class="card">
                 <div class="card-body">
               <img src="https://images.fintra.co.in/cms/how-to-pick-credit-cards-2.png" style="height:200px;width:300px"/>
@@ -224,7 +242,7 @@ window.addEventListener("scroll", reveal);
 </a>
         </div>
         <div class="col-lg-3">
-          <a href="/hdfc">
+        <a href="#hdfc" role="tab" data-toggle="tab">
             <div class="card">
             <div class="card-body">
               <img src="https://cdnapp.indialends.com//livesite/Images/cc-generic/how-it-works-img.svg" style="height:200px;width:300px"/>
@@ -238,8 +256,77 @@ window.addEventListener("scroll", reveal);
 </a>
       </div>
   </div>
-</section>   
+</section>
+<section>
+  <div class="container">
+  <div class="tab-content">
+      <div class="tab-pane active" id="sbc">
+            <div class="container">
+                <div class="row mt-5">
+                  <div class="col-lg-4 mt-5" id="sbccard">
+                    <img src="https://cdn.iconscout.com/icon/free/png-256/ola-282225.png" style="height:200px;width:200px;"/>
+                    <h4>15% cashback at OLA</h4>
+                  </div>
+                  <div class="col-lg-4 mb-5" id="sbccard">
+                    <img src="https://seeklogo.com/images/M/myntra-logo-B3C45EAD5C-seeklogo.com.png" style="height:200px;width:200px;"/>
+                    <h4>20% cashback at Myntra</h4>
+                  </div>
+                  <div class="col-lg-4  mt-5" id="sbccard">
+                    <img src=https://theplugmedia.in/wp-content/uploads/2020/06/inox.png" style="height:200px;width:200px;"/>
+                    <h4>Buy One Get One</h4>
+                  </div>
+                </div>
 
+
+                <div class="row mt-5">
+                  <div class="col-lg-4 mt-5" id="sbccard">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Zomato_Logo.png" style="height:200px;width:200px;"/>
+                    <h4>15% off at zomato</h4>
+                  </div>
+                  <div class="col-lg-4 mb-5" id="sbccard">
+                    <img src="http://faridabadfin.com/wp-content/uploads/2022/04/scb_11zon.jpg" style="height:300px;width:300px;"/>
+                  </div>
+                  <div class="col-lg-4  mt-5" id="sbccard">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Blinkit-yellow-app-icon.svg/3500px-Blinkit-yellow-app-icon.svg.png" style="height:200px;width:200px;"/>
+                    <h4>20% off</h4>
+                  </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12" id="sbccard">
+                      <center>
+                          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yatra_logo.svg/2560px-Yatra_logo.svg.png" style="height:200px;width:200px;"/>
+                          <h4>Upto 20% off</h4>
+                      </center>
+                    </div>
+                </div>
+            </div>
+      </div>
+      <div class="tab-pane" id="sbi">
+            <h2>Welcome in SBI</h2>
+      </div>
+      <div class="tab-pane" id="icici">
+            <h2>Welcome in ICICI</h2>
+      </div>
+      <div class="tab-pane" id="hdfc">
+            <h2>Welcome in HDFC</h2>
+      </div>
+      <div class="tab-pane" id="yes">
+            <h2>Welcome in YES</h2>
+      </div>
+
+  </div>  
+</div>
+</section>
+<!--  -->
+   
+
+<section>
+    <div class="container">
+        <div class="">
+
+        </div>
+    </div>
+</section>
     <section>
   <div class="container reveal">
   
