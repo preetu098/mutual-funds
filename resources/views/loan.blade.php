@@ -113,7 +113,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-3">
-                        <a href="">
+                        <a href="#homeloan">
                         <div class="card">
                             <img src="https://img.freepik.com/free-vector/real-estate-abstract-concept-vector-illustration-real-estate-agency-residential-industrial-commercial-property-market-investment-portfolio-home-ownership-property-value-abstract-metaphor_335657-1967.jpg?t=st=1656229365~exp=1656229965~hmac=66a758d8f8335586fc24b50eff45773d5b3ea21b9a6102438aa335707c6045aa&w=740" style="height:200px;width:350px"/>
                            <center> <p>Home Laon</p></center>
@@ -121,7 +121,7 @@
                         </a>
                     </div>
                     <div class="col-lg-3">
-                    <a href="">
+                    <a href="#personalloan">
                         <div class="card">
                             <img src="https://img.freepik.com/free-vector/budget-management-personal-financial-control-cash-flow-tiny-people-planning-personal-budget_501813-277.jpg?w=740" style="height:200px;width:350px"/>
                            <center> <p>Personal Laon</p></center>
@@ -129,7 +129,7 @@
 </a>
                     </div>
                     <div class="col-lg-3">
-                    <a href="">
+                    <a href="#businessloan">
                         <div class="card">
                             <img src="https://img.freepik.com/free-vector/money-lending-abstract-concept-vector-illustration-small-money-lenders-private-individuals-loans-short-term-financing-commercial-industrial-bank-credit-working-capital-abstract-metaphor_335657-2927.jpg?t=st=1656229464~exp=1656230064~hmac=da8d7adcc29bd3348211c28458b928c3f33a91509997c3fc62c45fe5d95afd57&w=740" style="height:200px;width:350px"/>
                            <center> <p>Business Laon</p></center>
@@ -137,7 +137,7 @@
 </a>
                     </div>
                     <div class="col-lg-3">
-                    <a href="">
+                    <a href="#moratgeloan">
                         <div class="card">
                             <img src="https://img.freepik.com/free-vector/money-lending-abstract-concept-vector-illustration-small-money-lenders-private-individuals-loans-short-term-financing-commercial-industrial-bank-credit-working-capital-abstract-metaphor_335657-2927.jpg?t=st=1656229464~exp=1656230064~hmac=da8d7adcc29bd3348211c28458b928c3f33a91509997c3fc62c45fe5d95afd57&w=740" style="height:200px;width:350px"/>
                            <center> <p>Mortage Laon</p></center>
@@ -185,6 +185,7 @@
                </div>
         </div>
         <div id="personalloan">
+            
             <h4 class="mt-5">Personal Loan</h4>
             <div class="row">
                         <div class="col-lg-5">
@@ -200,6 +201,8 @@
                         <center>
                     <h4>HDFC-Super</h4>
                         <p>10.49%</p>
+                        <img src="https://play-lh.googleusercontent.com/POGVZhNvSh05yA01H2VTlElv0Mw6r4R7hj9w7DaOvJVgiGoi0Fcawi02yITkyMT1zwqO=w600-h300-pc0xffffff-pd" style="height:70px;width:100px"/>
+                        <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
 </div>
@@ -208,6 +211,8 @@
                         <center>
                     <h4>HDFC Bank</h4>
                         <p>12%</p>
+                        <img src="https://play-lh.googleusercontent.com/POGVZhNvSh05yA01H2VTlElv0Mw6r4R7hj9w7DaOvJVgiGoi0Fcawi02yITkyMT1zwqO=w600-h300-pc0xffffff-pd" style="height:70px;width:100px"/>
+                        <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
 </div>
@@ -216,6 +221,8 @@
          <center>
                     <h4>IDFC First</h4>
                         <p>11%</p>
+                        <img src="https://www.dqindia.com/wp-content/uploads/2015/12/idfc_new_logo1.jpg" style="height:70px;width:100px"/>
+                        <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
 </div>
@@ -224,6 +231,8 @@
          <center>
                     <h4>Ujjivan SFB</h4>
                         <p>11%</p>
+                        <img src="https://media.glassdoor.com/sqll/352966/ujjivan-squarelogo-1529034980397.png" style="height:70px;width:100px"/>
+                        <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
 </div>
@@ -232,6 +241,8 @@
 <center>
                     <h4>ICICI Bank</h4>
                         <p>11%</p>
+                        <img src="https://gs-post-images.grdp.co/2020/6/71-718369_download-icici-bank-logo-hd-png-clipart-2-img1592917535563-78.png-rs-high-webp.png" style="height:70px;width:100px"/>
+                        <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
 </div>
@@ -240,6 +251,8 @@
          <center>
                     <h4>Upwards</h4>
                         <p>18%</p>
+                        <img src="https://upwards.in/assets/img/upwards_logo.png" style="height:70px;width:100px"/>
+                        <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
 </div>
@@ -250,6 +263,8 @@
          <center>
                         <h4>MoneyView</h4>
                         <p>16%</p>
+                        <img src="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2F20160518010638442965_MoneyView+Logo.jpg&h=630&w=1200&q=75&v=20170226&c=1" style="height:70px;width:100px"/>
+                        <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
 </div>
                     </div>
@@ -258,6 +273,8 @@
          <center>
                     <h4>Incred Fin</h4>
                         <p>16%</p>
+                        <img src="https://assets.shortpedia.com/uploads/2019/12/17/1576554013.jpg" style="height:70px;width:100px"/>
+                        <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
 </div>
@@ -266,6 +283,8 @@
          <center>
                     <h4>Fullerton</h4>
                         <p>16%</p>
+                        <img src="https://dimensionshrd.com/wp-content/uploads/2019/11/Fullerton-India.png" style="height:70px;width:100px"/>
+                        <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
 </div>
@@ -274,6 +293,8 @@
          <center>
                     <h4>Nira Fin</h4>
                         <p>22%</p>
+                        <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0006/4670/brand.gif?itok=sBhJyhV_" style="height:70px;width:100px"/>
+                        <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
 </div>
@@ -282,6 +303,8 @@
          <center>
                     <h4>IndusInd</h4>
                         <p>12%</p>
+                        <img src="https://www.outlookindia.com/outlookmoney/public/uploads/article/gallery/0764949929ce8893a114c3a094e224c4.jpg" style="height:70px;width:100px"/>
+                        <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
 </div>
@@ -290,29 +313,111 @@
          <center>
                     <h4>Kotak M</h4>
                         <p>12%</p>
-</center>
+                        <img src="https://logos-download.com/wp-content/uploads/2016/06/Kotak_Mahindra_Bank_logo.png" style="height:70px;width:100px"/>
+                        <button class="btn btn-info">Apply for Personal Loan</button>
+</center>   
                     </div>
 </div>
             </div>
         </div>
         
         <div id="businessloan">
-            <h4>Business Loan</h4>
-            
+            <h4 class="mt-5">Business Loan</h4>
+            <div class="row">
+                    <div class="col-lg-5">
+                        <img src="https://qph.cf2.quoracdn.net/main-qimg-7a8ed0dbacad4e9c5987a7cc4ffc4126-lq"/>
+                    </div>
+                    <div class="col-lg-7">
+                        <p>Business loan means a loan or ex- tension of credit to any corporation, general or limited partnership, busi- ness trust, joint venture, pool, syn- dicate, sole proprietorship, or other business entity.</p>
+                        <p>Business Loan ProgramFor veterans interested in starting a new business in Minnesota or reestablishing a business left behind after deployment to active duty, the Minnesota Department of Employment and Economic Development provides several resources including expert business guidance and some targeted business financing options.</p>
+                    </div>
+            </div>
+            <div class="row mt-5">
+                <div class="col-md-2">
+                <div class="card">
+         <center>
+                    <h4>HDFC Bank</h4>
+                        <p>16%</p>
+                        <img src="https://play-lh.googleusercontent.com/POGVZhNvSh05yA01H2VTlElv0Mw6r4R7hj9w7DaOvJVgiGoi0Fcawi02yITkyMT1zwqO=w600-h300-pc0xffffff-pd" style="height:70px;width:100px"/>
+                        <button class="btn btn-warning">Apply for Busiiness Loan</button>
+</center>   
+                    </div>
+                </div>
+                <div class="col-md-2">
+                <div class="card">
+         <center>
+                    <h4>Lending Kart</h4>
+                        <p>18%</p>
+                        <img src="https://cdn.chappuishalder.com/wp-content/uploads/sites/6/2017/01/Lendingkart-logo-OK-1.png" style="height:70px;width:100px"/>
+                        <button class="btn btn-warning">Apply for Business Loan</button>
+</center>   
+                    </div>
+                </div>
+                <div class="col-md-2">
+                <div class="card">
+         <center>
+         <h4>IDFC First</h4>
+                        <p>18%</p>
+                        <img src="https://www.dqindia.com/wp-content/uploads/2015/12/idfc_new_logo1.jpg" style="height:70px;width:100px"/>
+                        <button class="btn btn-warning">Apply for Business Loan</button>
+</center>   
+                    </div>
+                </div>
+                <div class="col-md-2">
+                <div class="card">
+         <center>
+         <h4>ICICI Bank</h4>
+                        <p>16%</p>
+                        <img src="https://gs-post-images.grdp.co/2020/6/71-718369_download-icici-bank-logo-hd-png-clipart-2-img1592917535563-78.png-rs-high-webp.png" style="height:70px;width:100px"/>
+                        <button class="btn btn-warning">Apply for Business Loan</button>
+</center>   
+                    </div>
+                </div>
+                <div class="col-md-2">
+                <div class="card">
+         <center>
+         <h4>Fullerton</h4>
+                        <p>18%</p>
+                        <img src="https://dimensionshrd.com/wp-content/uploads/2019/11/Fullerton-India.png" style="height:70px;width:100px"/>
+                        <button class="btn btn-warning">Apply for Business Loan</button>
+</center>   
+                    </div>
+                </div>
+                <div class="col-md-2">
+                <div class="card">
+         <center>
+         <h4>IndusInd</h4>
+                        <p>18%</p>
+                        <img src="https://www.outlookindia.com/outlookmoney/public/uploads/article/gallery/0764949929ce8893a114c3a094e224c4.jpg" style="height:70px;width:100px"/>
+                        <button class="btn btn-warning">Apply for Business Loan</button>
+</center>   
+                    </div>
+                </div>
+            </div>
         </div>
         <div id="moratgeloan">
-            <h4>Mortage Loan</h4>
-            
+            <h4 class="mt-5">Mortgage Loan</h4>
+    <div class="row mt-5">
+                        <div class="col-lg-5">
+                    <img src="https://static.vecteezy.com/system/resources/previews/002/417/916/non_2x/mortgage-loan-web-concept-in-flat-style-vector.jpg"/>
+                        </div>
+                        <div class="col-lg-7">
+                            <p>A mortgage loan is a secured loan that allows you to avail funds by providing an immovable asset, such as a house or commercial property, as collateral to the lender. The lender keeps the asset until you repay the loan.</p>
+                            <p>
+                A mortgage note is a legal document that sets out all the terms of the mortgage between a borrower and their lending institution. It includes terms such as: The total amount of the home loan. The down payment amount.</p>
+                        </div>
+    </div>
+    
         </div>
     </div>
 </section>
 <section>
     <div class="container mt-5">
         <div class="row">
-            <div class="col-md-7">
+            <div class="col-md-7 mt-5">
                
-                    <h4>A loan is a sum of money that one or more individuals or companies borrow from banks or other financial institutions so as to financially manage planned or unplanned events. In doing so, the borrower incurs a debt, which he has to pay back with interest and within a given period of time.</h4>
-                    <h4>The recipient and the lender must agree on the terms of the loan before any money changes hands. In some cases, the lender requires the borrower to offer an asset up for collateral, which will be outlined in the loan document.</h4>
+                    <p>A loan is a sum of money that one or more individuals or companies borrow from banks or other financial institutions so as to financially manage planned or unplanned events. In doing so, the borrower incurs a debt, which he has to pay back with interest and within a given period of time.</h4>
+                    <p>The recipient and the lender must agree on the terms of the loan before any money changes hands. In some cases, the lender requires the borrower to offer an asset up for collateral, which will be outlined in the loan document.</p>
                
             </div>
             <div class="col-md-5">
@@ -620,9 +725,7 @@
                 <div class="col-lg-6">
                     <div class="payment-logo mb-md-20"> <span class="text-custom-white fs-14 mr-3">We are
                             accept</span>
-                        <div class="payemt-icon">
-                            <img src="assets1/images/accept1" alt="#">
-                        </div>
+                        
                     </div>
                 </div>
                 <div class="col-lg-6">

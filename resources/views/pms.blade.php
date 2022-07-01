@@ -401,9 +401,7 @@ To enhance risk-adjusted performance, these products can use complex strategies 
                 <div class="col-lg-6">
                     <div class="payment-logo mb-md-20"> <span class="text-custom-white fs-14 mr-3">We are
                             accept</span>
-                        <div class="payemt-icon">
-                            <img src="assets1/images/accept1" alt="#">
-                        </div>
+                        
                     </div>
                 </div>
                 <div class="col-lg-6">
