@@ -115,51 +115,51 @@ box-shadow:2px 2px 2px 2px black;
                    <h3>Explore Security</h3>
                 </div>
             </div>
-              <div class="responsivegrid aem-GridColumn aem-GridColumn--default--12" style="background-color:white;box-shadow:2px 2px 12px 2px black">
+              <div class="responsivegrid aem-GridColumn aem-GridColumn--default--4" style="background-color:white;box-shadow:2px 2px 12px 2px black">
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-4">
                     <div id="carouselExampleIndicators1" class="carousel slide" data-ride="carousel">
                         <ol class="carousel-indicators">
                             <li data-target="#carouselExampleIndicators1" data-slide-to="0" class="active"></li>
                             <li data-target="#carouselExampleIndicators1" data-slide-to="1"></li>
                             <li data-target="#carouselExampleIndicators1" data-slide-to="2"></li>
                         </ol>
-                        <div class="carousel-inner">
-                        <div class="carousel-item active">
-                                <div class="card">
-                                        <div class="card-body">
+                        <div class="carousel-inner" >
+                        <div class="carousel-item active" >
+                                <div class="card" >
+                                        
                                             <center>
-                                                <h3 class="text-danger">9.25% TATA CAPITAL FINANCIAL SERVICES 2025</h3>
+                                                <p class="text-danger">9.25% TATA CAPITAL FINANCIAL SERVICES 2025</p>
                                                 <h4>9.25%</h4>
-                                                <h4>CRISIL AAA/Stable & CARE AAA/Stable</h4>
+                                                <p>CRISIL AAA/Stable & CARE AAA/Stable</p>
+                                                <img src="https://d3ca48y7jz4ig.cloudfront.net/companies/logos/42995/tata-capital_thumb.png?1571809410" style="height:100px;"/>
                                             </center>
-                                        </div>
+                                     
                                 </div>
-                                <div class="carousel-caption d-none d-md-block">
-                                    <h5>...</h5>
-                                    <p>...</p>
-                                </div>
+                             
                             </div>
                             <div class="carousel-item"> 
                             <div class="card">
-                                        <div class="card-body">
+                                     
                                             <center>
-                                                <h3 class="text-danger">9.30% HDFC CREDILA FINANCIAL SERVICES PVT LTD-2025</h3>
+                                                <p class="text-danger">9.30% HDFC CREDILA FINANCIAL SERVICES PVT LTD-2025</p>
                                                 <h4>9.3%</h4>
-                                                <h4>CRISIL AAA/Stable   CARE AAA/Stable</h4>
+                                                <p>CRISIL AAA/Stable   CARE AAA/Stable</p>
+                                                <img src="https://pbs.twimg.com/profile_images/1057132896056561665/fJDhUKkw_400x400.jpg" style="height:100px;"/>
                                             </center>
-                                        </div>
+                                      
                                 </div>
                             </div>
                             <div class="carousel-item">
                             <div class="card">
-                                        <div class="card-body">
+                                      
                                             <center>
-                                            <h3 class="text-danger">9.35% ADANI PORTS AND SPECIAL ECONOMIC ZONE LIMITED-2026</h3>
+                                            <p class="text-danger">9.35% ADANI PORTS AND SPECIAL ECONOMIC ZONE LIMITED-2026</p>
                                                 <h4>9.35%</h4>
-                                                <h4>ICRA AA+/Stable   IND AA+/Stable</h4>
+                                                <p>ICRA AA+/Stable   IND AA+/Stable</p>
+                                                <img src="https://www.adaniports.com/-/media/Project/Ports/Newsroom/adani-ports.png?la=en&hash=9138B70B40720245BC452EAF0079CE0A&hash=9138B70B40720245BC452EAF0079CE0A" style="height:100px;"/>
                                             </center>
-                                        </div>
+                                       
                                 </div>
                                 <div class="carousel-caption d-none d-md-block">
                                     <h5>...</h5>
@@ -171,9 +171,10 @@ box-shadow:2px 2px 2px 2px black;
                             <div class="card">
                                         <div class="card-body">
                                             <center>
-                                                <h3 class="text-danger">9.00% SHRIRAM TRANSPORT FINANCE COMPANY LIMITED-2028</h3>
+                                                <p class="text-danger">9.00% SHRIRAM TRANSPORT FINANCE COMPANY LIMITED-2028</p>
                                                 <h4>9%</h4>
-                                                <h4>AA+ BY CRISIL & IND RATING</h4>
+                                                <p>AA+ BY CRISIL & IND RATING</p>
+                                                <img src="https://www.stfc.in/bundle/assets/images/logo.png" style="height:100px;"/>
                                             </center>
                                         </div>
                                 </div>
@@ -187,9 +188,10 @@ box-shadow:2px 2px 2px 2px black;
                             <div class="card">
                                         <div class="card-body">
                                             <center>
-                                                <h3 class="text-danger">8.35% INDIABULLS HOUSING FINANCE LIMITED-08/09/2027</h3>
+                                                <p class="text-danger">8.35% INDIABULLS HOUSING FINANCE LIMITED-08/09/2027</p>
                                                 <h4>8.35%</h4>
-                                                <h4>AA+  by BWR   AA  by CARE</h4>
+                                                <p>AA+  by BWR   AA  by CARE</p>
+                                                <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/09/indiabulls_housing_finance_logo.png" style="height:100px;"/>
                                             </center>
                                         </div>
                                 </div>
@@ -203,9 +205,10 @@ box-shadow:2px 2px 2px 2px black;
                             <div class="card">
                                         <div class="card-body">
                                             <center>
-                                                <h3 class="text-danger">09.30% INDIABULLS HOUSING FINANCE LIMITED - 29/06/2026</h3>
+                                                <p class="text-danger">09.30% INDIABULLS HOUSING FINANCE LIMITED - 29/06/2026</p>
                                                 <h4>9.3000%</h4>
-                                                <h4>AA+  by BWR   AA-  by CARE</h4>
+                                                <p>AA+  by BWR   AA-  by CARE</p>
+                                                <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/09/indiabulls_housing_finance_logo.png" style="height:100px;"/>
                                             </center>
                                         </div>
                                 </div>
@@ -449,32 +452,138 @@ box-shadow:2px 2px 2px 2px black;
     </div>
 </div>
      <!-- Start Faqs -->
-     <section class="section-padding loan-faqs-sec bg-light-white findrate-top" style="margin-top:200px;">
+     <section class="section-padding  doctors-team-style-2" style="padding: 44px 0px 22px 0px;height:500px">
         <div class="container">
+            <div class="section-header">
+                <div class="section-heading " style="">
+                               <h3>Funds House</h3>
+                </div>
+            </div>
             <div class="row">
-                <div class="offset-lg-2 col-lg-8">
-                    <div class="findratesec">
-                       <div class="row">
-                            <div class="col-sm-3">
-                                <img src="https://www.iiflwealth.com/sites/default/files/iifl-inverse-logo.png" style="height:40px;" />
+           
+                <div class="col-12 no-padding" >
+                    <div class="doctors-slider" >
+                  
+                        <div class="slide-item col-12" >
+                        
+                            <div class="team-block p-relative" >
+                                <div class="inner-box" style="height:150px">
+                               
+                                
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+            <img src="http://loanbeku.com/wp-content/uploads/2017/10/Tata-Capital-bank.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
                             </div>
-                            <div class="col-sm-3">
-                                <img src="https://muthootgold.in/images/logo.png"style="height:40px;" />
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+            <img src="https://logos-world.net/wp-content/uploads/2020/11/HDFC-Bank-Logo.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
                             </div>
-                            <div class="col-sm-3">
-                                <img src="http://weeassure.com/assets/images/shriram-transport-finance.png"style="height:40px;" />
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+            <img src="https://orissadiary.com/wp-content/uploads/2018/08/264279_528701413838836_555702680_n-768x448.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
                             </div>
-                            <div class="col-sm-3">
-                                <img src="https://www.timesofassam.com/wp-content/uploads/2011/03/SBI.png" style="height:40px;"/>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box"style="height:150px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+                                        <img src="http://weeassure.com/assets/images/shriram-transport-finance.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
                             </div>
-                       </div>
-
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px">
+                                 
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://www.govnokri.in/wp-content/uploads/2020/02/EXIM-Bank.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://pbs.twimg.com/media/EbRWhnmUMAA6YCc.jpg"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px">
+                                 
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://21btrj3i7vy42n2f4044931p-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/Bank-of-baroda.jpg"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                                
+                            </div>
+                            
+                        </div>
                     </div>
                 </div>
             </div>
-            
         </div>
-
     </section>
     <!-- End Faqs -->
     <!-- Start Footer -->
@@ -604,9 +713,7 @@ box-shadow:2px 2px 2px 2px black;
                 <div class="col-lg-6">
                     <div class="payment-logo mb-md-20"> <span class="text-custom-white fs-14 mr-3">We are
                             accept</span>
-                        <div class="payemt-icon">
-                            <img src="assets1/images/accept1" alt="#">
-                        </div>
+                       
                     </div>
                 </div>
                 <div class="col-lg-6">
