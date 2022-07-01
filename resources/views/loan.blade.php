@@ -199,23 +199,14 @@
                     <div class="col-lg-2">
                     <div class="card">
                         <center>
-                    <h4>HDFC-Super</h4>
-                        <p>10.49%</p>
-                        <img src="https://play-lh.googleusercontent.com/POGVZhNvSh05yA01H2VTlElv0Mw6r4R7hj9w7DaOvJVgiGoi0Fcawi02yITkyMT1zwqO=w600-h300-pc0xffffff-pd" style="height:70px;width:100px"/>
-                        <button class="btn btn-info">Apply for Personal Loan</button>
-</center>
-                    </div>
-</div>
-                    <div class="col-lg-2">
-                    <div class="card">
-                        <center>
                     <h4>HDFC Bank</h4>
-                        <p>12%</p>
+                        <p>Starting ROI 10.49%*</p>
                         <img src="https://play-lh.googleusercontent.com/POGVZhNvSh05yA01H2VTlElv0Mw6r4R7hj9w7DaOvJVgiGoi0Fcawi02yITkyMT1zwqO=w600-h300-pc0xffffff-pd" style="height:70px;width:100px"/>
                         <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
 </div>
+                   
                     <div class="col-lg-2">
                     <div class="card">
          <center>
@@ -226,6 +217,16 @@
 </center>
                     </div>
 </div>
+<div class="col-lg-2">
+                        <div class="card">
+         <center>
+                        <h4>MoneyView</h4>
+                        <p>16%</p>
+                        <img src="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2F20160518010638442965_MoneyView+Logo.jpg&h=630&w=1200&q=75&v=20170226&c=1" style="height:70px;width:100px"/>
+                        <button class="btn btn-info">Apply for Personal Loan</button>
+</center>
+</div>
+                    </div>
                     <div class="col-lg-2">
                     <div class="card">
          <center>
@@ -258,16 +259,7 @@
 </div>
             </div>
             <div class="row mt-5">
-                    <div class="col-lg-2">
-                        <div class="card">
-         <center>
-                        <h4>MoneyView</h4>
-                        <p>16%</p>
-                        <img src="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2F20160518010638442965_MoneyView+Logo.jpg&h=630&w=1200&q=75&v=20170226&c=1" style="height:70px;width:100px"/>
-                        <button class="btn btn-info">Apply for Personal Loan</button>
-</center>
-</div>
-                    </div>
+                   
                     <div class="col-lg-2">
                     <div class="card">
          <center>

@@ -65,8 +65,8 @@
                     <form class="mx-5">
                     <div class="mb-3 mt-3">
                             <label for="exampleInputEmail1">Name</label>
-                            <input type="email" class="form-control" id="exampleInputEmail1"
-                                aria-describedby="emailHelp" placeholder="Enter email">
+                            <input type="text" class="form-control" id="exampleInputEmail1"
+                                aria-describedby="emailHelp" placeholder="Enter name">
                            
                         </div>
                         <div class="mb-3 mt-3">
@@ -76,14 +76,14 @@
                             
                         </div>
                         <div class="mb-3 mt-3">
-                            <label for="exampleInputPassword1">Password</label>
-                            <input type="password" class="form-control" id="exampleInputPassword1"
-                                placeholder="Password">
+                            <label for="exampleInputPassword1">Mobile number</label>
+                            <input type="number" class="form-control" id="exampleInputPassword1"
+                                placeholder="enter number">
                         </div>
                         <div class="mb-3 mt-3">
                             <label for="exampleInputPassword1">OTP</label>
                             <input type="text" class="form-control" id="exampleInputPassword1"
-                                placeholder="otp">
+                                placeholder="enter otp">
                         </div>
                        
                         <button type="submit" class="btn btn-primary">Submit</button>
@@ -110,7 +110,7 @@
                     <div class="doctors-slider">
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box">
+                                <div class="inner-box" style="box-shadow:0px 0px 0px">
                                     <div class="lower-content p-relative text-center">
                                         <center>
                                         <img src="https://www.freepngimg.com/thumb/money/49304-6-wealth-hq-image-free-png.png" style="height:70px"/>
@@ -123,7 +123,7 @@
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box">
+                                <div class="inner-box" style="box-shadow:0px 0px 0px">
                                     <div class="lower-content p-relative text-center">
                                     <center>
                                     <img src="https://vignette.wikia.nocookie.net/millionaire/images/4/4b/Kaun_Banega_Crorepati_logo.png/revision/latest?cb=20160805211149" style="height:70px"/>
@@ -135,7 +135,7 @@
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box">
+                                <div class="inner-box" style="box-shadow:0px 0px 0px">
                                     <div class="lower-content p-relative text-center">
                                     <center>
                                     <img src="https://www.fraxnet.com/web/image/1020/IoT-Internet%20of%20things1.png" style="height:70px"/>
@@ -147,7 +147,7 @@
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box">
+                                <div class="inner-box" style="box-shadow:0px 0px 0px">
                                     <div class="lower-content p-relative text-center">
                                     <center>
                                     <img src="https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Depositphotos_9417358_S1_1642179384.jpg" style="height:70px"/>
@@ -160,7 +160,7 @@
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box">
+                                <div class="inner-box" style="box-shadow:0px 0px 0px">
                                     <div class="lower-content p-relative text-center">
                                     <center>
                                     <img src="https://thumbs.dreamstime.com/b/emergency-funds-flat-icon-color-simple-element-fintech-collection-creative-web-design-templates-colored-filled-vector-210076785.jpg" style="height:70px"/>
@@ -172,7 +172,7 @@
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box">
+                                <div class="inner-box" style="box-shadow:0px 0px 0px">
                                     <div class="lower-content p-relative text-center">
                                     <center>
                                     <img src="https://cdn-icons-png.flaticon.com/512/4207/4207247.png" style="height:70px"/>
@@ -184,7 +184,7 @@
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box">
+                                <div class="inner-box" style="box-shadow:0px 0px 0px">
                                     <div class="lower-content p-relative text-center">
                                     <center>
                                     <img src="https://capitalmaster.in/assets/images/risk/lowrisk.png" style="height:70px"/>
@@ -648,12 +648,19 @@
 </p>
                         <div class="about-list">
                             <ul>
-                                <li class="text-light-white fs-14"><i class="fa fa-check"></i> Expert Loan</li>
-                                <li class="text-light-white fs-14"><i class="fa fa-check"></i> 100 % Success Rate
+                                <li class="text-light-white fs-14"><i class="fa fa-check"></i> Certified Advisor <img src="https://cdn2.iconfinder.com/data/icons/digital-processing-16/100/storaging_digital_processing_color_technology_business_file-512.png" style="height:80px;width:80px"/></li>
+                                <li class="text-light-white fs-14"><i class="fa fa-check"></i> 100 % Digital Procecss <img src="https://cdn0.iconfinder.com/data/icons/researcher-business-1/100/psychology_researcher_color_digital_business_process_chemical-512.png" style="height:80px;width:80px"/>
                                 </li>
-                                <li class="text-light-white fs-14"><i class="fa fa-check"></i> No Need Extra Cost
+                                <li class="text-light-white fs-14"><i class="fa fa-check"></i> Most Trusted Dgital Wealth Management Firm
+                                <img src="https://www.pinclipart.com/picdir/big/98-985785_wealth-management-insurance-clipart.png" style="height:80px;width:80px"/></li>
+                                <li class="text-light-white fs-14"><i class="fa fa-check"></i>Personalized Portfolio Management <img src="https://pasfa.de/wp-content/uploads/2022/03/Financial-Advisory.png" style="height:80px;width:80px"/>
+                                </li> <li class="text-light-white fs-14"><i class="fa fa-check"></i>Best-In-Class Research<img src="https://contensis.uwaterloo.ca/sites/open/courses/FEFOCHE/media/images/unit2-icon-Cropped-180x180.png" style="height:80px;width:80px"/>
                                 </li>
-                                <li class="text-light-white fs-14"><i class="fa fa-check"></i>Highly Recommendation
+                                </li> <li class="text-light-white fs-14"><i class="fa fa-check"></i>One Platform For All Your
+Financial Needs<img src="https://cdn-icons-png.flaticon.com/128/81/81752.png" style="height:80px;width:80px"/>
+                                </li>
+                                </li> <li class="text-light-white fs-14"><i class="fa fa-check"></i>Innovative Tools For The
+Modern Investor<img src="https://cdn-icons-png.flaticon.com/512/3789/3789988.png" style="height:80px;width:80px"/>
                                 </li>
                             </ul>
                         </div>
@@ -861,7 +868,7 @@
                         <div class="slide-item col-12" >
                         
                             <div class="team-block p-relative" >
-                                <div class="inner-box" style="height:150px">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
                                
                                 
                                    <div class="row">
@@ -878,7 +885,7 @@
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box" style="height:150px">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
                                    
                                    <div class="row">
                                    <div class="col-lg-12">
@@ -894,7 +901,7 @@
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box" style="height:150px">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
                                    
                                    <div class="row">
                                    <div class="col-lg-12">
@@ -910,7 +917,7 @@
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box"style="height:150px">
+                                <div class="inner-box"style="height:150px;box-shadow:0px 0px 0px">
                                    
                                    <div class="row">
                                    <div class="col-lg-12">
@@ -926,7 +933,7 @@
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box" style="height:150px">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
                                  
                                    <div class="row">
                                    <div class="col-lg-12">
@@ -942,7 +949,7 @@
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box" style="height:150px">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
                                    
                                    <div class="row">
                                    <div class="col-lg-12">
@@ -958,7 +965,7 @@
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box" style="height:150px">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
                                  
                                    <div class="row">
                                    <div class="col-lg-12">
