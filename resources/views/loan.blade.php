@@ -112,7 +112,7 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                         <a href="">
                         <div class="card">
                             <img src="https://img.freepik.com/free-vector/real-estate-abstract-concept-vector-illustration-real-estate-agency-residential-industrial-commercial-property-market-investment-portfolio-home-ownership-property-value-abstract-metaphor_335657-1967.jpg?t=st=1656229365~exp=1656229965~hmac=66a758d8f8335586fc24b50eff45773d5b3ea21b9a6102438aa335707c6045aa&w=740" style="height:200px;width:350px"/>
@@ -120,7 +120,7 @@
                         </div>
                         </a>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                     <a href="">
                         <div class="card">
                             <img src="https://img.freepik.com/free-vector/budget-management-personal-financial-control-cash-flow-tiny-people-planning-personal-budget_501813-277.jpg?w=740" style="height:200px;width:350px"/>
@@ -128,7 +128,7 @@
                         </div>
 </a>
                     </div>
-                    <div class="col-lg-4">
+                    <div class="col-lg-3">
                     <a href="">
                         <div class="card">
                             <img src="https://img.freepik.com/free-vector/money-lending-abstract-concept-vector-illustration-small-money-lenders-private-individuals-loans-short-term-financing-commercial-industrial-bank-credit-working-capital-abstract-metaphor_335657-2927.jpg?t=st=1656229464~exp=1656230064~hmac=da8d7adcc29bd3348211c28458b928c3f33a91509997c3fc62c45fe5d95afd57&w=740" style="height:200px;width:350px"/>
@@ -136,13 +136,174 @@
                         </div>
 </a>
                     </div>
+                    <div class="col-lg-3">
+                    <a href="">
+                        <div class="card">
+                            <img src="https://img.freepik.com/free-vector/money-lending-abstract-concept-vector-illustration-small-money-lenders-private-individuals-loans-short-term-financing-commercial-industrial-bank-credit-working-capital-abstract-metaphor_335657-2927.jpg?t=st=1656229464~exp=1656230064~hmac=da8d7adcc29bd3348211c28458b928c3f33a91509997c3fc62c45fe5d95afd57&w=740" style="height:200px;width:350px"/>
+                           <center> <p>Mortage Laon</p></center>
+                        </div>
+</a>
+                    </div>
                 </div>
             </div>
         </div>
 </section>
-<section>
-    <div class="container">
+<section class="mt-5">
+    <div class="container mt-5">
+        <div id="homeloan">
+            <h4>Home Loan</h4>
+               <div class="row">
+                        <div class="col-lg-5">
+                        <img src="https://www.basichomeloan.com/wp-content/uploads/2021/02/2.gif" />
+                        </div>
+                        <div class="col-lg-7">
+                            <p>A home loan is a secured loan that is obtained to purchase a property by offering it as collateral. Home loans offer high-value funding at economical interest rates and for long tenors. They are repaid through EMIs. After repayment, the property's title is transferred back to the borrower.<p>
+                                <p>At the beginning, lenders will assess your eligibility for home loan on the basis of your income and repayment capacity. The other important considerations include age, qualification, financial position, number of dependants, spouse's income and job stability.</p>
+                                <div class="row mt-5">
+                                    <div class="col-md-3">
+                                        <center>
+                                        <img src="https://cdn.iconscout.com/icon/free/png-256/home-loan-1795427-1522793.png" style="height:70px;width:70px;"/>
+</center>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <center>
+                                    <img src="https://cdn-icons-png.flaticon.com/512/4221/4221696.png" style="height:70px;width:70px;"/>
+</center>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <center>
+                                    <img src="https://cdn1.iconfinder.com/data/icons/finance-set-1-7/64/01-02-512.png" style="height:70px;width:70px;"/>
+</center>
+                                    </div>
+                                    <div class="col-md-3">
+                                    <center>
+                                    <img src="https://cdn3.iconfinder.com/data/icons/personal-business-finance-2/380/Home_Loan-512.png" style="height:70px;width:70px;"/>
+</center>
+                                    </div>
+                                </div>
+                        </div>
+               </div>
+        </div>
+        <div id="personalloan">
+            <h4 class="mt-5">Personal Loan</h4>
+            <div class="row">
+                        <div class="col-lg-5">
+                        <img src="https://www.gstsuvidhacenters.com/WebsiteAssets/images/Services/PersonalLoan.png" />
+                        </div>
+                        <div class="col-lg-7">
+                            <p>Personal Loan is an unsecured credit provided by financial institutions based on criteria like employment history, repayment capacity, income level, profession and credit history. Personal Loan, which is also known as a consumer loan is a multi-purpose loan, which you can use to meet any of your immediate needs.</p>
+                        </div>
+            </div>
+            <div class="row mt-5">
+                    <div class="col-lg-2">
+                    <div class="card">
+                        <center>
+                    <h4>HDFC-Super</h4>
+                        <p>10.49%</p>
+</center>
+                    </div>
+</div>
+                    <div class="col-lg-2">
+                    <div class="card">
+                        <center>
+                    <h4>HDFC Bank</h4>
+                        <p>12%</p>
+</center>
+                    </div>
+</div>
+                    <div class="col-lg-2">
+                    <div class="card">
+         <center>
+                    <h4>IDFC First</h4>
+                        <p>11%</p>
+</center>
+                    </div>
+</div>
+                    <div class="col-lg-2">
+                    <div class="card">
+         <center>
+                    <h4>Ujjivan SFB</h4>
+                        <p>11%</p>
+</center>
+                    </div>
+</div>
+                    <div class="col-lg-2">
+                    <div class="card">
+<center>
+                    <h4>ICICI Bank</h4>
+                        <p>11%</p>
+</center>
+                    </div>
+</div>
+                    <div class="col-lg-2">
+                    <div class="card">
+         <center>
+                    <h4>Upwards</h4>
+                        <p>18%</p>
+</center>
+                    </div>
+</div>
+            </div>
+            <div class="row mt-5">
+                    <div class="col-lg-2">
+                        <div class="card">
+         <center>
+                        <h4>MoneyView</h4>
+                        <p>16%</p>
+</center>
+</div>
+                    </div>
+                    <div class="col-lg-2">
+                    <div class="card">
+         <center>
+                    <h4>Incred Fin</h4>
+                        <p>16%</p>
+</center>
+                    </div>
+</div>
+                    <div class="col-lg-2">
+                    <div class="card">
+         <center>
+                    <h4>Fullerton</h4>
+                        <p>16%</p>
+</center>
+                    </div>
+</div>
+                    <div class="col-lg-2">
+                    <div class="card">
+         <center>
+                    <h4>Nira Fin</h4>
+                        <p>22%</p>
+</center>
+                    </div>
+</div>
+                    <div class="col-lg-2">
+                    <div class="card">
+         <center>
+                    <h4>IndusInd</h4>
+                        <p>12%</p>
+</center>
+                    </div>
+</div>
+                    <div class="col-lg-2">
+                    <div class="card">
+         <center>
+                    <h4>Kotak M</h4>
+                        <p>12%</p>
+</center>
+                    </div>
+</div>
+            </div>
+        </div>
         
+        <div id="businessloan">
+            <h4>Business Loan</h4>
+            
+        </div>
+        <div id="moratgeloan">
+            <h4>Mortage Loan</h4>
+            
+        </div>
     </div>
 </section>
 <section>
@@ -165,7 +326,7 @@
 <section>
     <div class="container">
             <div class="row">
-
+                
             </div>
     </div>
 </section>

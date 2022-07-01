@@ -697,7 +697,7 @@ window.addEventListener("scroll", reveal);
                     </div>  
                     <div class="col-md-8 mt-5">
                         <div class="container">
-                            <div class="card" style="height:400px;width:600px;background-color:#7f3339;border-radius:20px;"></div>
+                            <div style="background-image:url('https://cdn.iconscout.com/icon/free/png-256/debit-card-16-842903.png');height:200px;width:300px;background-repeat:no-repeat"></div>
                         </div>
                     </div>
                 </div>

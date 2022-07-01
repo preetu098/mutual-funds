@@ -231,7 +231,7 @@ Group Health <br>Insurance</p>
         <div class="row">
             <div class="col-lg-3">
                 <center>
-                <div class="card bg-default" style="height:200px;width:400px;border-radius:10px;">
+                <div class="card bg-default" style="width:400px;border-radius:10px;">
                 <div class="row mt-3">
                     <div class="col-md-6">
                         <img src="https://www.pngkit.com/png/full/302-3020680_medical-insurance-icon.png" style="margin-right:40px;height:50px;width:50px"/>
@@ -251,7 +251,7 @@ Group Health <br>Insurance</p>
                 </div>
             <div class="col-lg-3">
             <center>
-                <div class="card" style="height:200px;width:400px;border-radius:10px;">
+                <div class="card" style="width:400px;border-radius:10px;">
                 <div class="row ">
                     <div class="col-md-6 mt-3">
                         <img src="https://www.pngall.com/wp-content/uploads/2016/06/Investing-PNG-Picture.png" style="margin-right:40px;height:50px;width:50px;"/>
@@ -270,16 +270,16 @@ Group Health <br>Insurance</p>
             <div class="col-lg-1"></div>
             <div class="col-lg-3">
             <center>
-                <div class="card" style="height:200px;width:400px;border-radius:10px;">
+                <div class="card" style="width:400px;border-radius:10px;">
                 <div class="row ">
-                    <div class="col-md-6 mt-3">
+                    <div class="col-md-6">
                         <img src="https://www.freepnglogos.com/uploads/logo-home-png/vector-bambu-home-logo-download-vector-logos-22.png" style="margin-right:40px;height:50px;width:50px;"/>
                         <h5 style="margin-left:5px">50L Cover for home</h5>
                         <h4>Just for Rs 123/month</h4>
                     </div>
                     <div class="col-md-6">
                         <center>
-                            <img class="mt-3" src="http://assets.stickpng.com/thumbs/5a02c13518e87004f1ca439c.png" style="height:70px;width:70px"/>
+                            <img class="mt-3" src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/house-icon.png" style="height:70px;width:70px"/>
                         </center>
                     </div>
                 </div>
@@ -304,7 +304,7 @@ Group Health <br>Insurance</p>
                         <div class="col-md-2"></div>
                         <div class="col-md-5">
                             <div class="card mt-3"  style="height:200px;width:200px;border-left:2px solid blue">
-                        <img src="https://cdn.iconscout.com/icon/free/png-256/party-2-62612.png" style="height:30px;width:30px;margin-left:5px"/>
+                        <img class="mt-3" src="https://cdn.iconscout.com/icon/free/png-256/party-2-62612.png" style="height:30px;width:30px;margin-left:5px"/>
                             <h5 style="margin-left:5px" class="mt-3 text-info"> Over 9 million</h5>
                             <p style="margin-left:5px">customers trust us & have bought their insurance</p>
                     </div>
@@ -312,7 +312,7 @@ Group Health <br>Insurance</p>
                         </div>
                         <div class="col-md-5">
                         <div class="card mt-5" style="height:200px;width:200px;border-left:2px solid orange">
-                        <img src="https://icons.veryicon.com/png/o/application/wq/search-171.png" style="height:30px;width:30px;margin-left:5px"/>
+                        <img class="mt-3" src="https://icons.veryicon.com/png/o/application/wq/search-171.png" style="height:30px;width:30px;margin-left:5px"/>
                             <h5 style="margin-left:5px" class="mt-3 text-success">50+ insurers</h5>
                             <p style="margin-left:5px">partnered with us so that you can compare easily & transparently</p>
                    
@@ -323,7 +323,7 @@ Group Health <br>Insurance</p>
                         <div class="col-md-4"></div>
                         <div class="col-md-4 mt-3">
                             <div class="card" style="height:200px;width:200px;border-left:2px solid red">
-                            <img src="https://images.vexels.com/media/users/3/134792/isolated/lists/11021ac040438214430837e55f4225b7-3d-smile-emoticon-emoji.png" style="height:30px;width:30px;margin-left:5px"/>
+                            <img class="mt-3" src="https://images.vexels.com/media/users/3/134792/isolated/lists/11021ac040438214430837e55f4225b7-3d-smile-emoticon-emoji.png" style="height:30px;width:30px;margin-left:5px"/>
                             <h5 style="margin-left:5px" class="mt-3 text-warning">The Best Price</h5>
                             <p style="margin-left:5px">for all insurance plans available online</p>
                         </div>
@@ -331,7 +331,7 @@ Group Health <br>Insurance</p>
                         </div>
                         <div class="col-md-4  mt-3">
                         <div class="card mt-5" style="height:200px;width:200px;border-left:2px solid green">
-                        <img src="https://i.dlpng.com/static/png/6477532_preview.png" style="height:30px;width:30px;margin-left:5px"/>
+                        <img class="mt-3" src="https://icons.veryicon.com/png/o/miscellaneous/icon-library-of-grey-sun-1/work-experience-1.png" style="height:30px;width:30px;margin-left:5px"/>
                             <h5 style="margin-left:5px" class="mt-3 text-dark">Claims</h5>
                             <p style="margin-left:5px">support built in with every policy for help, when you need it the most</p>
                     </div>
@@ -430,39 +430,89 @@ Group Health <br>Insurance</p>
 </div>
 <section>
     <div class="container">
-        <h3>PB Advantage</u></h3>
+        <h3>Advantage</u></h3>
         <div class="row">
             <div class="col-lg-6">
         <h4>When you buy insurance from us, you get more than just financial safety. You also get: our promise of simplifying complex insurance terms and conditions, quick stress-free claims, instant quotes from top insurers and being present for you in the toughest of times.</h4>
         </div>
+        <div class="col-lg-6"></div>
         </div>
-    <div class="row">
-        <div class="col-md-2">
-            <div class="card" style="height:200px;width:200px">
-                    <img src="http://cdn.onlinewebfonts.com/svg/img_76979.png" style="height:60px;width:60px"/>
+    <div class="row mt-5">
+            <div class="col-lg-1">
+
             </div>
-        </div>
-        <div class="col-md-2">
-             <div class="card" style="height:200px;width:200px">
-                    <img src="http://cdn.onlinewebfonts.com/svg/img_76979.png" style="height:60px;width:60px"/>
+            <div class="col-lg-2">
+                   
+                        <div class="card" style="border:0px;">
+                            <center><img src="https://cdn.iconscout.com/icon/free/png-256/credit-card-1454538-1228446.png" style="height:60px;width:60px"/>
+
+                            <h5>One Of the best Price</h5></center>
+                        </div>
+                   
             </div>
-        </div>
-        <div class="col-md-2">
-             <div class="card" style="height:200px;width:200px">
-                    <img src="http://cdn.onlinewebfonts.com/svg/img_76979.png" style="height:60px;width:60px"/>
+            <div class="col-lg-2">
+            <div class="card" style="border:0px;">
+            <center>
+                            <img src="https://cdn-icons-png.flaticon.com/512/177/177885.png" style="height:60px;width:60px"/>
+                            <h5>
+Unbiased Advice</h5></center>
+                        </div>
             </div>
-        </div>
-        <div class="col-md-2">
-        <div class="card" style="height:200px;width:200px">
-                    <img src="http://cdn.onlinewebfonts.com/svg/img_76979.png" style="height:60px;width:60px"/>
+            <div class="col-lg-2">
+            <div class="card" style="border:0px;">
+            <center>
+                            <img src="https://cdn-icons-png.flaticon.com/512/1600/1600130.png" style="height:60px;width:60px"/>
+                            <h5>100% Reliable</h5></center>
+                        </div>
             </div>
-        </div>
-        <div class="col-md-2">
-        <div class="card" style="height:200px;width:200px">
-                    <img src="http://cdn.onlinewebfonts.com/svg/img_76979.png" style="height:60px;width:60px"/>
+            <div class="col-lg-2">
+            <div class="card" style="border:0px;">
+            <center>
+                            <img src="https://www.fincover.com/wp-content/uploads/2020/10/car-ins-renew-1.png" style="height:60px;width:60px"/>
+                            <h5>Claim Support</h5>
+</center>
+                        </div>
             </div>
-        </div>
+            <div class="col-lg-2">
+            <div class="card" style="border:0px;">
+            <center>
+                            <img src="https://infra-cloudfront-talkdeskcom.svc.talkdeskapp.com/talkdesk_com/future-workforce-engagement-the-rise-the-hybrid-contact-center-435x290.png" style="height:60px;width:60px"/>
+                            <h5>Happy to Help</h5>
+</center>
+                        </div>
+            </div>
+            <div class="col-lg-1">
+
+            </div>
     </div>
+    </div>
+</section>
+<section class="mt-5">
+    <div class="container mt-5">
+            <div class="row">
+                <div class="col-lg-5">
+                    <h3><u>Get</u> App</h3>
+                <p>Get Control of all your insurance needs anywhere,anytime</p>
+                <p class="mt-5"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Star_icon_stylized.svg/1077px-Star_icon_stylized.svg.png" style="height:30px;width:30px"/>Compare different insurance policies</p>
+                <p class="mt-5"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Star_icon_stylized.svg/1077px-Star_icon_stylized.svg.png" style="height:30px;width:30px"/>Buy, store and share all your policies online</p>
+                <p class="mt-5"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Star_icon_stylized.svg/1077px-Star_icon_stylized.svg.png" style="height:30px;width:30px"/>Track your policy status on the go</p>
+                <p class="mt-5"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Star_icon_stylized.svg/1077px-Star_icon_stylized.svg.png" style="height:30px;width:30px"/>Download your policy with a single tap</p>
+                    <div class="row">
+                        <div class="col-lg-6">
+
+                            <button class="btn btn-dark" style="width:80%">
+                            GET IT ON<br>
+                            <img src="https://cdn.icon-icons.com/icons2/2119/PNG/512/social_google_play_store_icon_131220.png" style="height:20px;width:20px"/>Google Play</button>
+                        </div>
+                        <div class="col-lg-6">
+                        <button class="btn btn-dark" style="width:80%"> Download on the<br><img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-antivirus-software-policy-library-and-information-34.png" style="height:20px;width:20px"/>App Store</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <img src="https://static.pbcdn.in/cdn/images/home-v1/get-app.png"/>
+                </div>
+            </div>
     </div>
 </section>
 <section class="section-padding  doctors-team-style-2" style="padding: 44px 0px 22px 0px;height:500px">

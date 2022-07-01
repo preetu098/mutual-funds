@@ -163,7 +163,7 @@
                                 <div class="inner-box">
                                     <div class="lower-content p-relative text-center">
                                     <center>
-                                    <img src="https://cdn-icons-png.flaticon.com/512/4207/4207247.png" style="height:70px"/>
+                                    <img src="https://thumbs.dreamstime.com/b/emergency-funds-flat-icon-color-simple-element-fintech-collection-creative-web-design-templates-colored-filled-vector-210076785.jpg" style="height:70px"/>
                                         <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Emergency fund</a></h4>
                                     </center>
                                     </div>
@@ -187,7 +187,7 @@
                                 <div class="inner-box">
                                     <div class="lower-content p-relative text-center">
                                     <center>
-                                    <img src="https://cdn-icons-png.flaticon.com/512/4207/4207247.png" style="height:70px"/>
+                                    <img src="https://capitalmaster.in/assets/images/risk/lowrisk.png" style="height:70px"/>
                                         <h4><a href="team.html" class="text-custom-black fw-600 fs-20">Low Risk (Debt Funds)</a></h4>
                                     </center>
                                     </div>
