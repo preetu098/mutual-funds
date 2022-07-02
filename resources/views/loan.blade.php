@@ -154,7 +154,7 @@
             <h4>Home Loan</h4>
                <div class="row">
                         <div class="col-lg-5">
-                        <img src="https://www.basichomeloan.com/wp-content/uploads/2021/02/2.gif" />
+                        <img src="images/homeloan.jpg" />
                         </div>
                         <div class="col-lg-7">
                             <p>A home loan is a secured loan that is obtained to purchase a property by offering it as collateral. Home loans offer high-value funding at economical interest rates and for long tenors. They are repaid through EMIs. After repayment, the property's title is transferred back to the borrower.<p>
@@ -201,7 +201,7 @@
                         <center>
                     <h4>HDFC Bank</h4>
                         <p>Starting ROI 10.49%*</p>
-                        <img src="https://play-lh.googleusercontent.com/POGVZhNvSh05yA01H2VTlElv0Mw6r4R7hj9w7DaOvJVgiGoi0Fcawi02yITkyMT1zwqO=w600-h300-pc0xffffff-pd" style="height:70px;width:100px"/>
+                        <img src="images/hdfc.png" style="height:30px;width:100px"/>
                         <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
@@ -211,8 +211,8 @@
                     <div class="card">
          <center>
                     <h4>IDFC First</h4>
-                        <p>11%</p>
-                        <img src="https://www.dqindia.com/wp-content/uploads/2015/12/idfc_new_logo1.jpg" style="height:70px;width:100px"/>
+                        <p>Starting ROI 11%*</p>
+                        <img src="https://www.dqindia.com/wp-content/uploads/2015/12/idfc_new_logo1.jpg" style="height:30px;width:100px"/>
                         <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
@@ -221,8 +221,8 @@
                         <div class="card">
          <center>
                         <h4>MoneyView</h4>
-                        <p>16%</p>
-                        <img src="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2F20160518010638442965_MoneyView+Logo.jpg&h=630&w=1200&q=75&v=20170226&c=1" style="height:70px;width:100px"/>
+                        <p>Starting ROI 16%*</p>
+                        <img src="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2F20160518010638442965_MoneyView+Logo.jpg&h=630&w=1200&q=75&v=20170226&c=1" style="height:30px;width:100px"/>
                         <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
 </div>
@@ -231,8 +231,8 @@
                     <div class="card">
          <center>
                     <h4>Ujjivan SFB</h4>
-                        <p>11%</p>
-                        <img src="https://media.glassdoor.com/sqll/352966/ujjivan-squarelogo-1529034980397.png" style="height:70px;width:100px"/>
+                        <p>Starting ROI 11%*</p>
+                        <img src="https://media.glassdoor.com/sqll/352966/ujjivan-squarelogo-1529034980397.png" style="height:30px;width:100px"/>
                         <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
@@ -241,8 +241,8 @@
                     <div class="card">
 <center>
                     <h4>ICICI Bank</h4>
-                        <p>11%</p>
-                        <img src="https://gs-post-images.grdp.co/2020/6/71-718369_download-icici-bank-logo-hd-png-clipart-2-img1592917535563-78.png-rs-high-webp.png" style="height:70px;width:100px"/>
+                        <p>Starting ROI 11%*</p>
+                        <img src="https://gs-post-images.grdp.co/2020/6/71-718369_download-icici-bank-logo-hd-png-clipart-2-img1592917535563-78.png-rs-high-webp.png" style="height:30px;width:100px"/>
                         <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
@@ -251,8 +251,8 @@
                     <div class="card">
          <center>
                     <h4>Upwards</h4>
-                        <p>18%</p>
-                        <img src="https://upwards.in/assets/img/upwards_logo.png" style="height:70px;width:100px"/>
+                        <p>Starting ROI 18%*</p>
+                        <img src="https://upwards.in/assets/img/upwards_logo.png" style="height:30px;width:100px"/>
                         <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
@@ -264,8 +264,8 @@
                     <div class="card">
          <center>
                     <h4>Incred Fin</h4>
-                        <p>16%</p>
-                        <img src="https://assets.shortpedia.com/uploads/2019/12/17/1576554013.jpg" style="height:70px;width:100px"/>
+                        <p>Starting ROI 16%*</p>
+                        <img src="https://assets.shortpedia.com/uploads/2019/12/17/1576554013.jpg" style="height:30px;width:100px"/>
                         <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
@@ -274,8 +274,8 @@
                     <div class="card">
          <center>
                     <h4>Fullerton</h4>
-                        <p>16%</p>
-                        <img src="https://dimensionshrd.com/wp-content/uploads/2019/11/Fullerton-India.png" style="height:70px;width:100px"/>
+                        <p>Starting ROI 16%*</p>
+                        <img src="https://dimensionshrd.com/wp-content/uploads/2019/11/Fullerton-India.png" style="height:30px;width:100px"/>
                         <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
@@ -284,8 +284,8 @@
                     <div class="card">
          <center>
                     <h4>Nira Fin</h4>
-                        <p>22%</p>
-                        <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0006/4670/brand.gif?itok=sBhJyhV_" style="height:70px;width:100px"/>
+                        <p>Starting ROI 22%*</p>
+                        <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0006/4670/brand.gif?itok=sBhJyhV_" style="height:30px;width:100px"/>
                         <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
@@ -294,8 +294,8 @@
                     <div class="card">
          <center>
                     <h4>IndusInd</h4>
-                        <p>12%</p>
-                        <img src="https://www.outlookindia.com/outlookmoney/public/uploads/article/gallery/0764949929ce8893a114c3a094e224c4.jpg" style="height:70px;width:100px"/>
+                        <p>Starting ROI 12%*</p>
+                        <img src="https://www.outlookindia.com/outlookmoney/public/uploads/article/gallery/0764949929ce8893a114c3a094e224c4.jpg" style="height:30px;width:100px"/>
                         <button class="btn btn-info">Apply for Personal Loan</button>
 </center>
                     </div>
@@ -304,8 +304,8 @@
                     <div class="card">
          <center>
                     <h4>Kotak M</h4>
-                        <p>12%</p>
-                        <img src="https://logos-download.com/wp-content/uploads/2016/06/Kotak_Mahindra_Bank_logo.png" style="height:70px;width:100px"/>
+                        <p>Starting ROI 12%*</p>
+                        <img src="https://logos-download.com/wp-content/uploads/2016/06/Kotak_Mahindra_Bank_logo.png" style="height:30px;width:100px"/>
                         <button class="btn btn-info">Apply for Personal Loan</button>
 </center>   
                     </div>
@@ -329,8 +329,8 @@
                 <div class="card">
          <center>
                     <h4>HDFC Bank</h4>
-                        <p>16%</p>
-                        <img src="https://play-lh.googleusercontent.com/POGVZhNvSh05yA01H2VTlElv0Mw6r4R7hj9w7DaOvJVgiGoi0Fcawi02yITkyMT1zwqO=w600-h300-pc0xffffff-pd" style="height:70px;width:100px"/>
+                        <p>Starting ROI 16%*</p>
+                        <img src="https://play-lh.googleusercontent.com/POGVZhNvSh05yA01H2VTlElv0Mw6r4R7hj9w7DaOvJVgiGoi0Fcawi02yITkyMT1zwqO=w600-h300-pc0xffffff-pd" style="height:30px;width:100px"/>
                         <button class="btn btn-warning">Apply for Busiiness Loan</button>
 </center>   
                     </div>
@@ -339,8 +339,8 @@
                 <div class="card">
          <center>
                     <h4>Lending Kart</h4>
-                        <p>18%</p>
-                        <img src="https://cdn.chappuishalder.com/wp-content/uploads/sites/6/2017/01/Lendingkart-logo-OK-1.png" style="height:70px;width:100px"/>
+                        <p>Starting ROI 18%*</p>
+                        <img src="https://cdn.chappuishalder.com/wp-content/uploads/sites/6/2017/01/Lendingkart-logo-OK-1.png" style="height:30px;width:100px"/>
                         <button class="btn btn-warning">Apply for Business Loan</button>
 </center>   
                     </div>
@@ -349,8 +349,8 @@
                 <div class="card">
          <center>
          <h4>IDFC First</h4>
-                        <p>18%</p>
-                        <img src="https://www.dqindia.com/wp-content/uploads/2015/12/idfc_new_logo1.jpg" style="height:70px;width:100px"/>
+                        <p>Starting ROI 18%*</p>
+                        <img src="https://www.dqindia.com/wp-content/uploads/2015/12/idfc_new_logo1.jpg" style="height:30px;width:100px"/>
                         <button class="btn btn-warning">Apply for Business Loan</button>
 </center>   
                     </div>
@@ -359,8 +359,8 @@
                 <div class="card">
          <center>
          <h4>ICICI Bank</h4>
-                        <p>16%</p>
-                        <img src="https://gs-post-images.grdp.co/2020/6/71-718369_download-icici-bank-logo-hd-png-clipart-2-img1592917535563-78.png-rs-high-webp.png" style="height:70px;width:100px"/>
+                        <p>Starting ROI 16%*</p>
+                        <img src="https://gs-post-images.grdp.co/2020/6/71-718369_download-icici-bank-logo-hd-png-clipart-2-img1592917535563-78.png-rs-high-webp.png" style="height:30px;width:100px"/>
                         <button class="btn btn-warning">Apply for Business Loan</button>
 </center>   
                     </div>
@@ -369,8 +369,8 @@
                 <div class="card">
          <center>
          <h4>Fullerton</h4>
-                        <p>18%</p>
-                        <img src="https://dimensionshrd.com/wp-content/uploads/2019/11/Fullerton-India.png" style="height:70px;width:100px"/>
+                        <p>Starting ROI 18%*</p>
+                        <img src="https://dimensionshrd.com/wp-content/uploads/2019/11/Fullerton-India.png" style="height:30px;width:100px"/>
                         <button class="btn btn-warning">Apply for Business Loan</button>
 </center>   
                     </div>
@@ -379,8 +379,8 @@
                 <div class="card">
          <center>
          <h4>IndusInd</h4>
-                        <p>18%</p>
-                        <img src="https://www.outlookindia.com/outlookmoney/public/uploads/article/gallery/0764949929ce8893a114c3a094e224c4.jpg" style="height:70px;width:100px"/>
+                        <p>Starting ROI 18%*</p>
+                        <img src="https://www.outlookindia.com/outlookmoney/public/uploads/article/gallery/0764949929ce8893a114c3a094e224c4.jpg" style="height:30px;width:100px"/>
                         <button class="btn btn-warning">Apply for Business Loan</button>
 </center>   
                     </div>

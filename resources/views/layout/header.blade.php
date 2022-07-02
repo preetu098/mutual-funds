@@ -121,7 +121,7 @@ name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, m
                                     <div class="second-inner">
                                         <div class="nav-logo">
                                             <a href="#">
-                                                <img src="assets/images/logo.png" alt="Tata Capital Logo"
+                                                <img src="images/logoset.jpeg" alt="Tata Capital Logo"
                                                     class="logo-desktop">
                                             </a>
                                         </div>
