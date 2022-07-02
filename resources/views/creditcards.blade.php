@@ -205,7 +205,7 @@ window.addEventListener("scroll", reveal);
         <a href="#sbc" role="tab" data-toggle="tab">
             <div class="card">
               <div class="card-body">
-              <img src="https://cdn-icons-png.flaticon.com/512/196/196575.png" style="height:200px;width:300px"/>
+              <img src="https://cdn-icons-png.flaticon.com/512/196/196575.png" style="height:100px;width:100px"/>
                   </div>
 
           <div class="card-header">
@@ -219,7 +219,7 @@ window.addEventListener("scroll", reveal);
         <a href="#sbi" role="tab" data-toggle="tab">
             <div class="card">
             <div class="card-body">
-              <img src="https://bfsi.eletsonline.com/wp-content/uploads/2017/05/sbi-cards-1.png" style="height:200px;width:300px"/>
+              <img src="https://bfsi.eletsonline.com/wp-content/uploads/2017/05/sbi-cards-1.png" style="height:100px;width:100px"/>
 </div>
 
 <div class="card-header">
@@ -233,7 +233,7 @@ window.addEventListener("scroll", reveal);
         <a href="#icici" role="tab" data-toggle="tab">
             <div class="card">
                 <div class="card-body">
-              <img src="https://i0.wp.com/logotaglines.com/wp-content/uploads/2016/08/ICICI-Logo.png?fit=386%2C395&ssl=1" style="height:200px;width:300px"/>
+              <img src="https://i0.wp.com/logotaglines.com/wp-content/uploads/2016/08/ICICI-Logo.png?fit=386%2C395&ssl=1" style="height:100px;width:100px"/>
 </div>
 
 <div class="card-header">
@@ -247,7 +247,7 @@ window.addEventListener("scroll", reveal);
         <a href="#hdfc" role="tab" data-toggle="tab">
             <div class="card">
             <div class="card-body">
-              <img src="https://www.equitypandit.com/wp-content/uploads/2018/03/hdfc.jpg" style="height:200px;width:300px"/>
+              <img src="https://www.equitypandit.com/wp-content/uploads/2018/03/hdfc.jpg" style="height:100px;width:100px"/>
 </div>
 <div class="card-header">
 
@@ -266,37 +266,48 @@ window.addEventListener("scroll", reveal);
             <div class="container">
                 <div class="row mt-5">
                   <div class="col-lg-4 mt-5" id="sbccard">
-                    <img src="https://cdn.iconscout.com/icon/free/png-256/ola-282225.png" style="height:200px;width:200px;"/>
-                    <h4>15% cashback at OLA</h4>
+                  <center>
+                    <img src="https://cdn.iconscout.com/icon/free/png-256/ola-282225.png" style="height:100px;width:100px;"/>
+                   <h4>15% cashback at OLA</h4></center>
                   </div>
                   <div class="col-lg-4 mb-5" id="sbccard">
-                    <img src="https://seeklogo.com/images/M/myntra-logo-B3C45EAD5C-seeklogo.com.png" style="height:200px;width:200px;"/>
+                  <center>
+                    <img src="https://seeklogo.com/images/M/myntra-logo-B3C45EAD5C-seeklogo.com.png" style="height:100px;width:100px;"/>
                     <h4>20% cashback at Myntra</h4>
+</center>
                   </div>
                   <div class="col-lg-4  mt-5" id="sbccard">
-                    <img src="https://theplugmedia.in/wp-content/uploads/2020/06/inox.png" style="height:200px;width:200px;"/>
+                    <center>
+                    <img src="https://theplugmedia.in/wp-content/uploads/2020/06/inox.png" style="height:100px;width:100px;"/>
                     <h4>Buy One Get One</h4>
+</center>
                   </div>
                 </div>
 
 
                 <div class="row mt-5">
                   <div class="col-lg-4 mt-5" id="sbccard">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Zomato_Logo.png" style="height:200px;width:200px;"/>
+                    <Center>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Zomato_Logo.png" style="height:100px;width:100px;"/>
                     <h4>15% off at zomato</h4>
+</center>
                   </div>
                   <div class="col-lg-4 mb-5" id="sbccard">
-                    <img src="http://faridabadfin.com/wp-content/uploads/2022/04/scb_11zon.jpg" style="height:300px;width:300px;"/>
+                    <center>
+                    <img src="http://faridabadfin.com/wp-content/uploads/2022/04/scb_11zon.jpg" style="height:200px;width:200px;"/>
+</center>
                   </div>
                   <div class="col-lg-4  mt-5" id="sbccard">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Blinkit-yellow-app-icon.svg/3500px-Blinkit-yellow-app-icon.svg.png" style="height:200px;width:200px;"/>
-                    <h4>20% off</h4>
+                    <center>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Blinkit-yellow-app-icon.svg/3500px-Blinkit-yellow-app-icon.svg.png" style="height:100px;width:100px;"/>
+
+                    <h4>20% off</h4></center>
                   </div>
                 </div>
                 <div class="row">
                     <div class="col-lg-12" id="sbccard">
                       <center>
-                          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yatra_logo.svg/2560px-Yatra_logo.svg.png" style="height:200px;width:200px;"/>
+                          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yatra_logo.svg/2560px-Yatra_logo.svg.png" style="height:100px;width:100px;"/>
                           <h4>Upto 20% off</h4>
                       </center>
                     </div>

@@ -129,34 +129,34 @@ name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, m
                                         <ul class="nav-bar primary-nav-items hidden-xs" id="consumer">
                                             <li class="nav-item   ">
                                                 
-                                                <input type="radio" name="nav-radio">
-                                                <a href="javascript:void(0)">Mutual Funds</a>
+                                             
+                                                <a href="/trail">Mutual Funds</a>
 
                                             </li>
                                             <li class="nav-item   ">
-                                                <input type="radio" name="nav-radio">
-                                                <a href="javascript:void(0)">Pre IPO</a>
+                                              
+                                                <a href="/preipo">Pre IPO</a>
 
                                             </li>
                                             <li class="nav-item">
-                                                <input type="radio" name="nav-radio">
-                                                <a href="javascript:void(0)">PMS & AIF</a>
+                                             
+                                                <a href="/pms">PMS & AIF</a>
 
                                             </li>
 
                                             <li class="nav-item   ">
-                                                <input type="radio" name="nav-radio">
+                                              
                                                 <a href="javascript:void(0)">International Funds(NRI Only)</a>
 
                                             </li>
                                             <li class="nav-item   ">
-                                                <input type="radio" name="nav-radio">
-                                                <a href="javascript:void(0)">Bonds</a>
+                                              
+                                                <a href="/bonds">Bonds</a>
 
                                             </li>
                                             <li class="nav-item   ">
-                                                <input type="radio" name="nav-radio">
-                                                <a href="javascript:void(0)">Fixed Deposit</a>
+                                               
+                                                <a href="/fd">Fixed Deposit</a>
 
                                             </li>
                                         </ul>
