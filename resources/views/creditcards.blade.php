@@ -708,7 +708,15 @@ window.addEventListener("scroll", reveal);
                     </div>  
                     <div class="col-md-8 mt-5">
                         <div class="container">
-                            <div style="background-image:url('https://cdn.iconscout.com/icon/free/png-256/debit-card-16-842903.png');height:200px;width:300px;background-repeat:no-repeat"></div>
+                            <div class="card bg-danger" style="height:300px;width:600px;border-radius:10px;">
+                            <div class="row">
+                                    <div class="col-lg-1" ></div>
+                                    <div class="col-lg-3 mt-3" ><h5 style='color:white'>Net Annual Income</h5></div>
+                                    <div class="col-lg-6 mt-3" ><h5>Net Annual Income</h5></div>
+                                    <div class="col-lg-2" ></div>
+                            </div>
+                          </div>      
+                      </div>
                         </div>
                     </div>
                 </div>
