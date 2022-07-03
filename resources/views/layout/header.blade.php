@@ -130,7 +130,7 @@ name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, m
                                             <li class="nav-item   ">
                                                 
                                              
-                                                <a href="/trail">Mutual Funds</a>
+                                                <a href="/trial">Mutual Funds</a>
 
                                             </li>
                                             <li class="nav-item   ">

@@ -300,32 +300,353 @@ To enhance risk-adjusted performance, these products can use complex strategies 
         </div>
 </section>
      <!-- Start Faqs -->
-     <section class="section-padding loan-faqs-sec bg-light-white findrate-top" style="margin-top:200px">
+     <section class="section-padding  doctors-team-style-2" style="padding: 44px 0px 22px 0px;height:500px">
         <div class="container">
+            <div class="section-header">
+                <div class="section-heading " style="">
+                               <h3>Funds House</h3>
+                </div>
+            </div>
             <div class="row">
-                <div class="offset-lg-2 col-lg-8">
-                    <div class="findratesec">
-                       <div class="row">
-                            <div class="col-sm-3">
-                                <img src="https://www.iiflwealth.com/sites/default/files/iifl-inverse-logo.png" style="height:40px;" />
+           
+                <div class="col-12 no-padding" >
+                    <div class="doctors-slider" >
+                  
+                        <div class="slide-item col-12" >
+                        
+                            <div class="team-block p-relative" >
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                               
+                                
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+            <img src="http://loanbeku.com/wp-content/uploads/2017/10/Tata-Capital-bank.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
                             </div>
-                            <div class="col-sm-3">
-                                <img src="https://muthootgold.in/images/logo.png"style="height:40px;" />
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+            <img src="https://logos-world.net/wp-content/uploads/2020/11/HDFC-Bank-Logo.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
                             </div>
-                            <div class="col-sm-3">
-                                <img src="http://weeassure.com/assets/images/shriram-transport-finance.png"style="height:40px;" />
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+            <img src="https://orissadiary.com/wp-content/uploads/2018/08/264279_528701413838836_555702680_n-768x448.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
                             </div>
-                            <div class="col-sm-3">
-                                <img src="https://www.timesofassam.com/wp-content/uploads/2011/03/SBI.png" style="height:40px;"/>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box"style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                        <center>
+                                        <img src="http://weeassure.com/assets/images/shriram-transport-finance.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
                             </div>
-                       </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                 
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://www.govnokri.in/wp-content/uploads/2020/02/EXIM-Bank.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://pbs.twimg.com/media/EbRWhnmUMAA6YCc.jpg"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://logos-download.com/wp-content/uploads/2016/04/BNP_Paribas_logo_logotype_emblem.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://www.thehindubusinessline.com/incoming/6czm86/article27999953.ece/alternates/LANDSCAPE_1200/bharti-axa-Gen-Insurance-logo-01-3png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
 
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://bloghost0.orowealth.com/wp-content/uploads/2018/07/CRMF-Logo-01.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXLO_RIWLjvBdGQdfKedkZoBu1lVqeVvxcU-saj813Ed6mYep4_LDniLFVkd-zak8PPqM&usqp=CAU"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://media-exp1.licdn.com/dms/image/C5116AQGUL7qVCzQ2qg/profile-displaybackgroundimage-shrink_200_800/0/1517067492712?e=1660176000&v=beta&t=MPl7gBzU1ZmQqnmqsHy74czt1OfI1y2lIgg5KwPI5-0"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://content.indiainfoline.com/_media/iifl/img/article/2019-05/06/full/1557143914-0954.jpg"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://iconape.com/wp-content/files/mq/182656/svg/indiabulls-2018-seeklogo.com.svg"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu5ntWaou8XM4bob_VPi3YxcyzYKK6w-gOwkAnQK9nDa0k5DZORdZmziow_3COfvWw7A&usqp=CAU"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://www.greatplacetowork.in/great/admin/uploads/company_logo/16704009681585566551.jpg"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://logos-download.com/wp-content/uploads/2016/06/Kotak_Mahindra_Bank_logo.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/L%26T.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+
+
+
+
+                        
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://download.logo.wine/logo/Axis_Bank/Axis_Bank-Logo.wine.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                 
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://21btrj3i7vy42n2f4044931p-wpengine.netdna-ssl.com/wp-content/uploads/2021/09/Bank-of-baroda.jpg"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                                
+                            </div>
+                            
+                        </div>
                     </div>
                 </div>
             </div>
-            
         </div>
-</div>
     </section>
     
     <!-- End Faqs -->

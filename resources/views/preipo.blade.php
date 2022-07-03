@@ -21,7 +21,7 @@ input[type='search']
 table tr td 
 {
     font-family:inherit;
-    font-size:18px;
+    font-size:15px;
 }
 </style>
 <!--
@@ -88,8 +88,8 @@ start search company code    !-->
                     <form style="padding: 15px;">
                     <div class="form-group">
                             <label for="exampleInputEmail1">Name</label>
-                            <input type="email" class="form-control" id="exampleInputEmail1"
-                                aria-describedby="emailHelp" placeholder="Enter email">
+                            <input type="textx" class="form-control" id="exampleInputEmail1"
+                                aria-describedby="emailHelp" placeholder="Enter name">
                            
                         </div>
                         <div class="form-group">
@@ -99,11 +99,15 @@ start search company code    !-->
                             
                         </div>
                         <div class="form-group">
-                            <label for="exampleInputPassword1">Password</label>
-                            <input type="password" class="form-control" id="exampleInputPassword1"
-                                placeholder="Password">
+                            <label for="exampleInputPassword1">Mobile number</label>
+                            <input type="number" class="form-control" id="exampleInputPassword1"
+                                placeholder="enter number">
                         </div>
-                       
+                        <div class="mb-3 mt-3">
+                            <label for="exampleInputPassword1">OTP</label>
+                            <input type="text" class="form-control" id="exampleInputPassword1"
+                                placeholder="enter otp">
+                        </div>
                         <button type="submit" class="btn btn-primary">Submit</button>
                     </form>
                 </div> 
@@ -216,8 +220,8 @@ start search company code    !-->
                     <div class="doctors-slider">
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box">
-                                    <div class="lower-content p-relative text-center">
+                                <div class="inner-box" >
+                                    <div class="lower-content p-relative text-center" >
                                         <center>
                                         <!-- <h4 class="text-info">Reliance Retail</h4> -->
                 <img src="https://1000logos.net/wp-content/uploads/2021/08/Reliance-Industries-Limited-RIL-Logo-1966.png" style="height:100px;width:100px"/>
@@ -601,7 +605,7 @@ start search company code    !-->
                         <div class="slide-item col-12" >
                         
                             <div class="team-block p-relative" >
-                                <div class="inner-box" style="height:150px">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
                                
                                 
                                    <div class="row">
@@ -618,7 +622,7 @@ start search company code    !-->
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box" style="height:150px">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
                                    
                                    <div class="row">
                                    <div class="col-lg-12">
@@ -634,7 +638,7 @@ start search company code    !-->
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box" style="height:150px">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
                                    
                                    <div class="row">
                                    <div class="col-lg-12">
@@ -650,7 +654,7 @@ start search company code    !-->
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box"style="height:150px">
+                                <div class="inner-box"style="height:150px;box-shadow:0px 0px 0px">
                                    
                                    <div class="row">
                                    <div class="col-lg-12">
@@ -666,7 +670,7 @@ start search company code    !-->
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box" style="height:150px">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
                                  
                                    <div class="row">
                                    <div class="col-lg-12">
@@ -682,7 +686,7 @@ start search company code    !-->
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box" style="height:150px">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
                                    
                                    <div class="row">
                                    <div class="col-lg-12">
@@ -698,7 +702,222 @@ start search company code    !-->
                         </div>
                         <div class="slide-item col-12">
                             <div class="team-block p-relative">
-                                <div class="inner-box" style="height:150px">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://logos-download.com/wp-content/uploads/2016/04/BNP_Paribas_logo_logotype_emblem.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://www.thehindubusinessline.com/incoming/6czm86/article27999953.ece/alternates/LANDSCAPE_1200/bharti-axa-Gen-Insurance-logo-01-3png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://bloghost0.orowealth.com/wp-content/uploads/2018/07/CRMF-Logo-01.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXLO_RIWLjvBdGQdfKedkZoBu1lVqeVvxcU-saj813Ed6mYep4_LDniLFVkd-zak8PPqM&usqp=CAU"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://media-exp1.licdn.com/dms/image/C5116AQGUL7qVCzQ2qg/profile-displaybackgroundimage-shrink_200_800/0/1517067492712?e=1660176000&v=beta&t=MPl7gBzU1ZmQqnmqsHy74czt1OfI1y2lIgg5KwPI5-0"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://content.indiainfoline.com/_media/iifl/img/article/2019-05/06/full/1557143914-0954.jpg"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://iconape.com/wp-content/files/mq/182656/svg/indiabulls-2018-seeklogo.com.svg"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu5ntWaou8XM4bob_VPi3YxcyzYKK6w-gOwkAnQK9nDa0k5DZORdZmziow_3COfvWw7A&usqp=CAU"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://www.greatplacetowork.in/great/admin/uploads/company_logo/16704009681585566551.jpg"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://logos-download.com/wp-content/uploads/2016/06/Kotak_Mahindra_Bank_logo.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/L%26T.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+
+
+
+
+                        
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
+                                   
+                                   <div class="row">
+                                   <div class="col-lg-12">
+                                    <div>
+                                    <center>
+                                        <img src="https://download.logo.wine/logo/Axis_Bank/Axis_Bank-Logo.wine.png"/>
+</center>
+</div>
+                                        </div>
+                                   </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide-item col-12">
+                            <div class="team-block p-relative">
+                                <div class="inner-box" style="height:150px;box-shadow:0px 0px 0px">
                                  
                                    <div class="row">
                                    <div class="col-lg-12">
