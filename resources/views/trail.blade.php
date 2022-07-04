@@ -613,7 +613,7 @@
        <div class="row">
             <div class="col-md-4">
                 <h5>Systematic Investment Plan(SIP)</h5>
-                <a href="/homeloan">
+                <a href="/sipcalculator">
                 <img src="https://mf.nipponindiaim.com/LearnAndInvest/calculators/assets/images/sip-an-inc.svg" style="height:300px;width:300px"/>
                 </a>
             </div>

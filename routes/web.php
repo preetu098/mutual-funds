@@ -42,6 +42,11 @@ Route::get('/bonds',function(){
     return view('bonds');
 });
 
+Route::get('/sipcalculator',function(){
+    return view('sipcalculator');
+});
+
+
 Route::get('/pms',function(){
     return view('pms');
 });
