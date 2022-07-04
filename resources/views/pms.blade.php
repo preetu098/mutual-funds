@@ -299,6 +299,103 @@ To enhance risk-adjusted performance, these products can use complex strategies 
          
         </div>
 </section>
+<section class="mt-5">
+    <div class="container"  style="background-color:white">
+        <div class="jumbotron">
+            <div class="container" style="background-color:white">
+            <div class="row">
+                <div class="col-lg-2">
+                    <p>Category</p>
+                </div>
+                <div class="col-lg-2">
+                            <!-- Default disabled -->
+                        <div class="custom-control custom-switch">
+                        <input type="checkbox" class="custom-control-input" id="customSwitch1" >
+                        <label class="custom-control-label" for="customSwitch1">All</label>
+                        </div>
+                </div>
+                <div class="col-lg-2">
+                         <div class="custom-control custom-switch">
+                        <input type="checkbox" class="custom-control-input" id="customSwitch2" >
+                        <label class="custom-control-label" for="customSwitch2"> Large Cap Oriented</label>
+                        </div>
+                </div>
+                <div class="col-lg-2">
+                         <div class="custom-control custom-switch">
+                        <input type="checkbox" class="custom-control-input" id="customSwitch3" >
+                        <label class="custom-control-label" for="customSwitch3">Mid & Small Cap Oriented</label>
+                        </div>
+                </div>
+                <div class="col-lg-2">
+                        <div class="custom-control custom-switch">
+                        <input type="checkbox" class="custom-control-input" id="customSwitch4" >
+                        <label class="custom-control-label" for="customSwitch4">Multi Cap Oriented</label>
+                        </div>
+                </div>
+                  <div class="col-lg-2">
+                         <div class="custom-control custom-switch">
+                        <input type="checkbox" class="custom-control-input" id="customSwitch5" >
+                        <label class="custom-control-label" for="customSwitch5">Small Cap </label>
+                        </div>
+                </div>
+            </div>
+            </div>
+            <div class="container mt-5" style="background-color:white">
+                    <div class="row">
+                        <div class="col-lg-12">
+        <strong>NOTE: Following data as on 31 May 2022</strong><br>
+        <strong>- All data is net of expenses, and is as TWRR guidelines.</strong><br>
+        <strong>-Data above 1Y is CAGR and upto 1Y is Absolute returns.</strong><br>
+        <strong>-Sage One and ITUS, data is since formal inception as advisory and not PMS.</strong>
+        <br> <br> 
+        <strong class="mt-5">COPYRIGHT:</strong><br>
+        <strong>Unless otherwise indicated, the site and the content is PMS AIF World’s (“us”) proprietary and all source code, databases, functionality, software, website design, videos, text, charts, graphics on the site (collectively, the “Content”) and the trademarks and logos contained therein (the “Marks”) are owned or controlled by us or licensed to us, and are protected by copyright and trademark laws and various intellectual property laws of India.</strong>
+                        </div>
+                    </div>
+            </div>
+        </div>
+
+
+        <div class="jumbotron">
+         
+            <table class="table" style="overflow:scroll" >
+                    <tr>
+                            <th>Product Name</th>
+                            <th>Category</th>
+                            <th>AUM</th>
+                            <th>1m<br>Return</th>
+                            <th>3m<br>Return</th>
+                            <th>6m<br>Return</th>
+                            <th>1Y<br>Return</th>
+                            <th>2Y<br>Return</th>
+                            <th>3Y<br>Return</th>
+                            <th>5Y<br>Return</th>
+                            <th>Since<br>Inception</th>
+                    </tr>
+                    <tr>
+                            <th>AccuraCap Alpha10</th>
+                            <th>Large Cap</th>
+                            <th>AUM</th>
+                            <th>1m<br>Return</th>
+                            <th>3m<br>Return</th>
+                            <th>6m<br>Return</th>
+                            <th>1Y<br>Return</th>
+                            <th>2Y<br>Return</th>
+                            <th>3Y<br>Return</th>
+                            <th>5Y<br>Return</th>
+                            <th>Since<br>Inception</th>
+                    </tr>
+            </table>
+         
+           
+        </div>
+
+
+    </div>
+</section>
+
+
+
      <!-- Start Faqs -->
      <section class="section-padding  doctors-team-style-2" style="padding: 44px 0px 22px 0px;height:500px">
         <div class="container">
