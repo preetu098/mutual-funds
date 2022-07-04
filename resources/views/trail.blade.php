@@ -98,10 +98,10 @@
             </section>
        
     <!-- Start Team Doctors -->
-    <section class="section-padding  doctors-team-style-2" style="    padding: 0px 0px 22px 0px;">
+    <section class="section-padding " style="padding: 0px 0px 22px 0px;">
         <div class="container">
             <div class="section-header">
-                <div class="section-heading " style="margin-top:50px">
+                <div class="section-heading " style="margin-top:10px">
                    <h3>Explore Mutual Funds</h3>
                 </div>
             </div>
@@ -646,7 +646,45 @@
                        <center> <h3 class="text-custom-black fw-700">Why Helious</h3></center>
                        <p>Helios Fintec has essentially designed multiple plans for corporates, investors and individuals to effectively invest in financial aid opportunities and get surplus returns. The said plans have covered all the necessary details and paperwork required to get the aforementioned loans, traditional investment, insurance, and more. Hence, Helios Fintec is the best option you can conveniently opt for.
 </p>
-                        <div class="about-list">
+
+<div class="row">
+    <div class="col-lg-3">
+        <div class="card" style="border-bottom-left-radius:60px;border-top-right-radius:60px;">
+        <center>
+       <p>Certified Advisor<p> 
+       <img src="https://cdn2.iconfinder.com/data/icons/digital-processing-16/100/storaging_digital_processing_color_technology_business_file-512.png" style="height:80px;width:80px"/>
+    </center>
+        </div>
+    </div> 
+    <div class="col-lg-3">
+       
+    <div class="card" style="border-bottom-left-radius:60px;border-top-right-radius:60px;">
+    <center>
+       <p>100 % Digital Procecss<p> 
+       <img src="https://cdn0.iconfinder.com/data/icons/researcher-business-1/100/psychology_researcher_color_digital_business_process_chemical-512.png" style="height:80px;width:80px"/>
+    </center>
+        </div>
+    </div>  
+    <div class="col-lg-3" >
+    <div class="card" style="border-bottom-left-radius:60px;border-top-right-radius:60px;">
+    <center>
+   <p> Most Trusted Dgital Wealth Management Firm</p>
+   <img src="https://www.pinclipart.com/picdir/big/98-985785_wealth-management-insurance-clipart.png" style="height:80px;width:80px"/>
+        </div>
+</center>
+    </div>  
+    <div class="col-lg-3" >
+    <div class="card" style="border-bottom-left-radius:60px;border-top-right-radius:60px;">
+              <center>
+          <p>Personalized Portfolio <br>Management</p>
+          <img src="https://pasfa.de/wp-content/uploads/2022/03/Financial-Advisory.png" style="height:80px;width:80px"/>
+</center>
+        </div>
+    </div>     
+</div>
+
+
+                        <!-- <div class="about-list">
                             <ul>
                                 <li class="text-light-white fs-14"><i class="fa fa-check"></i> Certified Advisor <img src="https://cdn2.iconfinder.com/data/icons/digital-processing-16/100/storaging_digital_processing_color_technology_business_file-512.png" style="height:80px;width:80px"/></li>
                                 <li class="text-light-white fs-14"><i class="fa fa-check"></i> 100 % Digital Procecss <img src="https://cdn0.iconfinder.com/data/icons/researcher-business-1/100/psychology_researcher_color_digital_business_process_chemical-512.png" style="height:80px;width:80px"/>
@@ -663,7 +701,7 @@ Financial Needs<img src="https://cdn-icons-png.flaticon.com/128/81/81752.png" st
 Modern Investor<img src="https://cdn-icons-png.flaticon.com/512/3789/3789988.png" style="height:80px;width:80px"/>
                                 </li>
                             </ul>
-                        </div>
+                        </div> -->
 
                     </div>
                 </div>
@@ -1352,22 +1390,6 @@ Modern Investor<img src="https://cdn-icons-png.flaticon.com/512/3789/3789988.png
             </div>
         </div>
     </footer>
-    <div class="copyright">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="payment-logo mb-md-20"> <span class="text-custom-white fs-14 mr-3">We are
-                            accept</span>
-                        
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <p class="text-custom-white no-margin">© Helois - 2020 | All Right Reserved. <a href=""
-                            target="_blank" class="text-custom-white"></a>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-
+   
+    @include('layout.mutualfundfooter')
     @include('layout.footer')

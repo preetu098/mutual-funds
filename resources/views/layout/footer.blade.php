@@ -1,5 +1,21 @@
 
 
+<div class="copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                   
+                </div>
+                <div class="col-lg-6">
+                    <p class="text-custom-white no-margin">© Helois - 2020 | All Right Reserved. <a href=""
+                            target="_blank" class="text-custom-white"></a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
 
 <!-- <script type="text/javascript" src="https://www.tatacapital.com/n7-base.min.js"></script> -->
 <script src="{{ asset('js/main.js') }}"></script>

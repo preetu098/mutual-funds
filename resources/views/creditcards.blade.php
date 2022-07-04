@@ -1287,23 +1287,7 @@ A credit card is a type of credit facility, provided by banks that allow custome
             </div>
         </div>
     </footer>
-    <div class="copyright">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6">
-                    <div class="payment-logo mb-md-20"> <span class="text-custom-white fs-14 mr-3">We are
-                            accept</span>
-                        
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <p class="text-custom-white no-margin">© Helois - 2020 | All Right Reserved. <a href=""
-                            target="_blank" class="text-custom-white"></a>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
+  
 </body>
 
 <script src="assets/vendor/purecounter/purecounter.js"></script>

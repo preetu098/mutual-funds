@@ -86,22 +86,8 @@ name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, m
         </a>
                                                    </div>
                                                 </li>
-                                                <li class="d-xs-none call-desktop">
-                                                   <div class="custom-dropdown">
-        <a href="" data-dropdown="dropdown">
-        <i class="fa fa-credit-card" aria-hidden="true"></i>
-        <span style="color:blue">Quick Pay</span>
-        </a>
-                                                   </div>
-                                                </li>
-                                                <li class="d-xs-none call-desktop">
-                                                   <div class="custom-dropdown">
-        <a href="" data-dropdown="dropdown">
-        <i class="fa fa-headphones" aria-hidden="true"></i>
-        <span style="color:blue">HeadPhone</span>
-        </a>
-                                                   </div>
-                                                </li>
+                                               
+                                             
                                                 <li class="d-xs-none call-desktop">
                                                    <div class="custom-dropdown">
         <select>
@@ -137,7 +123,7 @@ name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, m
                                               
                                                 <a href="/preipo">Pre IPO</a>
 
-                                            </li>
+                                            </li>   
                                             <li class="nav-item">
                                              
                                                 <a href="/pms">PMS & AIF</a>
