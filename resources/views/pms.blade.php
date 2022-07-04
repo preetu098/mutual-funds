@@ -375,15 +375,15 @@ To enhance risk-adjusted performance, these products can use complex strategies 
                     <tr>
                             <th>AccuraCap Alpha10</th>
                             <th>Large Cap</th>
-                            <th>AUM</th>
-                            <th>1m<br>Return</th>
-                            <th>3m<br>Return</th>
-                            <th>6m<br>Return</th>
-                            <th>1Y<br>Return</th>
-                            <th>2Y<br>Return</th>
-                            <th>3Y<br>Return</th>
-                            <th>5Y<br>Return</th>
-                            <th>Since<br>Inception</th>
+                            <th>481.99</th>
+                            <th>-3.9%</th>
+                            <th>-3.6%</th>
+                            <th>-3.4%</th>
+                            <th>2.6%</th>
+                            <th>20.2%</th>
+                            <th>10.7%</th>
+                            <th>10.3%</th>
+                            <th>13.9%</th>
                     </tr>
             </table>
          
