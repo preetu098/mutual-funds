@@ -1,4 +1,11 @@
 @include('layout.header')
+<style>
+  
+    .cardshow:hover 
+    {
+        opacity:0.7;
+    }
+    </style>
 
 <body class="page-opt-nocalc page basicpage">
     
@@ -637,7 +644,7 @@
     <!-- End section Process -->
     <!-- Start why choose us -->
 
-    <section class="section-padding about-us-sec bg-gray p-relative">
+    <section class="section-padding about-us-sec bg-warning p-relative">
 
         <div class="container">
             <div class="row">
@@ -649,7 +656,7 @@
 
 <div class="row">
     <div class="col-lg-3">
-        <div class="card" style="border-bottom-left-radius:60px;border-top-right-radius:60px;">
+        <div class="card" style="border-bottom-left-radius:40px;border-top-right-radius:20px;height:200px;">
         <center>
        <p>Certified Advisor<p> 
        <img src="https://cdn2.iconfinder.com/data/icons/digital-processing-16/100/storaging_digital_processing_color_technology_business_file-512.png" style="height:80px;width:80px"/>
@@ -658,7 +665,7 @@
     </div> 
     <div class="col-lg-3">
        
-    <div class="card" style="border-bottom-left-radius:60px;border-top-right-radius:60px;">
+    <div class="card" style="border-bottom-left-radius:40px;border-top-right-radius:20px;height:200px;">
     <center>
        <p>100 % Digital Procecss<p> 
        <img src="https://cdn0.iconfinder.com/data/icons/researcher-business-1/100/psychology_researcher_color_digital_business_process_chemical-512.png" style="height:80px;width:80px"/>
@@ -666,7 +673,7 @@
         </div>
     </div>  
     <div class="col-lg-3" >
-    <div class="card" style="border-bottom-left-radius:60px;border-top-right-radius:60px;">
+    <div class="card cardshow" style="border-bottom-left-radius:40px;border-top-right-radius:20px;height:200px;">
     <center>
    <p> Most Trusted Dgital Wealth Management Firm</p>
    <img src="https://www.pinclipart.com/picdir/big/98-985785_wealth-management-insurance-clipart.png" style="height:80px;width:80px"/>
@@ -674,13 +681,43 @@
 </center>
     </div>  
     <div class="col-lg-3" >
-    <div class="card" style="border-bottom-left-radius:60px;border-top-right-radius:60px;">
+    <div class="card" style="border-bottom-left-radius:40px;border-top-right-radius:20px;height:200px;">
               <center>
           <p>Personalized Portfolio <br>Management</p>
           <img src="https://pasfa.de/wp-content/uploads/2022/03/Financial-Advisory.png" style="height:80px;width:80px"/>
 </center>
         </div>
     </div>     
+</div>
+<div class="row mt-5">
+    <div class="col-lg-3">
+        <div class="card" style="border-bottom-left-radius:40px;border-top-right-radius:20px;height:200px;">
+        <center>
+       <p>Best-In-Class Research<p> 
+       <img src="https://contensis.uwaterloo.ca/sites/open/courses/FEFOCHE/media/images/unit2-icon-Cropped-180x180.png" style="height:80px;width:80px"/>
+    </center>
+        </div>
+    </div> 
+    <div class="col-lg-3">
+       
+    <div class="card" style="border-bottom-left-radius:40px;border-top-right-radius:20px;height:200px;">
+    <center>
+       <p>One Platform For All Your
+Financial Needs<p> 
+<img src="https://cdn-icons-png.flaticon.com/128/81/81752.png" style="height:80px;width:80px"/>
+    </center>
+        </div>
+    </div>  
+    <div class="col-lg-3" >
+    <div class="card" style="border-bottom-left-radius:40px;border-top-right-radius:20px;height:200px;">
+    <center>
+   <p>Innovative Tools For The
+Modern Investor</p>
+<img src="https://cdn-icons-png.flaticon.com/512/3789/3789988.png" style="height:80px;width:80px"/>
+        </div>
+</center>
+    </div>  
+     
 </div>
 
 
