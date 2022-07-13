@@ -59,6 +59,10 @@ Route::get('/homeloan',function(){
     return view('homeloan');
 });
 
+Route::get('/verifypart2',function(){
+    return view('verifypart2');
+});
+
 Route::get('/businessloan',function(){
     return view('businessloan');
 });
