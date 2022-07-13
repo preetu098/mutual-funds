@@ -46,6 +46,10 @@ Route::get('/sipcalculator',function(){
     return view('sipcalculator');
 });
 
+Route::get('/login',function(){
+    return view('login');
+});
+
 
 Route::get('/pms',function(){
     return view('pms');
