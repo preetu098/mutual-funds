@@ -57,31 +57,31 @@ name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, m
   "ng-reflect-ng-if": "false"
 }--><div class="qsignin-form">
    
-
+<h4 style="color:black">Enter your PAN to start investing</h4>
 <form autocomplete="off" novalidate="" class="ng-invalid ng-dirty ng-touched" siq_id="autopick_5958">
     <div class="form-group validate-height">
-        <label for="email">Name</label>
-        <input class="form-control" id="name" name="text"  required="" placeholder="enter name"> 
+        <label for="email">PAN</label>
+        <input class="form-control" id="name" name="text"  required="" placeholder="BUNPBXXXXA"> 
         
     </div>
     
     
-    <div class="form-group "><label for="pwd">Maident Name</label>
+    <div class="form-group "><label for="pwd">Date of Birth (as per your PAN)</label>
     
-    <input class="form-control" id="name" name="text"  required="" placeholder="enter miden name"> 
+    <input class="form-control" id="name" name="text"  required="" placeholder="DD/MM/YYYY"> 
 </div>  
-<div class="form-group "><label for="pwd">Father Name</label>
-    
-    <input class="form-control" id="name" name="text"  required="" placeholder="enter father name"> 
+<div class="form-group "><label for="pwd">Account Type</label>
+    <select class="form-control">
+        <option>Resident Indian</option>
+        <option>Non-Resident Indian</option>
+        <option>Corporate/HUF</option>
+    </select>
+    <!-- <input class="form-control" id="name" name="text"  required="" placeholder="enter father name">  -->
 </div>  
    
+</div><div class="signin-mobile-button text-center"><button class="btn btn-primary btn-qsignin" type="submit" style="width:100%">Process</button></div></form></div></div></div>
+  </div>
   
-<div class="forgot-password"><span>Forgot Password?</span></div></div><div class="signin-mobile-button text-center"><button class="btn btn-primary btn-qsignin" type="submit">Sign In</button></div><div class="v-keyboard-block"><div class="v-keyboard-toggle"><div class="v-keyboard-toggle-text"><div class="d-inline-block"><img class="v-keyboard-switch" src="https://quickregcdn.fundsindia.com/assets/keyboard-off.svg"></div></div></div></div></form></div></div><div class="col-md-2 col-lg-3 pl-0 pr-0 mpl-10 mpr-10"><!--bindings={
-"ng-reflect-ng-if": ""
-}--></div></div>
-  </div>
-  </div>
-    </div>
-    </div>
+    
 </body>
 </html>
