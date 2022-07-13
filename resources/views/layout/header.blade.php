@@ -71,12 +71,70 @@ name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, m
                                             <!-- 14/04/2021 -->
                                             <ul>
                                             <li class="d-xs-none call-desktop">
-                                                   <div class="custom-dropdown">
-        <a href="" data-dropdown="dropdown">
-        <i class="fa fa-user" aria-hidden="true"></i>
-        <span style="color:blue">Login</span>
-        </a>
-                                                   </div>
+                                              
+                                            <div class="new-notification-bell custom-dropdown dropdown">
+                                                <a href="javascript:void(0)" class="btn-bells"
+                                                    data-dropdown="dropdown">
+                                                    <img class="lozad" data-src="https://www.freeiconspng.com/thumbs/login-icon/black-login-icon--0.png"
+                                                        alt="">
+                                                 
+                                                </a>
+                                                <div class="custom-dropdown-container dropdown-open-menu">
+                                                    <div class="notification-bell-box">
+                                                        <div class="notification-bell-top">
+                                                            <h6>Login Form</h6>
+                                                            <a href="javascript:void(0)" class="bell-dropdown-close"
+                                                                data-dropdownclose="close"><span
+                                                                    class="icon-close"></span></a>
+                                                        </div>
+                                                        <div class="notification-bell-bottom">
+                                                            <div class="site-bell-dropdown">
+                                                                <ul
+                                                                    class="notification-bell-list notification-bell-icons">
+                                                                    <li>
+
+                                                                    <div class="row">
+              
+              <div class="col-md-12">
+              <div class="row"><div class="col-md-12 col-lg-12"><!--bindings={
+"ng-reflect-ng-if": "false"
+}--></div><div class="col-md-12 col-lg-12 mpl-0 mpr-0"><div class="logo-without-back"><menu-header _nghost-gsv-c11="" class="ng-tns-c11-0 ng-trigger ng-trigger-fadeInAnimation"><div _ngcontent-gsv-c11="" class=""><header _ngcontent-gsv-c11="" class="ng-tns-c11-0"><div _ngcontent-gsv-c11="" class="row mr-0 ml-0"><div _ngcontent-gsv-c11="" class="col-md-12 fi-logo-div"><div _ngcontent-gsv-c11="" class="logout-menu d-inline-flex align-items-center float-right"><span _ngcontent-gsv-c11="" class="ng-tns-c11-0"><!--bindings={
+"ng-reflect-ng-if": "false"
+}--></span></div><div _ngcontent-gsv-c11="" class="d-none"><input _ngcontent-gsv-c11="" class="form-control" type="text"></div></div></div></header></div></menu-header></div><!--bindings={
+"ng-reflect-ng-if": "false"
+}--><div class="qsignin-form">
+  
+<form autocomplete="off" novalidate="" class="" siq_id="autopick_5958">
+  <div class="form-group validate-height">
+      <label for="email">Email Id</label>
+      <input class="form-control ng-untouched ng-pristine ng-invalid" id="email" name="email" pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,3}$" required="" type="email" ng-reflect-required="" ng-reflect-pattern="[A-Za-z0-9._%+-]+@[A-Za-z0-9.-" ng-reflect-name="email">
+      
+  </div>
+  
+  
+  <div class="form-group validate-height"><label for="pwd">Password</label>
+  
+  <input class="form-control ng-star-inserted ng-dirty ng-valid ng-touched" maxlength="16" minlength="8" name="pwd" required="" ng-reflect-required="" ng-reflect-minlength="8" ng-reflect-maxlength="16" ng-reflect-name="pwd" ng-reflect-model="24091993" type="password">
+  
+  
+<div class="forgot-password"><span>Forgot Password?</span></div></div><div class="signin-mobile-button text-center"><button class="btn btn-primary btn-qsignin" type="submit">Sign In</button></div><div class="v-keyboard-block"><div class="v-keyboard-toggle"><div class="v-keyboard-toggle-text"><div class="d-inline-block"><img class="v-keyboard-switch" src="https://quickregcdn.fundsindia.com/assets/keyboard-off.svg"></div></div></div></div></form></div></div><div class="col-md-2 col-lg-3 pl-0 pr-0 mpl-10 mpr-10"><!--bindings={
+"ng-reflect-ng-if": ""
+}--></div></div>
+  </div>
+  </div>
+                                                                    </li>
+
+                                                               
+
+
+
+                                                                </ul>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
                                                 </li>
                                                 <li class="d-xs-none call-desktop">
                                                    <div class="custom-dropdown dropdown google-dropdown">

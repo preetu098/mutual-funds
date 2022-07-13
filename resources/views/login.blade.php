@@ -38,6 +38,50 @@ name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, m
     <link href="assets1/font/flaticon.css" rel="stylesheet">
 </head>
 <body>
-      <h2>Welcome in Login Page</h2>
+     <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                                    
+
+                </div>
+                <div class="col-md-12">
+                <div class="row"><div class="col-md-2 col-lg-3"><!--bindings={
+  "ng-reflect-ng-if": "false"
+}--></div><div class="col-md-8 col-lg-6 mpl-0 mpr-0"><div class="logo-without-back"><menu-header _nghost-gsv-c11="" class="ng-tns-c11-0 ng-trigger ng-trigger-fadeInAnimation"><div _ngcontent-gsv-c11="" class=""><header _ngcontent-gsv-c11="" class="ng-tns-c11-0"><div _ngcontent-gsv-c11="" class="row mr-0 ml-0"><div _ngcontent-gsv-c11="" class="col-md-12 fi-logo-div"><div _ngcontent-gsv-c11="" class="d-inline-block"><img _ngcontent-gsv-c11="" class="fi-logo" src="images/logoset.jpeg" style="width:200px"></div><div _ngcontent-gsv-c11="" class="logout-menu d-inline-flex align-items-center float-right"><span _ngcontent-gsv-c11="" class="cursor"><!--bindings={
+  "ng-reflect-ng-if": "false"
+}--></span><!--bindings={
+  "ng-reflect-ng-if": "false"
+}--><!--bindings={}--><span _ngcontent-gsv-c11="" class="ng-tns-c11-0"><!--bindings={
+  "ng-reflect-ng-if": "false"
+}--></span></div><div _ngcontent-gsv-c11="" class="d-none"><input _ngcontent-gsv-c11="" class="form-control" type="text"></div></div></div></header></div></menu-header></div><!--bindings={
+  "ng-reflect-ng-if": "false"
+}--><div class="qsignin-form">
+   
+
+<form autocomplete="off" novalidate="" class="ng-invalid ng-dirty ng-touched" siq_id="autopick_5958">
+    <div class="form-group validate-height">
+        <label for="email">Name</label>
+        <input class="form-control" id="name" name="text"  required="" placeholder="enter name"> 
+        
+    </div>
+    
+    
+    <div class="form-group "><label for="pwd">Maident Name</label>
+    
+    <input class="form-control" id="name" name="text"  required="" placeholder="enter miden name"> 
+</div>  
+<div class="form-group "><label for="pwd">Father Name</label>
+    
+    <input class="form-control" id="name" name="text"  required="" placeholder="enter father name"> 
+</div>  
+   
+  
+<div class="forgot-password"><span>Forgot Password?</span></div></div><div class="signin-mobile-button text-center"><button class="btn btn-primary btn-qsignin" type="submit">Sign In</button></div><div class="v-keyboard-block"><div class="v-keyboard-toggle"><div class="v-keyboard-toggle-text"><div class="d-inline-block"><img class="v-keyboard-switch" src="https://quickregcdn.fundsindia.com/assets/keyboard-off.svg"></div></div></div></div></form></div></div><div class="col-md-2 col-lg-3 pl-0 pr-0 mpl-10 mpr-10"><!--bindings={
+"ng-reflect-ng-if": ""
+}--></div></div>
+  </div>
+  </div>
+    </div>
+    </div>
 </body>
 </html>
