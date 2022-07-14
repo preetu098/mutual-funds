@@ -67,6 +67,9 @@ Route::get('/verifypart3',function(){
     return view('verifypart3');
 });
 
+Route::get('/terminsurance',function(){
+    return view('terminsurance')
+})
 
 Route::get('/businessloan',function(){
     return view('businessloan');
