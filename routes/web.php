@@ -68,8 +68,8 @@ Route::get('/verifypart3',function(){
 });
 
 Route::get('/terminsurance',function(){
-    return view('terminsurance')
-})
+    return view('terminsurance');
+});
 
 Route::get('/businessloan',function(){
     return view('businessloan');
