@@ -12,5 +12,4 @@ sqsqsqw
     </div>
 
    
-@include('layout.mutualfundfooter')
-@include('layout.footer')
+
