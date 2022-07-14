@@ -63,6 +63,11 @@ Route::get('/verifypart2',function(){
     return view('verifypart2');
 });
 
+Route::get('/verifypart3',function(){
+    return view('verifypart3');
+});
+
+
 Route::get('/businessloan',function(){
     return view('businessloan');
 });

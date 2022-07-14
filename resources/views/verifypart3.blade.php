@@ -52,54 +52,49 @@ name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, m
   "ng-reflect-ng-if": "false"
 }--><div class="qsignin-form">
    
-<h4 style="color:black">Enter your Personal Details</h4>
+<h4 style="color:black">Address Details</h4>
 <form autocomplete="off" novalidate="" class="ng-invalid ng-dirty ng-touched" siq_id="autopick_5958">
     <div class="form-group validate-height">
-        <label for="gender">Gender</label>
-        <select class="form-control">
-        <option>Male</option>
-        <option>Female</option>
-      
-    </select> 
+        <label for="address">Address</label>
+        <input class="form-control"type="text" id="income" name="address"  required="" placeholder="enter your address"> 
     </div>
     
     
-    <div class="form-group "><label for="pwd">Marital Status</label>
-    
-    <select class="form-control">
-        <option>Single</option>
-        <option>Married</option>
+    <div class="form-group "><label for="pwd">State</label>
+    <input class="form-control"type="text" id="income" name="state"  required="" placeholder="enter state name"> 
    
-    </select>
 </div>  
-<div class="form-group "><label for="pwd">Annual Income</label>
+<div class="form-group "><label for="pwd">City</label>
   
     
-    <input class="form-control"type="number" id="income" name="income"  required="" placeholder="enter Annual Income"> 
+    <input class="form-control"type="text" id="income" name="income"  required="" placeholder="enter city name"> 
 </div>  
-<div class="form-group "><label for="pwd">Father Name</label>
+<div class="form-group "><label for="pwd">PinCode</label>
   
     
-  <input class="form-control"type="number" id="income" name="income"  required="" placeholder="enter Father Name"> 
+  <input class="form-control"type="number" id="income" name="income"  required="" placeholder="enter pincode"> 
 </div> 
-<div class="form-group "><label for="pwd">Mother Name</label>
+<h4 style="color:black">Overseas Address Details</h4>
+<div class="form-group validate-height">
+        <label for="address">Address</label>
+        <input class="form-control"type="text" id="income" name="address"  required="" placeholder="enter your address"> 
+    </div>
+    
+    
+    <div class="form-group "><label for="pwd">State</label>
+    <input class="form-control"type="text" id="income" name="state"  required="" placeholder="enter state name"> 
+   
+</div>  
+<div class="form-group "><label for="pwd">City</label>
   
     
-  <input class="form-control"type="number" id="income" name="income"  required="" placeholder="enter Mother Name"> 
-</div>
-
-<div class="form-group "><label for="pwd">Nationality</label>
+    <input class="form-control"type="text" id="income" name="income"  required="" placeholder="enter city name"> 
+</div>  
+<div class="form-group "><label for="pwd">PinCode</label>
   
     
-  <input class="form-control"type="text" id="income" name="nationality"  required="" placeholder="enter Nationality"> 
+  <input class="form-control"type="number" id="income" name="income"  required="" placeholder="enter pincode"> 
 </div> 
-
-<div class="form-group "><label for="pwd">Country Of Birth</label>
-  
-    
-  <input class="form-control"type="text" id="income" name="country"  required="" placeholder="enter Country Name"> 
-</div> 
-
 <div class="signin-mobile-button text-center"><button class="btn btn-primary btn-qsignin" type="submit" style="width:100%">Process</button></div></form></div></div></div>
   </div>
   <div class="container mt-5">
